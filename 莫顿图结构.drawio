@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-22T06:57:36.705Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="ipEDVPXMG-k7Klt7XstY" version="14.8.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-22T06:57:57.563Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="4eVQ5njPO6M_0eSinG2h" version="14.8.3" type="github">
   <diagram id="O_N3rhyj0WLz9bwSHQwM" name="第 1 页">
     <mxGraphModel dx="1186" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -10,7 +10,7 @@
         <mxCell id="w0d6XjT22ekM8RjFEpZN-2" value="学生端" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="90" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="w0d6XjT22ekM8RjFEpZN-4" value="redis" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="w0d6XjT22ekM8RjFEpZN-4" value="redis/mysql" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="420" y="430" width="330" height="60" as="geometry" />
         </mxCell>
         <mxCell id="w0d6XjT22ekM8RjFEpZN-5" value="kafka" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
