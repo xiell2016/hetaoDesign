@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-10T04:11:26.566Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="itFF01ctgXYRmxXSjPeV" version="15.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-10T06:19:08.736Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="PHDmrdRhkQP0k1neDZR_" version="15.5.1" type="github">
   <diagram id="CPldnaTWNwZqRLptqHsK" name="第 1 页">
     <mxGraphModel dx="1026" dy="1715" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -230,6 +230,18 @@
         </mxCell>
         <mxCell id="MIMXc2lb5FOJjjIKVt4J-76" value="&lt;div style=&quot;resize: none ; outline: none ; font-size: 13px ; color: rgb(50 , 50 , 50) ; background-color: rgba(255 , 255 , 255 , 0.008)&quot;&gt;是新用户&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="595" y="1360" width="130" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="MIMXc2lb5FOJjjIKVt4J-85" value="&lt;font color=&quot;#323232&quot;&gt;&lt;span style=&quot;font-size: 13px ; background-color: rgba(255 , 255 , 255 , 0.008)&quot;&gt;获取新userId&lt;br&gt;(http)&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;arcSize=14;" vertex="1" parent="1">
+          <mxGeometry x="600" y="1490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MIMXc2lb5FOJjjIKVt4J-86" value="同步昵称头像(http)" style="whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;arcSize=14;" vertex="1" parent="1">
+          <mxGeometry x="600" y="1580" width="70" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MIMXc2lb5FOJjjIKVt4J-88" value="入user_auth表(mysql)" style="whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;arcSize=14;" vertex="1" parent="1">
+          <mxGeometry x="530" y="1580" width="70" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MIMXc2lb5FOJjjIKVt4J-89" value="入user_auth表(mysql)同步昵称头像(http)" style="whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;arcSize=14;" vertex="1" parent="1">
+          <mxGeometry x="670" y="1580" width="70" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
