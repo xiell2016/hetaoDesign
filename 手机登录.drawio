@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-10T10:52:55.110Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="C4GvEG7pKi_AqBiyEwk7" version="15.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-10T10:53:24.008Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="kDKukmkSEBMYeElWcKML" version="15.5.1" type="github">
   <diagram id="hTf-l8JFEeuLh_gnLOyl" name="第 1 页">
     <mxGraphModel dx="1026" dy="546" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -254,8 +254,15 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yElT8xCbcD650BWO1DYu-85" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#143642;strokeColor=#A8201A;fillColor=#FAE5C7;" edge="1" parent="1" source="yElT8xCbcD650BWO1DYu-79" target="yElT8xCbcD650BWO1DYu-81">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="yElT8xCbcD650BWO1DYu-85" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;fontColor=#143642;strokeColor=#A8201A;fillColor=#FAE5C7;" edge="1" parent="1" source="yElT8xCbcD650BWO1DYu-79">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="924" y="1690" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1090" y="1430" />
+              <mxPoint x="1090" y="1670" />
+              <mxPoint x="924" y="1670" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="yElT8xCbcD650BWO1DYu-86" value="绑定同一用户" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#143642;" vertex="1" connectable="0" parent="yElT8xCbcD650BWO1DYu-85">
           <mxGeometry x="0.5169" y="-2" relative="1" as="geometry">
@@ -277,19 +284,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yElT8xCbcD650BWO1DYu-80" value="微信绑定用户id改成手机用户id" style="whiteSpace=wrap;html=1;rounded=1;fontColor=#143642;strokeWidth=2;fillColor=#FFFFFF;arcSize=14;sketch=0;" vertex="1" parent="1">
-          <mxGeometry x="864" y="1500" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="yElT8xCbcD650BWO1DYu-92" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#143642;strokeColor=#A8201A;fillColor=#FAE5C7;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="yElT8xCbcD650BWO1DYu-81" target="yElT8xCbcD650BWO1DYu-99">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1130" y="1770" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="1087" y="1670" />
-              <mxPoint x="924" y="1670" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="yElT8xCbcD650BWO1DYu-81" value="已绑定" style="whiteSpace=wrap;html=1;rounded=1;fontColor=#143642;strokeWidth=2;fillColor=#FFFFFF;arcSize=14;sketch=0;" vertex="1" parent="1">
-          <mxGeometry x="1027" y="1490" width="120" height="60" as="geometry" />
+          <mxGeometry x="864" y="1520" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yElT8xCbcD650BWO1DYu-101" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontColor=#143642;strokeColor=#A8201A;fillColor=#FAE5C7;" edge="1" parent="1" source="yElT8xCbcD650BWO1DYu-97" target="yElT8xCbcD650BWO1DYu-99">
           <mxGeometry relative="1" as="geometry" />
