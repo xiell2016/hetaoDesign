@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-10T06:47:17.752Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="F_z3CLlr2_Xc-tOQjg5w" version="15.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-10T06:50:32.150Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="iYYZCJmeEZlaelp64tvy" version="15.5.1" type="github">
   <diagram id="CPldnaTWNwZqRLptqHsK" name="第 1 页">
     <mxGraphModel dx="1026" dy="1715" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -290,13 +290,13 @@
           <mxGeometry x="800" y="1460" width="70" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MIMXc2lb5FOJjjIKVt4J-110" value="结束" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="610" y="1950" width="100" height="60" as="geometry" />
+          <mxGeometry x="610" y="2120" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="MIMXc2lb5FOJjjIKVt4J-117" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="MIMXc2lb5FOJjjIKVt4J-111" target="MIMXc2lb5FOJjjIKVt4J-110">
+        <mxCell id="MIMXc2lb5FOJjjIKVt4J-119" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MIMXc2lb5FOJjjIKVt4J-111" target="MIMXc2lb5FOJjjIKVt4J-118">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MIMXc2lb5FOJjjIKVt4J-111" value="&lt;font color=&quot;#323232&quot;&gt;&lt;span style=&quot;font-size: 13px ; background-color: rgba(255 , 255 , 255 , 0.008)&quot;&gt;unionid解锁&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;arcSize=14;" vertex="1" parent="1">
-          <mxGeometry x="600" y="1860" width="120" height="60" as="geometry" />
+          <mxGeometry x="600" y="1860" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="MIMXc2lb5FOJjjIKVt4J-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="MIMXc2lb5FOJjjIKVt4J-114" target="MIMXc2lb5FOJjjIKVt4J-111">
           <mxGeometry relative="1" as="geometry" />
@@ -306,6 +306,18 @@
         </mxCell>
         <mxCell id="MIMXc2lb5FOJjjIKVt4J-115" value="同步昵称头像(http)&lt;font color=&quot;#323232&quot;&gt;&lt;span style=&quot;font-size: 13px ; background-color: rgba(255 , 255 , 255 , 0.008)&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;arcSize=14;" vertex="1" parent="1">
           <mxGeometry x="600" y="1680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MIMXc2lb5FOJjjIKVt4J-122" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MIMXc2lb5FOJjjIKVt4J-118" target="MIMXc2lb5FOJjjIKVt4J-121">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MIMXc2lb5FOJjjIKVt4J-118" value="&lt;font color=&quot;#323232&quot;&gt;&lt;span style=&quot;font-size: 13px ; background-color: rgba(255 , 255 , 255 , 0.008)&quot;&gt;如果是新用户，埋点&lt;br&gt;(mq)&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;arcSize=14;" vertex="1" parent="1">
+          <mxGeometry x="600" y="1940" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MIMXc2lb5FOJjjIKVt4J-123" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MIMXc2lb5FOJjjIKVt4J-121" target="MIMXc2lb5FOJjjIKVt4J-110">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MIMXc2lb5FOJjjIKVt4J-121" value="&lt;font color=&quot;#323232&quot;&gt;&lt;span style=&quot;font-size: 13px ; background-color: rgba(255 , 255 , 255 , 0.008)&quot;&gt;二维码key和userid绑定缓存(redis)&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;arcSize=14;" vertex="1" parent="1">
+          <mxGeometry x="600" y="2030" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
