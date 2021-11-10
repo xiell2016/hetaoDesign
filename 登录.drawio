@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-10T03:26:18.075Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="3wirLpKesQJSLmVR-bWI" version="15.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-10T03:26:35.158Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="p36owhZpdzDgJK8mxlQZ" version="15.5.1" type="github">
   <diagram id="CPldnaTWNwZqRLptqHsK" name="第 1 页">
     <mxGraphModel dx="1026" dy="1715" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -75,6 +75,9 @@
         <mxCell id="MIMXc2lb5FOJjjIKVt4J-23" value="&lt;span style=&quot;color: rgb(50 , 50 , 50) ; font-size: 13px ; background-color: rgba(255 , 255 , 255 , 0.008)&quot;&gt;参数解析&lt;/span&gt;&lt;div style=&quot;resize: none ; outline: none ; font-size: 13px ; color: rgb(50 , 50 , 50) ; background-color: rgba(255 , 255 , 255 , 0.008)&quot;&gt;得到二维码key&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;arcSize=14;" vertex="1" parent="1">
           <mxGeometry x="917" y="450" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="MIMXc2lb5FOJjjIKVt4J-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="MIMXc2lb5FOJjjIKVt4J-24" target="MIMXc2lb5FOJjjIKVt4J-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="MIMXc2lb5FOJjjIKVt4J-24" value="&lt;span style=&quot;color: rgb(50 , 50 , 50) ; font-size: 13px ; background-color: rgba(255 , 255 , 255 , 0.008)&quot;&gt;微信二维码扫描&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;arcSize=14;" vertex="1" parent="1">
           <mxGeometry x="435" width="120" height="60" as="geometry" />
         </mxCell>
@@ -86,6 +89,9 @@
         </mxCell>
         <mxCell id="MIMXc2lb5FOJjjIKVt4J-26" value="&lt;span style=&quot;color: rgb(50 , 50 , 50) ; font-size: 13px ; background-color: rgba(255 , 255 , 255 , 0.008)&quot;&gt;已关注参数解析&lt;/span&gt;&lt;div style=&quot;resize: none ; outline: none ; font-size: 13px ; color: rgb(50 , 50 , 50) ; background-color: rgba(255 , 255 , 255 , 0.008)&quot;&gt;openId/unionId&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;arcSize=14;" vertex="1" parent="1">
           <mxGeometry x="480" y="750" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MIMXc2lb5FOJjjIKVt4J-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="MIMXc2lb5FOJjjIKVt4J-28" target="MIMXc2lb5FOJjjIKVt4J-36">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MIMXc2lb5FOJjjIKVt4J-28" value="消息解析" style="whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;arcSize=14;" vertex="1" parent="1">
           <mxGeometry x="590" y="460" width="120" height="60" as="geometry" />
@@ -145,7 +151,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MIMXc2lb5FOJjjIKVt4J-39" value="&lt;span style=&quot;color: rgb(50 , 50 , 50) ; font-size: 13px ; background-color: rgba(255 , 255 , 255 , 0.008)&quot;&gt;api-wx-callback&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;arcSize=14;" vertex="1" parent="1">
-          <mxGeometry x="430" y="130" width="120" height="60" as="geometry" />
+          <mxGeometry x="435" y="130" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MIMXc2lb5FOJjjIKVt4J-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="MIMXc2lb5FOJjjIKVt4J-40" target="MIMXc2lb5FOJjjIKVt4J-12">
           <mxGeometry relative="1" as="geometry" />
