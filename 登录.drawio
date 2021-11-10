@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-10T06:50:32.150Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="iYYZCJmeEZlaelp64tvy" version="15.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-10T06:53:01.005Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="l62XEkm7doDLht9leh3p" version="15.5.1" type="github">
   <diagram id="CPldnaTWNwZqRLptqHsK" name="第 1 页">
     <mxGraphModel dx="1026" dy="1715" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -159,7 +159,7 @@
         <mxCell id="MIMXc2lb5FOJjjIKVt4J-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="MIMXc2lb5FOJjjIKVt4J-40" target="MIMXc2lb5FOJjjIKVt4J-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="MIMXc2lb5FOJjjIKVt4J-40" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.sequential_data;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="MIMXc2lb5FOJjjIKVt4J-40" value="二维码扫码mq" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.sequential_data;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="615" y="125" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="MIMXc2lb5FOJjjIKVt4J-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MIMXc2lb5FOJjjIKVt4J-54" target="MIMXc2lb5FOJjjIKVt4J-57">
