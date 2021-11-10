@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-10T04:06:58.175Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="GsQ55VN8zdokN2RR5uLc" version="15.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-10T04:11:02.331Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="11Lc4x5YA1cnbKDisorw" version="15.5.1" type="github">
   <diagram id="CPldnaTWNwZqRLptqHsK" name="第 1 页">
     <mxGraphModel dx="1026" dy="1715" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -177,17 +177,59 @@
         <mxCell id="MIMXc2lb5FOJjjIKVt4J-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="MIMXc2lb5FOJjjIKVt4J-66" target="MIMXc2lb5FOJjjIKVt4J-69">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="MIMXc2lb5FOJjjIKVt4J-80" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="MIMXc2lb5FOJjjIKVt4J-73">
+          <mxGeometry x="-0.3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MIMXc2lb5FOJjjIKVt4J-82" value="是&lt;br&gt;新用户" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="MIMXc2lb5FOJjjIKVt4J-66" target="MIMXc2lb5FOJjjIKVt4J-76">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="470" y="1080" />
+              <mxPoint x="470" y="1410" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="MIMXc2lb5FOJjjIKVt4J-66" value="&lt;div style=&quot;resize: none ; outline: none ; font-size: 13px ; color: rgb(50 , 50 , 50) ; background-color: rgba(255 , 255 , 255 , 0.008)&quot;&gt;unionid验证&lt;/div&gt;&lt;div style=&quot;resize: none ; outline: none ; font-size: 13px ; color: rgb(50 , 50 , 50) ; background-color: rgba(255 , 255 , 255 , 0.008)&quot;&gt;是否已注册&lt;/div&gt;&lt;div style=&quot;resize: none ; outline: none ; font-size: 13px ; color: rgb(50 , 50 , 50) ; background-color: rgba(255 , 255 , 255 , 0.008)&quot;&gt;(user_auth主从)&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="595" y="1030" width="130" height="100" as="geometry" />
         </mxCell>
         <mxCell id="MIMXc2lb5FOJjjIKVt4J-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MIMXc2lb5FOJjjIKVt4J-69" target="MIMXc2lb5FOJjjIKVt4J-71">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="MIMXc2lb5FOJjjIKVt4J-81" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="MIMXc2lb5FOJjjIKVt4J-74">
+          <mxGeometry x="-0.5" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MIMXc2lb5FOJjjIKVt4J-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="MIMXc2lb5FOJjjIKVt4J-69" target="MIMXc2lb5FOJjjIKVt4J-76">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="530" y="1200" />
+              <mxPoint x="530" y="1410" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MIMXc2lb5FOJjjIKVt4J-84" value="否&lt;br&gt;新用户" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="MIMXc2lb5FOJjjIKVt4J-83">
+          <mxGeometry x="-0.2765" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="MIMXc2lb5FOJjjIKVt4J-69" value="&lt;div style=&quot;resize: none ; outline: none ; font-size: 13px ; color: rgb(50 , 50 , 50) ; background-color: rgba(255 , 255 , 255 , 0.008)&quot;&gt;openid验证&lt;/div&gt;&lt;div style=&quot;resize: none ; outline: none ; font-size: 13px ; color: rgb(50 , 50 , 50) ; background-color: rgba(255 , 255 , 255 , 0.008)&quot;&gt;是否已注册&lt;/div&gt;&lt;div style=&quot;resize: none ; outline: none ; font-size: 13px ; color: rgb(50 , 50 , 50) ; background-color: rgba(255 , 255 , 255 , 0.008)&quot;&gt;(user_openid)&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="595" y="1150" width="130" height="100" as="geometry" />
         </mxCell>
+        <mxCell id="MIMXc2lb5FOJjjIKVt4J-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="MIMXc2lb5FOJjjIKVt4J-71" target="MIMXc2lb5FOJjjIKVt4J-76">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MIMXc2lb5FOJjjIKVt4J-79" value="老用户" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="MIMXc2lb5FOJjjIKVt4J-77">
+          <mxGeometry x="-0.0667" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="MIMXc2lb5FOJjjIKVt4J-71" value="&lt;font color=&quot;#323232&quot;&gt;&lt;span style=&quot;font-size: 13px ; background-color: rgba(255 , 255 , 255 , 0.008)&quot;&gt;微信信息入user表&lt;br&gt;unionId回写user_auth表&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;arcSize=14;" vertex="1" parent="1">
           <mxGeometry x="600" y="1270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MIMXc2lb5FOJjjIKVt4J-76" value="&lt;div style=&quot;resize: none ; outline: none ; font-size: 13px ; color: rgb(50 , 50 , 50) ; background-color: rgba(255 , 255 , 255 , 0.008)&quot;&gt;是新用户&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="595" y="1360" width="130" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
