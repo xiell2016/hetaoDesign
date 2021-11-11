@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-10T11:58:50.029Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="OgFoL86HRN0fgPRSx1Er" version="15.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-11T03:42:01.978Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="BuU6mSjGJZUldXW_r3qp" version="15.5.1" type="github">
   <diagram id="hTf-l8JFEeuLh_gnLOyl" name="第 1 页">
     <mxGraphModel dx="1026" dy="489" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -89,7 +89,7 @@
         <mxCell id="yElT8xCbcD650BWO1DYu-28" value="&lt;span style=&quot;color: rgb(20 , 54 , 66) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;检验手机号是否存在&lt;/span&gt;&lt;br style=&quot;color: rgb(20 , 54 , 66) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250)&quot;&gt;&lt;span style=&quot;color: rgb(20 , 54 , 66) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;（mysql)&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;fontColor=#143642;strokeWidth=2;fillColor=#FFFFFF;arcSize=14;sketch=0;" vertex="1" parent="1">
           <mxGeometry x="354" y="720" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="yElT8xCbcD650BWO1DYu-39" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#143642;strokeColor=#A8201A;fillColor=#FAE5C7;" edge="1" parent="1" source="yElT8xCbcD650BWO1DYu-29" target="yElT8xCbcD650BWO1DYu-35">
+        <mxCell id="yElT8xCbcD650BWO1DYu-138" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#143642;strokeColor=#A8201A;fillColor=#FAE5C7;" edge="1" parent="1" source="yElT8xCbcD650BWO1DYu-29" target="yElT8xCbcD650BWO1DYu-136">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yElT8xCbcD650BWO1DYu-29" value="参数解析&lt;br&gt;参数校验" style="whiteSpace=wrap;html=1;rounded=1;fontColor=#143642;strokeWidth=2;fillColor=#FFFFFF;arcSize=14;sketch=0;" vertex="1" parent="1">
@@ -99,34 +99,34 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yElT8xCbcD650BWO1DYu-32" value="发送验证码&lt;br&gt;(http)" style="whiteSpace=wrap;html=1;rounded=1;fontColor=#143642;strokeWidth=2;fillColor=#FFFFFF;arcSize=14;sketch=0;" vertex="1" parent="1">
-          <mxGeometry x="610" y="1000" width="120" height="60" as="geometry" />
+          <mxGeometry x="610" y="1196" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yElT8xCbcD650BWO1DYu-43" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#143642;strokeColor=#A8201A;fillColor=#FAE5C7;" edge="1" parent="1" source="yElT8xCbcD650BWO1DYu-33" target="yElT8xCbcD650BWO1DYu-32">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yElT8xCbcD650BWO1DYu-33" value="存储验证码&lt;br&gt;(redis,5m)" style="whiteSpace=wrap;html=1;rounded=1;fontColor=#143642;strokeWidth=2;fillColor=#FFFFFF;arcSize=14;sketch=0;" vertex="1" parent="1">
-          <mxGeometry x="610" y="910" width="120" height="60" as="geometry" />
+          <mxGeometry x="610" y="1106" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yElT8xCbcD650BWO1DYu-42" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#143642;strokeColor=#A8201A;fillColor=#FAE5C7;" edge="1" parent="1" source="yElT8xCbcD650BWO1DYu-34" target="yElT8xCbcD650BWO1DYu-33">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yElT8xCbcD650BWO1DYu-34" value="生成手机验证码" style="whiteSpace=wrap;html=1;rounded=1;fontColor=#143642;strokeWidth=2;fillColor=#FFFFFF;arcSize=14;sketch=0;" vertex="1" parent="1">
-          <mxGeometry x="610" y="820" width="120" height="60" as="geometry" />
+          <mxGeometry x="610" y="1016" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yElT8xCbcD650BWO1DYu-40" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#143642;strokeColor=#A8201A;fillColor=#FAE5C7;" edge="1" parent="1" source="yElT8xCbcD650BWO1DYu-35" target="yElT8xCbcD650BWO1DYu-34">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yElT8xCbcD650BWO1DYu-35" value="获取手机号和userId&lt;br&gt;（mysql)" style="whiteSpace=wrap;html=1;rounded=1;fontColor=#143642;strokeWidth=2;fillColor=#FFFFFF;arcSize=14;sketch=0;" vertex="1" parent="1">
-          <mxGeometry x="610" y="730" width="120" height="60" as="geometry" />
+          <mxGeometry x="610" y="926" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yElT8xCbcD650BWO1DYu-45" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#143642;strokeColor=#A8201A;fillColor=#FAE5C7;" edge="1" parent="1" source="yElT8xCbcD650BWO1DYu-36" target="yElT8xCbcD650BWO1DYu-37">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yElT8xCbcD650BWO1DYu-36" value="手机号判断是否绑定微信账号(mysql)" style="whiteSpace=wrap;html=1;rounded=1;fontColor=#143642;strokeWidth=2;fillColor=#FFFFFF;arcSize=14;sketch=0;" vertex="1" parent="1">
-          <mxGeometry x="610" y="1090" width="120" height="60" as="geometry" />
+          <mxGeometry x="610" y="1286" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yElT8xCbcD650BWO1DYu-37" value="返回" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;sketch=0;fontColor=#143642;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="620" y="1180" width="100" height="60" as="geometry" />
+          <mxGeometry x="620" y="1376" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yElT8xCbcD650BWO1DYu-51" value="返回userId" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;sketch=0;fontColor=#143642;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="360" y="810" width="100" height="60" as="geometry" />
@@ -333,6 +333,18 @@
         </mxCell>
         <mxCell id="yElT8xCbcD650BWO1DYu-132" value="微信info绑定手机&lt;br&gt;流程类似userId绑定手机" style="whiteSpace=wrap;html=1;rounded=1;fontColor=#143642;strokeWidth=2;fillColor=#FFFFFF;arcSize=14;sketch=0;" vertex="1" parent="1">
           <mxGeometry x="1370" y="1020" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yElT8xCbcD650BWO1DYu-139" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#143642;strokeColor=#A8201A;fillColor=#FAE5C7;" edge="1" parent="1" source="yElT8xCbcD650BWO1DYu-136" target="yElT8xCbcD650BWO1DYu-137">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yElT8xCbcD650BWO1DYu-136" value="验证ip等黑白名单" style="whiteSpace=wrap;html=1;rounded=1;fontColor=#143642;strokeWidth=2;fillColor=#FFFFFF;arcSize=14;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="610" y="730" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yElT8xCbcD650BWO1DYu-140" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#143642;strokeColor=#A8201A;fillColor=#FAE5C7;" edge="1" parent="1" source="yElT8xCbcD650BWO1DYu-137" target="yElT8xCbcD650BWO1DYu-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yElT8xCbcD650BWO1DYu-137" value="验证码获取次数限制" style="whiteSpace=wrap;html=1;rounded=1;fontColor=#143642;strokeWidth=2;fillColor=#FFFFFF;arcSize=14;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="610" y="830" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
