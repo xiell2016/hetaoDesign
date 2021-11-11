@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-11-11T06:43:22.265Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="rXpaMsyfqqS52cSKGmkB" version="15.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-11T07:00:08.752Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="ZqGwDmw1IlCo0h03ajVV" version="15.5.1" type="github">
   <diagram id="CPldnaTWNwZqRLptqHsK" name="第 1 页">
-    <mxGraphModel dx="1853" dy="1658" grid="0" gridSize="5" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#DAD2D8" math="0" shadow="0">
+    <mxGraphModel dx="1853" dy="1715" grid="0" gridSize="5" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#DAD2D8" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -13,25 +13,27 @@
         <mxCell id="MIMXc2lb5FOJjjIKVt4J-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#A8201A;fontColor=#143642;labelBackgroundColor=#DAD2D8;" parent="1" source="MIMXc2lb5FOJjjIKVt4J-6" target="MIMXc2lb5FOJjjIKVt4J-31" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="MIMXc2lb5FOJjjIKVt4J-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#A8201A;fontColor=#143642;labelBackgroundColor=#DAD2D8;" parent="1" source="MIMXc2lb5FOJjjIKVt4J-6" target="MIMXc2lb5FOJjjIKVt4J-12" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="MIMXc2lb5FOJjjIKVt4J-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#A8201A;fontColor=#143642;labelBackgroundColor=#DAD2D8;" parent="1" source="MIMXc2lb5FOJjjIKVt4J-6" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="986" y="300" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="MIMXc2lb5FOJjjIKVt4J-6" value="获取登录二维码" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="259" y="270" width="110" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="MIMXc2lb5FOJjjIKVt4J-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#A8201A;fontColor=#143642;labelBackgroundColor=#DAD2D8;" parent="1" source="MIMXc2lb5FOJjjIKVt4J-12" target="MIMXc2lb5FOJjjIKVt4J-13" edge="1">
+        <mxCell id="MIMXc2lb5FOJjjIKVt4J-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#A8201A;fontColor=#143642;labelBackgroundColor=#DAD2D8;" parent="1" target="MIMXc2lb5FOJjjIKVt4J-13" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="905" y="300" />
               <mxPoint x="905" y="300" />
             </Array>
+            <mxPoint x="710" y="300" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MIMXc2lb5FOJjjIKVt4J-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#A8201A;fontColor=#143642;labelBackgroundColor=#DAD2D8;" parent="1" source="MIMXc2lb5FOJjjIKVt4J-12" target="MIMXc2lb5FOJjjIKVt4J-28" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="MIMXc2lb5FOJjjIKVt4J-12" value="扫描登录" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="590" y="270" width="120" height="60" as="geometry" />
+        <mxCell id="MIMXc2lb5FOJjjIKVt4J-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#A8201A;fontColor=#143642;labelBackgroundColor=#DAD2D8;" parent="1" target="MIMXc2lb5FOJjjIKVt4J-28" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="650" y="330" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="MIMXc2lb5FOJjjIKVt4J-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;strokeColor=#A8201A;fontColor=#143642;labelBackgroundColor=#DAD2D8;" parent="1" source="MIMXc2lb5FOJjjIKVt4J-13" target="MIMXc2lb5FOJjjIKVt4J-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -131,8 +133,10 @@
         <mxCell id="MIMXc2lb5FOJjjIKVt4J-39" value="&lt;span style=&quot;color: rgb(50 , 50 , 50) ; font-size: 13px ; background-color: rgba(255 , 255 , 255 , 0.008)&quot;&gt;api-wx-callback&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;arcSize=14;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" parent="1" vertex="1">
           <mxGeometry x="435" y="119" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="MIMXc2lb5FOJjjIKVt4J-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;strokeColor=#A8201A;fontColor=#143642;labelBackgroundColor=#DAD2D8;" parent="1" source="MIMXc2lb5FOJjjIKVt4J-40" target="MIMXc2lb5FOJjjIKVt4J-12" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="MIMXc2lb5FOJjjIKVt4J-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;strokeColor=#A8201A;fontColor=#143642;labelBackgroundColor=#DAD2D8;" parent="1" source="MIMXc2lb5FOJjjIKVt4J-40" target="MIMXc2lb5FOJjjIKVt4J-28" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="650" y="270" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="MIMXc2lb5FOJjjIKVt4J-40" value="二维码扫码mq" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.sequential_data;whiteSpace=wrap;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" parent="1" vertex="1">
           <mxGeometry x="615" y="114" width="70" height="70" as="geometry" />
