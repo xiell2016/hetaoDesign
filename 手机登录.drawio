@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-11T07:17:28.037Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="caseFOoKrDe_brqOM4H1" version="15.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-11T07:22:15.642Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="xC0ok7xjSIZ7nqC3LdiA" version="15.5.1" type="github">
   <diagram id="hTf-l8JFEeuLh_gnLOyl" name="第 1 页">
     <mxGraphModel dx="1026" dy="546" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -10,7 +10,7 @@
         <mxCell id="yElT8xCbcD650BWO1DYu-5" value="创建账号userId" style="whiteSpace=wrap;html=1;rounded=1;fontColor=#143642;strokeWidth=2;fillColor=#FFFFFF;arcSize=14;sketch=0;" vertex="1" parent="1">
           <mxGeometry x="866" y="1038" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="yElT8xCbcD650BWO1DYu-72" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#143642;strokeColor=#A8201A;fillColor=#FAE5C7;" edge="1" parent="1" source="yElT8xCbcD650BWO1DYu-6" target="yElT8xCbcD650BWO1DYu-67">
+        <mxCell id="yElT8xCbcD650BWO1DYu-143" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#143642;strokeColor=#A8201A;fillColor=#FAE5C7;" edge="1" parent="1" source="yElT8xCbcD650BWO1DYu-6" target="yElT8xCbcD650BWO1DYu-142">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yElT8xCbcD650BWO1DYu-6" value="手机号微信绑定加锁&lt;br&gt;(redis)" style="whiteSpace=wrap;html=1;rounded=1;fontColor=#143642;strokeWidth=2;fillColor=#FFFFFF;arcSize=14;sketch=0;" vertex="1" parent="1">
@@ -169,11 +169,11 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yElT8xCbcD650BWO1DYu-69" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontColor=#143642;strokeColor=#A8201A;fillColor=#FAE5C7;" edge="1" parent="1" source="yElT8xCbcD650BWO1DYu-65" target="yElT8xCbcD650BWO1DYu-67">
+        <mxCell id="yElT8xCbcD650BWO1DYu-69" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.008;entryY=0.367;entryDx=0;entryDy=0;entryPerimeter=0;fontColor=#143642;strokeColor=#A8201A;fillColor=#FAE5C7;" edge="1" parent="1" source="yElT8xCbcD650BWO1DYu-65" target="yElT8xCbcD650BWO1DYu-142">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1051" y="1060" />
-              <mxPoint x="1051" y="1250" />
+              <mxPoint x="1051" y="1242" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -189,7 +189,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yElT8xCbcD650BWO1DYu-66" value="解绑上一个微信绑定" style="whiteSpace=wrap;html=1;rounded=1;fontColor=#143642;strokeWidth=2;fillColor=#FFFFFF;arcSize=14;sketch=0;" vertex="1" parent="1">
-          <mxGeometry x="1145" y="1320" width="120" height="60" as="geometry" />
+          <mxGeometry x="1145" y="1431" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yElT8xCbcD650BWO1DYu-73" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#143642;strokeColor=#A8201A;fillColor=#FAE5C7;" edge="1" parent="1" source="yElT8xCbcD650BWO1DYu-67" target="yElT8xCbcD650BWO1DYu-66">
           <mxGeometry relative="1" as="geometry" />
@@ -202,19 +202,19 @@
         <mxCell id="yElT8xCbcD650BWO1DYu-82" value="否" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontColor=#143642;strokeColor=#A8201A;fillColor=#FAE5C7;" edge="1" parent="1" source="yElT8xCbcD650BWO1DYu-67" target="yElT8xCbcD650BWO1DYu-79">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1338" y="1250" />
-              <mxPoint x="1338" y="1400" />
+              <mxPoint x="1338" y="1361" />
+              <mxPoint x="1338" y="1511" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="yElT8xCbcD650BWO1DYu-67" value="用户存在 &amp;amp; 已有绑定&lt;br&gt;(mysql)" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;sketch=0;fontColor=#143642;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="1160" y="1210" width="90" height="80" as="geometry" />
+        <mxCell id="yElT8xCbcD650BWO1DYu-67" value="用户已绑定微信&lt;br&gt;(mysql)" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;sketch=0;fontColor=#143642;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="1160" y="1321" width="90" height="80" as="geometry" />
         </mxCell>
         <mxCell id="yElT8xCbcD650BWO1DYu-98" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontColor=#143642;strokeColor=#A8201A;fillColor=#FAE5C7;" edge="1" parent="1" source="yElT8xCbcD650BWO1DYu-78" target="yElT8xCbcD650BWO1DYu-97">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yElT8xCbcD650BWO1DYu-78" value="绑定手机号&lt;br&gt;(mysql)" style="whiteSpace=wrap;html=1;rounded=1;fontColor=#143642;strokeWidth=2;fillColor=#FFFFFF;arcSize=14;sketch=0;" vertex="1" parent="1">
-          <mxGeometry x="981" y="1500" width="120" height="60" as="geometry" />
+          <mxGeometry x="981" y="1611" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yElT8xCbcD650BWO1DYu-84" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;fontColor=#143642;strokeColor=#A8201A;fillColor=#FAE5C7;" edge="1" parent="1" source="yElT8xCbcD650BWO1DYu-79" target="yElT8xCbcD650BWO1DYu-80">
           <mxGeometry relative="1" as="geometry" />
@@ -226,11 +226,11 @@
         </mxCell>
         <mxCell id="yElT8xCbcD650BWO1DYu-85" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;fontColor=#143642;strokeColor=#A8201A;fillColor=#FAE5C7;" edge="1" parent="1" source="yElT8xCbcD650BWO1DYu-79">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1205" y="1700" as="targetPoint" />
+            <mxPoint x="1205" y="1811" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1341" y="1440" />
-              <mxPoint x="1341" y="1680" />
-              <mxPoint x="1205" y="1680" />
+              <mxPoint x="1341" y="1551" />
+              <mxPoint x="1341" y="1791" />
+              <mxPoint x="1205" y="1791" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -248,27 +248,27 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="yElT8xCbcD650BWO1DYu-79" value="手机已绑定用户&lt;br&gt;(mysql)" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;sketch=0;fontColor=#143642;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="1160" y="1400" width="90" height="80" as="geometry" />
+          <mxGeometry x="1160" y="1511" width="90" height="80" as="geometry" />
         </mxCell>
         <mxCell id="yElT8xCbcD650BWO1DYu-100" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontColor=#143642;strokeColor=#A8201A;fillColor=#FAE5C7;" edge="1" parent="1" source="yElT8xCbcD650BWO1DYu-80" target="yElT8xCbcD650BWO1DYu-99">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yElT8xCbcD650BWO1DYu-80" value="微信绑定用户id改成手机用户id" style="whiteSpace=wrap;html=1;rounded=1;fontColor=#143642;strokeWidth=2;fillColor=#FFFFFF;arcSize=14;sketch=0;" vertex="1" parent="1">
-          <mxGeometry x="1145" y="1530" width="120" height="60" as="geometry" />
+          <mxGeometry x="1145" y="1641" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yElT8xCbcD650BWO1DYu-101" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontColor=#143642;strokeColor=#A8201A;fillColor=#FAE5C7;" edge="1" parent="1" source="yElT8xCbcD650BWO1DYu-97" target="yElT8xCbcD650BWO1DYu-99">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yElT8xCbcD650BWO1DYu-97" value="更新user信息&lt;br&gt;(http)" style="whiteSpace=wrap;html=1;rounded=1;fontColor=#143642;strokeWidth=2;fillColor=#FFFFFF;arcSize=14;sketch=0;" vertex="1" parent="1">
-          <mxGeometry x="981" y="1590" width="120" height="60" as="geometry" />
+          <mxGeometry x="981" y="1701" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yElT8xCbcD650BWO1DYu-104" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontColor=#143642;strokeColor=#A8201A;fillColor=#FAE5C7;" edge="1" parent="1" source="yElT8xCbcD650BWO1DYu-99">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1205" y="1800" as="targetPoint" />
+            <mxPoint x="1205" y="1911" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="yElT8xCbcD650BWO1DYu-99" value="如果是二维码登录&lt;br&gt;更新微信用户和二维码key关系" style="whiteSpace=wrap;html=1;rounded=1;fontColor=#143642;strokeWidth=2;fillColor=#FFFFFF;arcSize=14;sketch=0;" vertex="1" parent="1">
-          <mxGeometry x="1145" y="1704" width="120" height="60" as="geometry" />
+          <mxGeometry x="1145" y="1815" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yElT8xCbcD650BWO1DYu-107" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;fontColor=#143642;strokeColor=#A8201A;fillColor=#FAE5C7;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="yElT8xCbcD650BWO1DYu-105" target="yElT8xCbcD650BWO1DYu-113">
           <mxGeometry relative="1" as="geometry">
@@ -311,22 +311,22 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yElT8xCbcD650BWO1DYu-117" value="获取用户信息" style="whiteSpace=wrap;html=1;rounded=1;fontColor=#143642;strokeWidth=2;fillColor=#FFFFFF;arcSize=14;sketch=0;" vertex="1" parent="1">
-          <mxGeometry x="1145" y="1800" width="120" height="60" as="geometry" />
+          <mxGeometry x="1145" y="1911" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yElT8xCbcD650BWO1DYu-122" value="埋点上报" style="whiteSpace=wrap;html=1;rounded=1;fontColor=#143642;strokeWidth=2;fillColor=#FFFFFF;arcSize=14;sketch=0;" vertex="1" parent="1">
-          <mxGeometry x="1145" y="2060" width="120" height="60" as="geometry" />
+          <mxGeometry x="1145" y="2171" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yElT8xCbcD650BWO1DYu-128" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#143642;strokeColor=#A8201A;fillColor=#FAE5C7;" edge="1" parent="1" source="yElT8xCbcD650BWO1DYu-123" target="yElT8xCbcD650BWO1DYu-126">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yElT8xCbcD650BWO1DYu-123" value="创建token" style="whiteSpace=wrap;html=1;rounded=1;fontColor=#143642;strokeWidth=2;fillColor=#FFFFFF;arcSize=14;sketch=0;" vertex="1" parent="1">
-          <mxGeometry x="1145" y="1890" width="120" height="60" as="geometry" />
+          <mxGeometry x="1145" y="2001" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yElT8xCbcD650BWO1DYu-129" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#143642;strokeColor=#A8201A;fillColor=#FAE5C7;" edge="1" parent="1" source="yElT8xCbcD650BWO1DYu-126" target="yElT8xCbcD650BWO1DYu-122">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yElT8xCbcD650BWO1DYu-126" value="记录登录设备" style="whiteSpace=wrap;html=1;rounded=1;fontColor=#143642;strokeWidth=2;fillColor=#FFFFFF;arcSize=14;sketch=0;" vertex="1" parent="1">
-          <mxGeometry x="1145" y="1980" width="120" height="60" as="geometry" />
+          <mxGeometry x="1145" y="2091" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yElT8xCbcD650BWO1DYu-134" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontColor=#143642;strokeColor=#A8201A;fillColor=#FAE5C7;" edge="1" parent="1" source="yElT8xCbcD650BWO1DYu-132" target="yElT8xCbcD650BWO1DYu-117">
           <mxGeometry relative="1" as="geometry" />
@@ -345,6 +345,12 @@
         </mxCell>
         <mxCell id="yElT8xCbcD650BWO1DYu-137" value="验证码获取次数限制" style="whiteSpace=wrap;html=1;rounded=1;fontColor=#143642;strokeWidth=2;fillColor=#FFFFFF;arcSize=14;sketch=0;" vertex="1" parent="1">
           <mxGeometry x="610" y="830" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yElT8xCbcD650BWO1DYu-144" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#143642;strokeColor=#A8201A;fillColor=#FAE5C7;" edge="1" parent="1" source="yElT8xCbcD650BWO1DYu-142" target="yElT8xCbcD650BWO1DYu-67">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yElT8xCbcD650BWO1DYu-142" value="获取微信信息&lt;br&gt;(http)" style="whiteSpace=wrap;html=1;rounded=1;fontColor=#143642;strokeWidth=2;fillColor=#FFFFFF;arcSize=14;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="1145" y="1220" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
