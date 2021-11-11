@@ -1,9 +1,17 @@
-<mxfile host="app.diagrams.net" modified="2021-11-11T02:33:12.977Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="2VdFi8W_b3jcdkXK8733" version="15.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-11T02:34:23.658Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="92PRfJcrDeBIlDpqXTap" version="15.5.1" type="github">
   <diagram id="MqLFOB0qUGa3AoY5VixN" name="第 1 页">
     <mxGraphModel dx="1026" dy="489" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="_2JUVef5gmnUwdvLhLRF-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="_2JUVef5gmnUwdvLhLRF-1" target="_2JUVef5gmnUwdvLhLRF-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_2JUVef5gmnUwdvLhLRF-9" value="消费二维码登录等" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="_2JUVef5gmnUwdvLhLRF-8">
+          <mxGeometry x="-0.0444" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="_2JUVef5gmnUwdvLhLRF-1" value="login" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="440" y="210" width="80" height="80" as="geometry" />
         </mxCell>
@@ -17,6 +25,9 @@
         </mxCell>
         <mxCell id="_2JUVef5gmnUwdvLhLRF-2" value="apollo" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_2JUVef5gmnUwdvLhLRF-6" value="微信callback&lt;br&gt;mq" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.sequential_data;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="430" y="20" width="100" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
