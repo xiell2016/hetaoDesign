@@ -1,1 +1,55 @@
-<mxfile host="app.diagrams.net" modified="2022-10-13T09:50:24.275Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" version="15.7.3" etag="yjjSFda6KzqDlqAoKtH0" type="github"><diagram id="kJFJ0D_12UuaY3lmtUbJ">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-10-18T07:35:30.804Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="kJuU5JuWZ6K9hMiK29xR" version="15.7.3" type="github">
+  <diagram id="kJFJ0D_12UuaY3lmtUbJ" name="第 1 页">
+    <mxGraphModel dx="1026" dy="514" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="mRexfQhfjzAPBLykWlBQ-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCFFCC;" vertex="1" parent="1">
+          <mxGeometry x="170" y="120" width="600" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="mRexfQhfjzAPBLykWlBQ-4" value="handler" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#CCFFFF;" vertex="1" parent="1">
+          <mxGeometry x="200" y="145" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="mRexfQhfjzAPBLykWlBQ-5" value="handler" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="220" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="mRexfQhfjzAPBLykWlBQ-6" value="handler" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="290" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="mRexfQhfjzAPBLykWlBQ-7" value="handler" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="360" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="mRexfQhfjzAPBLykWlBQ-8" value="" style="whiteSpace=wrap;html=1;fillColor=#CCFFFF;" vertex="1" parent="1">
+          <mxGeometry x="300" y="145" width="450" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="mRexfQhfjzAPBLykWlBQ-9" value="app微信登录" style="whiteSpace=wrap;html=1;fillColor=#99CCFF;" vertex="1" parent="1">
+          <mxGeometry x="310" y="152.5" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mRexfQhfjzAPBLykWlBQ-10" value="&lt;div class=&quot;mind-clipboard&quot;&gt;手机号登录&lt;div&gt;请求&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#99CCFF;" vertex="1" parent="1">
+          <mxGeometry x="410" y="152.5" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mRexfQhfjzAPBLykWlBQ-11" value="&lt;div class=&quot;mind-clipboard&quot;&gt;手机号登录&lt;div&gt;请求&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#99CCFF;" vertex="1" parent="1">
+          <mxGeometry x="510" y="152.5" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mRexfQhfjzAPBLykWlBQ-12" value="&lt;div class=&quot;mind-clipboard&quot;&gt;手机号登录&lt;div&gt;请求&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#99CCFF;" vertex="1" parent="1">
+          <mxGeometry x="620" y="152.5" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mRexfQhfjzAPBLykWlBQ-13" value="" style="whiteSpace=wrap;html=1;fillColor=#CCFFFF;" vertex="1" parent="1">
+          <mxGeometry x="300" y="215" width="450" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="mRexfQhfjzAPBLykWlBQ-14" value="app微信登录" style="whiteSpace=wrap;html=1;fillColor=#99CCFF;" vertex="1" parent="1">
+          <mxGeometry x="310" y="222.5" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mRexfQhfjzAPBLykWlBQ-15" value="&lt;div class=&quot;mind-clipboard&quot;&gt;手机号登录&lt;div&gt;请求&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#99CCFF;" vertex="1" parent="1">
+          <mxGeometry x="410" y="222.5" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mRexfQhfjzAPBLykWlBQ-16" value="&lt;div class=&quot;mind-clipboard&quot;&gt;手机号登录&lt;div&gt;请求&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#99CCFF;" vertex="1" parent="1">
+          <mxGeometry x="510" y="222.5" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mRexfQhfjzAPBLykWlBQ-17" value="&lt;div class=&quot;mind-clipboard&quot;&gt;手机号登录&lt;div&gt;请求&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#99CCFF;" vertex="1" parent="1">
+          <mxGeometry x="620" y="222.5" width="90" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
