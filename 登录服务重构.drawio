@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-10-18T13:14:26.057Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="ByE50N5BcymouX5YHIbl" version="15.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-18T13:28:29.074Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="PfqKDiZ_f7HGD1gOY8Yj" version="15.7.3" type="github">
   <diagram id="kJFJ0D_12UuaY3lmtUbJ" name="第 1 页">
-    <mxGraphModel dx="1710" dy="857" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1207" dy="605" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -207,6 +207,173 @@
         </mxCell>
         <mxCell id="mRexfQhfjzAPBLykWlBQ-155" value="&lt;div class=&quot;mind-clipboard&quot;&gt;appid配置&lt;/div&gt;&lt;div class=&quot;mind-clipboard&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div class=&quot;mind-clipboard&quot;&gt;短信配置&lt;/div&gt;&lt;div class=&quot;mind-clipboard&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div class=&quot;mind-clipboard&quot;&gt;mp配置&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#80FF00;" vertex="1" parent="1">
           <mxGeometry x="1470" y="210" width="60" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="mRexfQhfjzAPBLykWlBQ-156" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="320" y="630" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mRexfQhfjzAPBLykWlBQ-158" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="330" y="640" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mRexfQhfjzAPBLykWlBQ-159" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="340" y="650" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mRexfQhfjzAPBLykWlBQ-160" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="350" y="660" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mRexfQhfjzAPBLykWlBQ-161" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="360" y="670" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mRexfQhfjzAPBLykWlBQ-162" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="370" y="680" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mRexfQhfjzAPBLykWlBQ-163" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="380" y="690" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mRexfQhfjzAPBLykWlBQ-164" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="390" y="700" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mRexfQhfjzAPBLykWlBQ-165" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="400" y="710" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mRexfQhfjzAPBLykWlBQ-166" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="410" y="720" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mRexfQhfjzAPBLykWlBQ-167" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="420" y="730" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mRexfQhfjzAPBLykWlBQ-168" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="430" y="740" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mRexfQhfjzAPBLykWlBQ-169" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="450" y="1060" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mRexfQhfjzAPBLykWlBQ-170" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="460" y="1070" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mRexfQhfjzAPBLykWlBQ-171" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="470" y="1080" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mRexfQhfjzAPBLykWlBQ-172" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="480" y="1090" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mRexfQhfjzAPBLykWlBQ-174" value="&lt;span style=&quot;color: rgb(50 , 50 , 50) ; font-size: 13px ; background-color: rgba(255 , 255 , 255 , 0.008)&quot;&gt;埋点、mq消息等-http&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="977" y="1540" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mRexfQhfjzAPBLykWlBQ-209" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="1" source="mRexfQhfjzAPBLykWlBQ-175">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1097" y="1540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mRexfQhfjzAPBLykWlBQ-175" value="&lt;span style=&quot;color: rgb(50 , 50 , 50) ; font-size: 13px ; background-color: rgba(255 , 255 , 255 , 0.008)&quot;&gt;常用设备入库-mysql&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="977" y="1490" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mRexfQhfjzAPBLykWlBQ-208" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="1" source="mRexfQhfjzAPBLykWlBQ-176" target="mRexfQhfjzAPBLykWlBQ-175">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mRexfQhfjzAPBLykWlBQ-176" value="&lt;span style=&quot;color: rgb(50 , 50 , 50) ; font-size: 13px ; background-color: rgba(255 , 255 , 255 , 0.008)&quot;&gt;创建token，入库-mysql&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="977" y="1440" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mRexfQhfjzAPBLykWlBQ-207" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="1" source="mRexfQhfjzAPBLykWlBQ-177" target="mRexfQhfjzAPBLykWlBQ-176">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mRexfQhfjzAPBLykWlBQ-177" value="&lt;span style=&quot;color: rgb(50 , 50 , 50) ; font-size: 13px ; background-color: rgba(255 , 255 , 255 , 0.008)&quot;&gt;获取昵称头像-http&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="977" y="1390" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mRexfQhfjzAPBLykWlBQ-206" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="1" source="mRexfQhfjzAPBLykWlBQ-178" target="mRexfQhfjzAPBLykWlBQ-177">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mRexfQhfjzAPBLykWlBQ-178" value="&lt;span style=&quot;color: rgb(50 , 50 , 50) ; font-size: 13px ; background-color: rgba(255 , 255 , 255 , 0.008)&quot;&gt;创建更新user-center - http&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="977" y="1340" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mRexfQhfjzAPBLykWlBQ-205" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="1" source="mRexfQhfjzAPBLykWlBQ-179" target="mRexfQhfjzAPBLykWlBQ-178">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mRexfQhfjzAPBLykWlBQ-179" value="&lt;span style=&quot;color: rgb(50 , 50 , 50) ; font-size: 13px ; background-color: rgba(255 , 255 , 255 , 0.008)&quot;&gt;手机账号和微信账号绑定 -http&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="977" y="1290" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mRexfQhfjzAPBLykWlBQ-214" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="1" source="mRexfQhfjzAPBLykWlBQ-180" target="mRexfQhfjzAPBLykWlBQ-210">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mRexfQhfjzAPBLykWlBQ-180" value="&lt;span style=&quot;color: rgb(50 , 50 , 50) ; font-size: 13px ; background-color: rgba(255 , 255 , 255 , 0.008)&quot;&gt;手机账号和微信账号合并-mysql&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="977" y="1139" width="240" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="mRexfQhfjzAPBLykWlBQ-203" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="1" source="mRexfQhfjzAPBLykWlBQ-181" target="mRexfQhfjzAPBLykWlBQ-180">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mRexfQhfjzAPBLykWlBQ-181" value="&lt;span style=&quot;color: rgb(50 , 50 , 50) ; font-size: 13px ; background-color: rgba(255 , 255 , 255 , 0.008)&quot;&gt;解绑手机之前的微信-http&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="977" y="1090" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mRexfQhfjzAPBLykWlBQ-202" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="1" source="mRexfQhfjzAPBLykWlBQ-182" target="mRexfQhfjzAPBLykWlBQ-181">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mRexfQhfjzAPBLykWlBQ-182" value="&lt;span style=&quot;color: rgb(50 , 50 , 50) ; font-size: 13px ; background-color: rgba(255 , 255 , 255 , 0.008)&quot;&gt;解绑手机之前的微信-mysql&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="977" y="1040" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mRexfQhfjzAPBLykWlBQ-201" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="1" source="mRexfQhfjzAPBLykWlBQ-183" target="mRexfQhfjzAPBLykWlBQ-182">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mRexfQhfjzAPBLykWlBQ-183" value="&lt;span style=&quot;color: rgb(50 , 50 , 50) ; font-size: 13px ; background-color: rgba(255 , 255 , 255 , 0.008)&quot;&gt;检查手机是否绑定了其他微信-http&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="977" y="990" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mRexfQhfjzAPBLykWlBQ-200" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="1" source="mRexfQhfjzAPBLykWlBQ-184" target="mRexfQhfjzAPBLykWlBQ-183">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mRexfQhfjzAPBLykWlBQ-184" value="&lt;span style=&quot;color: rgb(50 , 50 , 50) ; font-size: 13px ; background-color: rgba(255 , 255 , 255 , 0.008)&quot;&gt;检查userid已经绑定其他手机-mysql&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="977" y="940" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mRexfQhfjzAPBLykWlBQ-199" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="1" source="mRexfQhfjzAPBLykWlBQ-185" target="mRexfQhfjzAPBLykWlBQ-184">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mRexfQhfjzAPBLykWlBQ-185" value="&lt;span style=&quot;color: rgb(50 , 50 , 50) ; font-size: 13px ; background-color: rgba(255 , 255 , 255 , 0.008)&quot;&gt;检查手机是否注册-mysql&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="977" y="887" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mRexfQhfjzAPBLykWlBQ-198" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="1" source="mRexfQhfjzAPBLykWlBQ-186" target="mRexfQhfjzAPBLykWlBQ-185">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mRexfQhfjzAPBLykWlBQ-186" value="&lt;span style=&quot;color: rgb(50 , 50 , 50) ; font-size: 13px ; background-color: rgba(255 , 255 , 255 , 0.008)&quot;&gt;查询用户id是否绑定手机-mysql&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="977" y="831" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mRexfQhfjzAPBLykWlBQ-197" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="1" source="mRexfQhfjzAPBLykWlBQ-187" target="mRexfQhfjzAPBLykWlBQ-186">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mRexfQhfjzAPBLykWlBQ-187" value="&lt;span style=&quot;color: rgb(50 , 50 , 50) ; font-size: 13px ; background-color: rgba(255 , 255 , 255 , 0.008)&quot;&gt;查询用户id是否存在-http&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="977" y="778" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mRexfQhfjzAPBLykWlBQ-196" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="1" source="mRexfQhfjzAPBLykWlBQ-188" target="mRexfQhfjzAPBLykWlBQ-187">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mRexfQhfjzAPBLykWlBQ-188" value="&lt;span style=&quot;color: rgb(50 , 50 , 50) ; font-size: 13px ; background-color: rgba(255 , 255 , 255 , 0.008)&quot;&gt;校验验证码&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="977" y="727" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mRexfQhfjzAPBLykWlBQ-195" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="1" source="mRexfQhfjzAPBLykWlBQ-189" target="mRexfQhfjzAPBLykWlBQ-188">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mRexfQhfjzAPBLykWlBQ-189" value="&lt;span style=&quot;color: rgb(50 , 50 , 50) ; font-size: 13px ; background-color: rgba(255 , 255 , 255 , 0.008)&quot;&gt;手机号码加密-http&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="977" y="678" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mRexfQhfjzAPBLykWlBQ-194" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="1" source="mRexfQhfjzAPBLykWlBQ-190" target="mRexfQhfjzAPBLykWlBQ-189">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mRexfQhfjzAPBLykWlBQ-190" value="&lt;span style=&quot;color: rgb(50 , 50 , 50) ; font-size: 13px ; background-color: rgba(255 , 255 , 255 , 0.008)&quot;&gt;参数验证&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="977" y="629" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mRexfQhfjzAPBLykWlBQ-192" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="1" source="mRexfQhfjzAPBLykWlBQ-191" target="mRexfQhfjzAPBLykWlBQ-190">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mRexfQhfjzAPBLykWlBQ-191" value="&lt;span style=&quot;color: rgb(50 , 50 , 50) ; font-size: 13px ; background-color: rgba(255 , 255 , 255 , 0.008)&quot;&gt;绑定手机&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="977" y="585" width="240" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="mRexfQhfjzAPBLykWlBQ-215" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="1" source="mRexfQhfjzAPBLykWlBQ-210" target="mRexfQhfjzAPBLykWlBQ-212">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mRexfQhfjzAPBLykWlBQ-210" value="&lt;span style=&quot;color: rgb(50 , 50 , 50) ; font-size: 13px ; background-color: rgba(255 , 255 , 255 , 0.008)&quot;&gt;手机账号和微信账号合并-http&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="977" y="1190" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mRexfQhfjzAPBLykWlBQ-216" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="1" source="mRexfQhfjzAPBLykWlBQ-212" target="mRexfQhfjzAPBLykWlBQ-179">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mRexfQhfjzAPBLykWlBQ-212" value="&lt;span style=&quot;color: rgb(50 , 50 , 50) ; font-size: 13px ; background-color: rgba(255 , 255 , 255 , 0.008)&quot;&gt;手机账号和微信账号绑定-mysql&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="977" y="1240" width="240" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
