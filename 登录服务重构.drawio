@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-19T11:07:10.212Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="zhbhs3uATInSBK92ZTqg" version="15.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-20T02:08:55.183Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="W0mh06tA3-E7SLOywLRn" version="15.7.3" type="github">
   <diagram id="kJFJ0D_12UuaY3lmtUbJ" name="第 1 页">
     <mxGraphModel dx="1666" dy="828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -462,7 +462,7 @@
         <mxCell id="mRexfQhfjzAPBLykWlBQ-263" value="app" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#FF99CC;" vertex="1" parent="1">
           <mxGeometry x="887" y="69.5" width="90" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="mRexfQhfjzAPBLykWlBQ-264" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 业务转化（域名转appid,转短信模板）&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;业务特性(售卖openid绑定userid）&amp;nbsp; &amp;nbsp; &amp;nbsp;" style="whiteSpace=wrap;html=1;fillColor=#CCCCFF;" vertex="1" parent="1">
+        <mxCell id="mRexfQhfjzAPBLykWlBQ-264" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 业务转化（域名转appid,转短信模板)&amp;nbsp; 业务特性(售卖openid绑定userid） 是否买课&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;" style="whiteSpace=wrap;html=1;fillColor=#CCCCFF;" vertex="1" parent="1">
           <mxGeometry x="993.5" y="145" width="520" height="45" as="geometry" />
         </mxCell>
         <mxCell id="mRexfQhfjzAPBLykWlBQ-267" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;fillColor=#99CCFF;" vertex="1" parent="1">
