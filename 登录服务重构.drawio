@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-09T01:59:09.483Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="GgEY-zzs1OR2hy6Ox9Qj" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-09T03:03:00.652Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="vw9LXgjG1WwhHYidmseH" version="20.5.3" type="github">
   <diagram id="kJFJ0D_12UuaY3lmtUbJ" name="第 1 页">
     <mxGraphModel dx="1546" dy="643" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -483,7 +483,7 @@
         <mxCell id="99AAW2C9qEgpaHdcOlwb-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="810" width="1140" height="230" as="geometry" />
         </mxCell>
-        <mxCell id="99AAW2C9qEgpaHdcOlwb-5" value="内部token校验" style="whiteSpace=wrap;html=1;fillColor=#FF99CC;" vertex="1" parent="1">
+        <mxCell id="99AAW2C9qEgpaHdcOlwb-5" value="crm tokenc&lt;br&gt;处理" style="whiteSpace=wrap;html=1;fillColor=#FF99CC;" vertex="1" parent="1">
           <mxGeometry x="260" y="840" width="90" height="45" as="geometry" />
         </mxCell>
         <mxCell id="99AAW2C9qEgpaHdcOlwb-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -576,7 +576,7 @@
         <mxCell id="99AAW2C9qEgpaHdcOlwb-37" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1420" y="970" width="350" height="250" as="geometry" />
         </mxCell>
-        <mxCell id="99AAW2C9qEgpaHdcOlwb-38" value="绑定" style="whiteSpace=wrap;html=1;fillColor=#FF99CC;" vertex="1" parent="1">
+        <mxCell id="99AAW2C9qEgpaHdcOlwb-38" value="微信绑定手机" style="whiteSpace=wrap;html=1;fillColor=#FF99CC;" vertex="1" parent="1">
           <mxGeometry x="1470" y="990" width="90" height="45" as="geometry" />
         </mxCell>
         <mxCell id="99AAW2C9qEgpaHdcOlwb-39" value="解绑手机/微信/userid" style="whiteSpace=wrap;html=1;fillColor=#FF99CC;" vertex="1" parent="1">
@@ -586,7 +586,7 @@
           <mxGeometry x="1470" y="1050" width="90" height="45" as="geometry" />
         </mxCell>
         <mxCell id="99AAW2C9qEgpaHdcOlwb-42" value="http&lt;br&gt;msg-cenger&lt;br&gt;公众号消息推送" style="whiteSpace=wrap;html=1;fillColor=#FF99CC;" vertex="1" parent="1">
-          <mxGeometry x="700" y="1158.77" width="90" height="45" as="geometry" />
+          <mxGeometry x="690" y="1145" width="90" height="45" as="geometry" />
         </mxCell>
         <mxCell id="99AAW2C9qEgpaHdcOlwb-43" value="内存&lt;br&gt;账号密码&lt;br&gt;生成器" style="whiteSpace=wrap;html=1;fillColor=#FF99CC;" vertex="1" parent="1">
           <mxGeometry x="260" y="1152.5" width="90" height="45" as="geometry" />
@@ -610,7 +610,16 @@
           <mxGeometry x="1830" y="1329.61" width="90" height="45" as="geometry" />
         </mxCell>
         <mxCell id="99AAW2C9qEgpaHdcOlwb-50" value="http&lt;br&gt;msg-cenger&lt;br&gt;绑定消息推送" style="whiteSpace=wrap;html=1;fillColor=#FF99CC;" vertex="1" parent="1">
-          <mxGeometry x="790" y="1158.77" width="90" height="45" as="geometry" />
+          <mxGeometry x="780" y="1145" width="90" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="99AAW2C9qEgpaHdcOlwb-51" value="内存&lt;br&gt;返回cokkies" style="whiteSpace=wrap;html=1;fillColor=#FF99CC;" vertex="1" parent="1">
+          <mxGeometry x="369" y="1210" width="90" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="99AAW2C9qEgpaHdcOlwb-52" value="内存&lt;br&gt;jwt token处理" style="whiteSpace=wrap;html=1;fillColor=#FF99CC;" vertex="1" parent="1">
+          <mxGeometry x="460" y="1210" width="90" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="99AAW2C9qEgpaHdcOlwb-53" value="配置文件处理" style="whiteSpace=wrap;html=1;fillColor=#FF99CC;" vertex="1" parent="1">
+          <mxGeometry x="1670" y="990" width="90" height="45" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
