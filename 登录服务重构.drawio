@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-09T03:03:00.652Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="vw9LXgjG1WwhHYidmseH" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-09T03:44:19.310Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="lwl7EP0WVl7l9xmcS1eb" version="20.5.3" type="github">
   <diagram id="kJFJ0D_12UuaY3lmtUbJ" name="第 1 页">
     <mxGraphModel dx="1546" dy="643" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -481,7 +481,7 @@
           <mxGeometry x="170" y="784.8" width="2170" height="2445.2" as="geometry" />
         </mxCell>
         <mxCell id="99AAW2C9qEgpaHdcOlwb-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="810" width="1140" height="230" as="geometry" />
+          <mxGeometry x="235" y="800" width="1140" height="230" as="geometry" />
         </mxCell>
         <mxCell id="99AAW2C9qEgpaHdcOlwb-5" value="crm tokenc&lt;br&gt;处理" style="whiteSpace=wrap;html=1;fillColor=#FF99CC;" vertex="1" parent="1">
           <mxGeometry x="260" y="840" width="90" height="45" as="geometry" />
@@ -546,7 +546,7 @@
         <mxCell id="99AAW2C9qEgpaHdcOlwb-26" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1360" y="1309" width="960" height="231" as="geometry" />
         </mxCell>
-        <mxCell id="99AAW2C9qEgpaHdcOlwb-27" value="redis&lt;br&gt;失效微信token" style="whiteSpace=wrap;html=1;fillColor=#FF99CC;" vertex="1" parent="1">
+        <mxCell id="99AAW2C9qEgpaHdcOlwb-27" value="redis&lt;br&gt;失效wx token" style="whiteSpace=wrap;html=1;fillColor=#FF99CC;" vertex="1" parent="1">
           <mxGeometry x="1390" y="1329.61" width="90" height="45" as="geometry" />
         </mxCell>
         <mxCell id="99AAW2C9qEgpaHdcOlwb-28" value="redis&lt;br&gt;失效手机token" style="whiteSpace=wrap;html=1;fillColor=#FF99CC;" vertex="1" parent="1">
@@ -574,7 +574,7 @@
           <mxGeometry x="590" y="1145" width="90" height="45" as="geometry" />
         </mxCell>
         <mxCell id="99AAW2C9qEgpaHdcOlwb-37" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1420" y="970" width="350" height="250" as="geometry" />
+          <mxGeometry x="1420" y="970" width="540" height="270" as="geometry" />
         </mxCell>
         <mxCell id="99AAW2C9qEgpaHdcOlwb-38" value="微信绑定手机" style="whiteSpace=wrap;html=1;fillColor=#FF99CC;" vertex="1" parent="1">
           <mxGeometry x="1470" y="990" width="90" height="45" as="geometry" />
@@ -594,8 +594,8 @@
         <mxCell id="99AAW2C9qEgpaHdcOlwb-44" value="账号恢复" style="whiteSpace=wrap;html=1;fillColor=#FF99CC;" vertex="1" parent="1">
           <mxGeometry x="1564" y="1050" width="90" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="99AAW2C9qEgpaHdcOlwb-45" value="账号恢复" style="whiteSpace=wrap;html=1;fillColor=#FF99CC;" vertex="1" parent="1">
-          <mxGeometry x="1580" y="1107.5" width="90" height="45" as="geometry" />
+        <mxCell id="99AAW2C9qEgpaHdcOlwb-45" value="微信公众号注册" style="whiteSpace=wrap;html=1;fillColor=#FF99CC;" vertex="1" parent="1">
+          <mxGeometry x="1570" y="1107.5" width="90" height="45" as="geometry" />
         </mxCell>
         <mxCell id="99AAW2C9qEgpaHdcOlwb-46" value="账号注销" style="whiteSpace=wrap;html=1;fillColor=#FF99CC;" vertex="1" parent="1">
           <mxGeometry x="1470" y="1107.5" width="90" height="45" as="geometry" />
@@ -620,6 +620,39 @@
         </mxCell>
         <mxCell id="99AAW2C9qEgpaHdcOlwb-53" value="配置文件处理" style="whiteSpace=wrap;html=1;fillColor=#FF99CC;" vertex="1" parent="1">
           <mxGeometry x="1670" y="990" width="90" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="99AAW2C9qEgpaHdcOlwb-54" value="微信client&lt;br&gt;管理器" style="whiteSpace=wrap;html=1;fillColor=#FF99CC;" vertex="1" parent="1">
+          <mxGeometry x="400" y="830" width="90" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="99AAW2C9qEgpaHdcOlwb-55" value="微信&lt;br&gt;ticketserver&lt;br&gt;管理器" style="whiteSpace=wrap;html=1;fillColor=#FF99CC;" vertex="1" parent="1">
+          <mxGeometry x="510" y="830" width="90" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="99AAW2C9qEgpaHdcOlwb-56" value="域名/mode/appid&lt;br&gt;转换器" style="whiteSpace=wrap;html=1;fillColor=#FF99CC;" vertex="1" parent="1">
+          <mxGeometry x="630" y="830" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="99AAW2C9qEgpaHdcOlwb-58" value="redis&lt;br&gt;refer缓存" style="whiteSpace=wrap;html=1;fillColor=#FF99CC;" vertex="1" parent="1">
+          <mxGeometry x="1390" y="1380" width="90" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="99AAW2C9qEgpaHdcOlwb-59" value="redis&lt;br&gt;mode缓存" style="whiteSpace=wrap;html=1;fillColor=#FF99CC;" vertex="1" parent="1">
+          <mxGeometry x="1490" y="1380" width="90" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="99AAW2C9qEgpaHdcOlwb-60" value="redis&lt;br&gt;adtag缓存" style="whiteSpace=wrap;html=1;fillColor=#FF99CC;" vertex="1" parent="1">
+          <mxGeometry x="1390" y="1425" width="90" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="99AAW2C9qEgpaHdcOlwb-61" value="redis&lt;br&gt;openType缓存" style="whiteSpace=wrap;html=1;fillColor=#FF99CC;" vertex="1" parent="1">
+          <mxGeometry x="1490" y="1425" width="90" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="99AAW2C9qEgpaHdcOlwb-62" value="微信&lt;br&gt;mpoauth2" style="whiteSpace=wrap;html=1;fillColor=#FF99CC;" vertex="1" parent="1">
+          <mxGeometry x="770" y="830" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="99AAW2C9qEgpaHdcOlwb-63" value="http&lt;br&gt;大数据埋点" style="whiteSpace=wrap;html=1;fillColor=#FF99CC;" vertex="1" parent="1">
+          <mxGeometry x="600" y="1601.8" width="90" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="99AAW2C9qEgpaHdcOlwb-64" value="redis&lt;br&gt;wx code token缓存" style="whiteSpace=wrap;html=1;fillColor=#FF99CC;" vertex="1" parent="1">
+          <mxGeometry x="1610" y="1390" width="90" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="99AAW2C9qEgpaHdcOlwb-65" value="redis&lt;br&gt;wexpubRegist锁" style="whiteSpace=wrap;html=1;fillColor=#FF99CC;" vertex="1" parent="1">
+          <mxGeometry x="1930" y="1329.61" width="90" height="45" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
