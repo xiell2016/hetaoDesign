@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-11T08:16:57.203Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="CtFK7pVzomB4PcmebjTd" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-11T09:00:04.896Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="xDRgAocMmFFCYA7aaUJT" version="20.5.3" type="github">
   <diagram id="kJFJ0D_12UuaY3lmtUbJ" name="第 1 页">
     <mxGraphModel dx="1238" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -582,7 +582,7 @@
         <mxCell id="99AAW2C9qEgpaHdcOlwb-39" value="解绑手机/微信/userid" style="whiteSpace=wrap;html=1;fillColor=#FF99CC;" parent="1" vertex="1">
           <mxGeometry x="1570" y="990" width="90" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="99AAW2C9qEgpaHdcOlwb-41" value="账号合并" style="whiteSpace=wrap;html=1;fillColor=#FF99CC;" parent="1" vertex="1">
+        <mxCell id="99AAW2C9qEgpaHdcOlwb-41" value="两个userId&lt;br&gt;账号合并" style="whiteSpace=wrap;html=1;fillColor=#FF99CC;" parent="1" vertex="1">
           <mxGeometry x="1470" y="1050" width="90" height="45" as="geometry" />
         </mxCell>
         <mxCell id="99AAW2C9qEgpaHdcOlwb-42" value="http&lt;br&gt;msg-cenger&lt;br&gt;公众号消息推送" style="whiteSpace=wrap;html=1;fillColor=#FF99CC;" parent="1" vertex="1">
@@ -681,8 +681,29 @@
         <mxCell id="PciO0lL1RMfXF03mVYs5-7" value="mysql&amp;nbsp;&lt;br&gt;小程序配置" style="whiteSpace=wrap;html=1;fillColor=#FF99CC;" vertex="1" parent="1">
           <mxGeometry x="1055" y="1345" width="90" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="PciO0lL1RMfXF03mVYs5-8" value="微信小程序和其他账号merge" style="whiteSpace=wrap;html=1;fillColor=#FF99CC;" vertex="1" parent="1">
+        <mxCell id="PciO0lL1RMfXF03mVYs5-8" value="微信小程序和其他账号绑定merge" style="whiteSpace=wrap;html=1;fillColor=#FF99CC;" vertex="1" parent="1">
           <mxGeometry x="1470" y="1169" width="90" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="PciO0lL1RMfXF03mVYs5-9" value="http&lt;br&gt;微信小程序和账号relation" style="whiteSpace=wrap;html=1;fillColor=#FF99CC;" vertex="1" parent="1">
+          <mxGeometry x="890" y="1214" width="90" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="PciO0lL1RMfXF03mVYs5-11" value="华为登录" style="whiteSpace=wrap;html=1;fillColor=#FF99CC;" vertex="1" parent="1">
+          <mxGeometry x="1580" y="1165" width="90" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="PciO0lL1RMfXF03mVYs5-12" value="华为绑定微信" style="whiteSpace=wrap;html=1;fillColor=#FF99CC;" vertex="1" parent="1">
+          <mxGeometry x="1680" y="1165" width="90" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="PciO0lL1RMfXF03mVYs5-13" value="修改手机号信息" style="whiteSpace=wrap;html=1;fillColor=#FF99CC;" vertex="1" parent="1">
+          <mxGeometry x="1680" y="1050" width="90" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="PciO0lL1RMfXF03mVYs5-14" value="redis&lt;br&gt;手机验证码缓存" style="whiteSpace=wrap;html=1;fillColor=#FF99CC;" vertex="1" parent="1">
+          <mxGeometry x="1610" y="1437.38" width="90" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="PciO0lL1RMfXF03mVYs5-15" value="修改密码信息" style="whiteSpace=wrap;html=1;fillColor=#FF99CC;" vertex="1" parent="1">
+          <mxGeometry x="1780" y="1050" width="90" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="PciO0lL1RMfXF03mVYs5-16" value="内存&lt;br&gt;验证码处理模块" style="whiteSpace=wrap;html=1;fillColor=#FF99CC;" vertex="1" parent="1">
+          <mxGeometry x="1790" y="985" width="90" height="45" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
