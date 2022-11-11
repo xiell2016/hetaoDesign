@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-11T03:47:53.912Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="Mo9iK4oPPRg0jnhDxliQ" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-11T04:02:11.807Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="SFjuGkngQ8RLcBTeyPfC" version="20.5.3" type="github">
   <diagram id="kJFJ0D_12UuaY3lmtUbJ" name="第 1 页">
     <mxGraphModel dx="1238" dy="514" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -645,7 +645,7 @@
         <mxCell id="99AAW2C9qEgpaHdcOlwb-62" value="微信&lt;br&gt;mpoauth2" style="whiteSpace=wrap;html=1;fillColor=#FF99CC;" parent="1" vertex="1">
           <mxGeometry x="770" y="830" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="99AAW2C9qEgpaHdcOlwb-63" value="http&lt;br&gt;大数据埋点" style="whiteSpace=wrap;html=1;fillColor=#FF99CC;" parent="1" vertex="1">
+        <mxCell id="99AAW2C9qEgpaHdcOlwb-63" value="http&lt;br&gt;data-center&lt;br&gt;大数据埋点" style="whiteSpace=wrap;html=1;fillColor=#FF99CC;" parent="1" vertex="1">
           <mxGeometry x="600" y="1601.8" width="90" height="45" as="geometry" />
         </mxCell>
         <mxCell id="99AAW2C9qEgpaHdcOlwb-64" value="redis&lt;br&gt;wx code token缓存" style="whiteSpace=wrap;html=1;fillColor=#FF99CC;" parent="1" vertex="1">
@@ -654,17 +654,29 @@
         <mxCell id="99AAW2C9qEgpaHdcOlwb-65" value="redis&lt;br&gt;wexpubRegist锁" style="whiteSpace=wrap;html=1;fillColor=#FF99CC;" parent="1" vertex="1">
           <mxGeometry x="1930" y="1329.61" width="90" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="99AAW2C9qEgpaHdcOlwb-66" value="http&lt;br&gt;shop&lt;br&gt;团购信息" style="whiteSpace=wrap;html=1;fillColor=#FF99CC;" parent="1" vertex="1">
+        <mxCell id="99AAW2C9qEgpaHdcOlwb-66" value="http&lt;br&gt;shop&lt;br&gt;团购信息/邀请关系" style="whiteSpace=wrap;html=1;fillColor=#FF99CC;" parent="1" vertex="1">
           <mxGeometry x="590" y="1195" width="90" height="45" as="geometry" />
         </mxCell>
         <mxCell id="99AAW2C9qEgpaHdcOlwb-67" value="http&lt;br&gt;console&lt;br&gt;购买信息" style="whiteSpace=wrap;html=1;fillColor=#FF99CC;" parent="1" vertex="1">
           <mxGeometry x="690" y="1197.5" width="90" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="PciO0lL1RMfXF03mVYs5-1" value="http&lt;br&gt;短信中心&lt;br&gt;购买信息" style="whiteSpace=wrap;html=1;fillColor=#FF99CC;" vertex="1" parent="1">
+        <mxCell id="PciO0lL1RMfXF03mVYs5-1" value="http&lt;br&gt;短信中心" style="whiteSpace=wrap;html=1;fillColor=#FF99CC;" vertex="1" parent="1">
           <mxGeometry x="780" y="1197.5" width="90" height="45" as="geometry" />
         </mxCell>
         <mxCell id="PciO0lL1RMfXF03mVYs5-2" value="内存&lt;br&gt;userInfo等&lt;br&gt;兜底处理" style="whiteSpace=wrap;html=1;fillColor=#FF99CC;" vertex="1" parent="1">
           <mxGeometry x="460" y="1152.8" width="90" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="PciO0lL1RMfXF03mVYs5-3" value="http&lt;br&gt;channel-admin&lt;br&gt;渠道信息" style="whiteSpace=wrap;html=1;fillColor=#FF99CC;" vertex="1" parent="1">
+          <mxGeometry x="880" y="1107.5" width="90" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="PciO0lL1RMfXF03mVYs5-4" value="redis&lt;br&gt;jwt token缓存" style="whiteSpace=wrap;html=1;fillColor=#FF99CC;" vertex="1" parent="1">
+          <mxGeometry x="1720" y="1390" width="90" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="PciO0lL1RMfXF03mVYs5-5" value="http&lt;br&gt;小程序处理" style="whiteSpace=wrap;html=1;fillColor=#FF99CC;" vertex="1" parent="1">
+          <mxGeometry x="880" y="1165" width="90" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="PciO0lL1RMfXF03mVYs5-6" value="微信小程序注册" style="whiteSpace=wrap;html=1;fillColor=#FF99CC;" vertex="1" parent="1">
+          <mxGeometry x="1670" y="1107.5" width="90" height="45" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
