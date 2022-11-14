@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-14T04:02:23.291Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="PCZo-YJPfF7I2mkCsOOE" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-14T06:46:20.526Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="ZEf2gCL9G_K_H0mGy0tc" version="20.5.3" type="github">
   <diagram id="kJFJ0D_12UuaY3lmtUbJ" name="第 1 页">
     <mxGraphModel dx="1238" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -478,7 +478,7 @@
           <mxGeometry x="3560" y="356" width="10" height="22.5" as="geometry" />
         </mxCell>
         <mxCell id="99AAW2C9qEgpaHdcOlwb-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCFFCC;" parent="1" vertex="1">
-          <mxGeometry x="170" y="784.8" width="2170" height="2445.2" as="geometry" />
+          <mxGeometry x="260" y="720" width="2170" height="2445.2" as="geometry" />
         </mxCell>
         <mxCell id="99AAW2C9qEgpaHdcOlwb-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="235" y="800" width="1140" height="230" as="geometry" />
@@ -738,8 +738,23 @@
         <mxCell id="PciO0lL1RMfXF03mVYs5-27" value="内存&lt;br&gt;重定向模块" style="whiteSpace=wrap;html=1;fillColor=#FF99CC;" vertex="1" parent="1">
           <mxGeometry x="150" y="1079" width="90" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="PciO0lL1RMfXF03mVYs5-28" value="redis&lt;br&gt;扫码凭证缓存" style="whiteSpace=wrap;html=1;fillColor=#FF99CC;" vertex="1" parent="1">
+        <mxCell id="PciO0lL1RMfXF03mVYs5-28" value="redis&lt;br&gt;二维码凭证缓存" style="whiteSpace=wrap;html=1;fillColor=#FF99CC;" vertex="1" parent="1">
           <mxGeometry x="1720" y="1437.38" width="90" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="PciO0lL1RMfXF03mVYs5-29" value="大数据埋点模块" style="whiteSpace=wrap;html=1;fillColor=#FF99CC;" vertex="1" parent="1">
+          <mxGeometry x="1890" y="1060" width="90" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="PciO0lL1RMfXF03mVYs5-30" value="作废账号" style="whiteSpace=wrap;html=1;fillColor=#FF99CC;" vertex="1" parent="1">
+          <mxGeometry x="1890" y="1114.2" width="90" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="PciO0lL1RMfXF03mVYs5-31" value="常用设备" style="whiteSpace=wrap;html=1;fillColor=#FF99CC;" vertex="1" parent="1">
+          <mxGeometry x="1900" y="1170" width="90" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="PciO0lL1RMfXF03mVYs5-32" value="内存&lt;br&gt;客户端&lt;br&gt;手机号加密" style="whiteSpace=wrap;html=1;fillColor=#FF99CC;" vertex="1" parent="1">
+          <mxGeometry x="60" y="1080.61" width="90" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="PciO0lL1RMfXF03mVYs5-33" value="微信信息绑定手机" style="whiteSpace=wrap;html=1;fillColor=#FF99CC;" vertex="1" parent="1">
+          <mxGeometry x="1990" y="1114.2" width="90" height="45" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
