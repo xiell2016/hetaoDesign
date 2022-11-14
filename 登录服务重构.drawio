@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-11-14T06:46:20.526Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="ZEf2gCL9G_K_H0mGy0tc" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-14T07:38:53.353Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="WoHQChocR5Iy8YHnSzhn" version="20.5.3" type="github">
   <diagram id="kJFJ0D_12UuaY3lmtUbJ" name="第 1 页">
-    <mxGraphModel dx="1238" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2196" dy="685" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -478,16 +478,16 @@
           <mxGeometry x="3560" y="356" width="10" height="22.5" as="geometry" />
         </mxCell>
         <mxCell id="99AAW2C9qEgpaHdcOlwb-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCFFCC;" parent="1" vertex="1">
-          <mxGeometry x="260" y="720" width="2170" height="2445.2" as="geometry" />
+          <mxGeometry x="-40" y="750" width="2450" height="1200" as="geometry" />
         </mxCell>
         <mxCell id="99AAW2C9qEgpaHdcOlwb-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="235" y="800" width="1140" height="230" as="geometry" />
+          <mxGeometry x="250" y="790" width="1140" height="230" as="geometry" />
         </mxCell>
         <mxCell id="99AAW2C9qEgpaHdcOlwb-5" value="crm tokenc&lt;br&gt;处理" style="whiteSpace=wrap;html=1;fillColor=#FF99CC;" parent="1" vertex="1">
-          <mxGeometry x="260" y="840" width="90" height="45" as="geometry" />
+          <mxGeometry x="300" y="830" width="90" height="45" as="geometry" />
         </mxCell>
         <mxCell id="99AAW2C9qEgpaHdcOlwb-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="220" y="1060" width="1140" height="230" as="geometry" />
+          <mxGeometry x="10" y="1060" width="1350" height="230" as="geometry" />
         </mxCell>
         <mxCell id="99AAW2C9qEgpaHdcOlwb-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="210" y="1309" width="1140" height="230" as="geometry" />
@@ -523,7 +523,7 @@
           <mxGeometry x="560" y="1585" width="300" height="188.77" as="geometry" />
         </mxCell>
         <mxCell id="99AAW2C9qEgpaHdcOlwb-19" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="250" y="1080.6100000000001" width="300" height="188.77" as="geometry" />
+          <mxGeometry x="50" y="1070" width="500" height="199.38" as="geometry" />
         </mxCell>
         <mxCell id="99AAW2C9qEgpaHdcOlwb-20" value="http&lt;br&gt;手机号加密" style="whiteSpace=wrap;html=1;fillColor=#FF99CC;" parent="1" vertex="1">
           <mxGeometry x="260" y="1100" width="90" height="45" as="geometry" />
@@ -574,7 +574,7 @@
           <mxGeometry x="590" y="1145" width="90" height="45" as="geometry" />
         </mxCell>
         <mxCell id="99AAW2C9qEgpaHdcOlwb-37" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1420" y="970" width="540" height="270" as="geometry" />
+          <mxGeometry x="1420" y="920" width="900" height="320" as="geometry" />
         </mxCell>
         <mxCell id="99AAW2C9qEgpaHdcOlwb-38" value="微信绑定手机" style="whiteSpace=wrap;html=1;fillColor=#FF99CC;" parent="1" vertex="1">
           <mxGeometry x="1470" y="990" width="90" height="45" as="geometry" />
@@ -755,6 +755,339 @@
         </mxCell>
         <mxCell id="PciO0lL1RMfXF03mVYs5-33" value="微信信息绑定手机" style="whiteSpace=wrap;html=1;fillColor=#FF99CC;" vertex="1" parent="1">
           <mxGeometry x="1990" y="1114.2" width="90" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="PciO0lL1RMfXF03mVYs5-34" value="内存&lt;br&gt;返回数据安全处理模块" style="whiteSpace=wrap;html=1;fillColor=#FF99CC;" vertex="1" parent="1">
+          <mxGeometry x="50" y="1165" width="90" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="PciO0lL1RMfXF03mVYs5-35" value="http&lt;br&gt;aliyun token模块" style="whiteSpace=wrap;html=1;fillColor=#FF99CC;" vertex="1" parent="1">
+          <mxGeometry x="990" y="1107.8" width="90" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="PciO0lL1RMfXF03mVYs5-36" value="http&lt;br&gt;抖音模块" style="whiteSpace=wrap;html=1;fillColor=#FF99CC;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="1105" width="90" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="PciO0lL1RMfXF03mVYs5-37" value="微信logout" style="whiteSpace=wrap;html=1;fillColor=#FF99CC;" vertex="1" parent="1">
+          <mxGeometry x="1990" y="1060" width="90" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="PciO0lL1RMfXF03mVYs5-38" value="防刷" style="whiteSpace=wrap;html=1;fillColor=#FF99CC;" vertex="1" parent="1">
+          <mxGeometry x="1990" y="990" width="90" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="PciO0lL1RMfXF03mVYs5-39" value="手机号注册" style="whiteSpace=wrap;html=1;fillColor=#FF99CC;" vertex="1" parent="1">
+          <mxGeometry x="2000" y="1165" width="90" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="PciO0lL1RMfXF03mVYs5-40" value="修改账号信息" style="whiteSpace=wrap;html=1;fillColor=#FF99CC;" vertex="1" parent="1">
+          <mxGeometry x="2110" y="1159.2" width="90" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="PciO0lL1RMfXF03mVYs5-41" value="关注注册" style="whiteSpace=wrap;html=1;fillColor=#FF99CC;" vertex="1" parent="1">
+          <mxGeometry x="2110" y="1105" width="90" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="PciO0lL1RMfXF03mVYs5-42" value="模块" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1835" y="930" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PciO0lL1RMfXF03mVYs5-144" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCFFCC;" vertex="1" parent="1">
+          <mxGeometry x="-120" y="2260" width="2450" height="1200" as="geometry" />
+        </mxCell>
+        <mxCell id="PciO0lL1RMfXF03mVYs5-145" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="2300" width="1140" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="PciO0lL1RMfXF03mVYs5-146" value="crm tokenc&lt;br&gt;处理" style="whiteSpace=wrap;html=1;fillColor=#FF99CC;" vertex="1" parent="1">
+          <mxGeometry x="220" y="2340" width="90" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="PciO0lL1RMfXF03mVYs5-147" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-70" y="2570" width="1350" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="PciO0lL1RMfXF03mVYs5-148" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="2819" width="1140" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="PciO0lL1RMfXF03mVYs5-149" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="3078.55" width="1140" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="PciO0lL1RMfXF03mVYs5-150" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="2839.61" width="300" height="188.77" as="geometry" />
+        </mxCell>
+        <mxCell id="PciO0lL1RMfXF03mVYs5-151" value="mysql&lt;br&gt;user_auth条件&lt;br&gt;获取信息" style="whiteSpace=wrap;html=1;fillColor=#FF99CC;" vertex="1" parent="1">
+          <mxGeometry x="150" y="2855" width="90" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="PciO0lL1RMfXF03mVYs5-152" value="mysql user_auth&lt;br&gt;更新数据" style="whiteSpace=wrap;html=1;fillColor=#FF99CC;" vertex="1" parent="1">
+          <mxGeometry x="260" y="2860" width="90" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="PciO0lL1RMfXF03mVYs5-153" value="mysql user_auth&lt;br&gt;删除数据" style="whiteSpace=wrap;html=1;fillColor=#FF99CC;" vertex="1" parent="1">
+          <mxGeometry x="150" y="2911.5" width="90" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="PciO0lL1RMfXF03mVYs5-154" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="155" y="3095" width="300" height="188.77" as="geometry" />
+        </mxCell>
+        <mxCell id="PciO0lL1RMfXF03mVYs5-155" value="mq&lt;br&gt;账号变化推送" style="whiteSpace=wrap;html=1;fillColor=#FF99CC;" vertex="1" parent="1">
+          <mxGeometry x="180" y="3111.8" width="90" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="PciO0lL1RMfXF03mVYs5-156" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="455" y="2839.61" width="300" height="188.77" as="geometry" />
+        </mxCell>
+        <mxCell id="PciO0lL1RMfXF03mVYs5-157" value="mysql&lt;br&gt;user_openid&lt;br&gt;条件获取信息" style="whiteSpace=wrap;html=1;fillColor=#FF99CC;" vertex="1" parent="1">
+          <mxGeometry x="470" y="2855" width="90" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="PciO0lL1RMfXF03mVYs5-158" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="3095" width="300" height="188.77" as="geometry" />
+        </mxCell>
+        <mxCell id="PciO0lL1RMfXF03mVYs5-159" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-30" y="2580" width="500" height="199.38" as="geometry" />
+        </mxCell>
+        <mxCell id="PciO0lL1RMfXF03mVYs5-160" value="http&lt;br&gt;手机号加密" style="whiteSpace=wrap;html=1;fillColor=#FF99CC;" vertex="1" parent="1">
+          <mxGeometry x="180" y="2610" width="90" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="PciO0lL1RMfXF03mVYs5-161" value="内存&lt;br&gt;手机号*掩码" style="whiteSpace=wrap;html=1;fillColor=#FF99CC;" vertex="1" parent="1">
+          <mxGeometry x="280" y="2610" width="90" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="PciO0lL1RMfXF03mVYs5-162" value="user_openid&lt;br&gt;条件删除" style="whiteSpace=wrap;html=1;fillColor=#FF99CC;" vertex="1" parent="1">
+          <mxGeometry x="570" y="2855" width="90" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="PciO0lL1RMfXF03mVYs5-163" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="780" y="2839.61" width="300" height="188.77" as="geometry" />
+        </mxCell>
+        <mxCell id="PciO0lL1RMfXF03mVYs5-164" value="mysql user_token&lt;br&gt;条件获取" style="whiteSpace=wrap;html=1;fillColor=#FF99CC;" vertex="1" parent="1">
+          <mxGeometry x="790" y="2855" width="90" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="PciO0lL1RMfXF03mVYs5-165" value="mysql user_token&lt;br&gt;条件更新" style="whiteSpace=wrap;html=1;fillColor=#FF99CC;" vertex="1" parent="1">
+          <mxGeometry x="885" y="2855" width="90" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="PciO0lL1RMfXF03mVYs5-166" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1280" y="2819" width="960" height="231" as="geometry" />
+        </mxCell>
+        <mxCell id="PciO0lL1RMfXF03mVYs5-167" value="redis&lt;br&gt;失效wx token" style="whiteSpace=wrap;html=1;fillColor=#FF99CC;" vertex="1" parent="1">
+          <mxGeometry x="1310" y="2839.6099999999997" width="90" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="PciO0lL1RMfXF03mVYs5-168" value="redis&lt;br&gt;失效手机token" style="whiteSpace=wrap;html=1;fillColor=#FF99CC;" vertex="1" parent="1">
+          <mxGeometry x="1410" y="2839.6099999999997" width="90" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="PciO0lL1RMfXF03mVYs5-169" value="redis&lt;br&gt;失效ssh token" style="whiteSpace=wrap;html=1;fillColor=#FF99CC;" vertex="1" parent="1">
+          <mxGeometry x="1530" y="2839.6099999999997" width="90" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="PciO0lL1RMfXF03mVYs5-170" value="redis&lt;br&gt;账号操作锁" style="whiteSpace=wrap;html=1;fillColor=#FF99CC;" vertex="1" parent="1">
+          <mxGeometry x="1650" y="2839.6099999999997" width="90" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="PciO0lL1RMfXF03mVYs5-171" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="2590.6099999999997" width="600" height="189.39" as="geometry" />
+        </mxCell>
+        <mxCell id="PciO0lL1RMfXF03mVYs5-172" value="http&lt;br&gt;user-center&lt;br&gt;获取信息" style="whiteSpace=wrap;html=1;fillColor=#FF99CC;" vertex="1" parent="1">
+          <mxGeometry x="510" y="2610" width="90" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="PciO0lL1RMfXF03mVYs5-173" value="http&lt;br&gt;订单中心&lt;br&gt;获取信息" style="whiteSpace=wrap;html=1;fillColor=#FF99CC;" vertex="1" parent="1">
+          <mxGeometry x="610" y="2610" width="90" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="PciO0lL1RMfXF03mVYs5-174" value="http&lt;br&gt;班级中心&lt;br&gt;获取信息" style="whiteSpace=wrap;html=1;fillColor=#FF99CC;" vertex="1" parent="1">
+          <mxGeometry x="700" y="2610" width="90" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="PciO0lL1RMfXF03mVYs5-175" value="http&lt;br&gt;user-center&lt;br&gt;更新信息" style="whiteSpace=wrap;html=1;fillColor=#FF99CC;" vertex="1" parent="1">
+          <mxGeometry x="510" y="2655" width="90" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="PciO0lL1RMfXF03mVYs5-176" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1340" y="2430" width="900" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="PciO0lL1RMfXF03mVYs5-177" value="微信绑定手机" style="whiteSpace=wrap;html=1;fillColor=#FF99CC;" vertex="1" parent="1">
+          <mxGeometry x="1390" y="2500" width="90" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="PciO0lL1RMfXF03mVYs5-178" value="解绑手机/微信/userid" style="whiteSpace=wrap;html=1;fillColor=#FF99CC;" vertex="1" parent="1">
+          <mxGeometry x="1490" y="2500" width="90" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="PciO0lL1RMfXF03mVYs5-179" value="两个userId&lt;br&gt;账号合并" style="whiteSpace=wrap;html=1;fillColor=#FF99CC;" vertex="1" parent="1">
+          <mxGeometry x="1390" y="2560" width="90" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="PciO0lL1RMfXF03mVYs5-180" value="http&lt;br&gt;msg-cenger&lt;br&gt;公众号消息推送" style="whiteSpace=wrap;html=1;fillColor=#FF99CC;" vertex="1" parent="1">
+          <mxGeometry x="610" y="2655" width="90" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="PciO0lL1RMfXF03mVYs5-181" value="内存&lt;br&gt;账号密码&lt;br&gt;生成器" style="whiteSpace=wrap;html=1;fillColor=#FF99CC;" vertex="1" parent="1">
+          <mxGeometry x="180" y="2662.5" width="90" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="PciO0lL1RMfXF03mVYs5-182" value="账号恢复" style="whiteSpace=wrap;html=1;fillColor=#FF99CC;" vertex="1" parent="1">
+          <mxGeometry x="1484" y="2560" width="90" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="PciO0lL1RMfXF03mVYs5-183" value="微信公众号注册" style="whiteSpace=wrap;html=1;fillColor=#FF99CC;" vertex="1" parent="1">
+          <mxGeometry x="1490" y="2617.5" width="90" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="PciO0lL1RMfXF03mVYs5-184" value="账号注销" style="whiteSpace=wrap;html=1;fillColor=#FF99CC;" vertex="1" parent="1">
+          <mxGeometry x="1390" y="2617.5" width="90" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="PciO0lL1RMfXF03mVYs5-185" value="内存&lt;br&gt;账号恢复黑名单" style="whiteSpace=wrap;html=1;fillColor=#FF99CC;" vertex="1" parent="1">
+          <mxGeometry x="289" y="2662.5" width="90" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="PciO0lL1RMfXF03mVYs5-186" value="内存&lt;br&gt;账号注销号&lt;br&gt;生成器" style="whiteSpace=wrap;html=1;fillColor=#FF99CC;" vertex="1" parent="1">
+          <mxGeometry x="180" y="2720" width="90" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="PciO0lL1RMfXF03mVYs5-187" value="redis&lt;br&gt;手机绑定锁" style="whiteSpace=wrap;html=1;fillColor=#FF99CC;" vertex="1" parent="1">
+          <mxGeometry x="1750" y="2839.6099999999997" width="90" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="PciO0lL1RMfXF03mVYs5-188" value="http&lt;br&gt;msg-cenger&lt;br&gt;绑定消息推送" style="whiteSpace=wrap;html=1;fillColor=#FF99CC;" vertex="1" parent="1">
+          <mxGeometry x="700" y="2655" width="90" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="PciO0lL1RMfXF03mVYs5-189" value="内存&lt;br&gt;种cokkies" style="whiteSpace=wrap;html=1;fillColor=#FF99CC;" vertex="1" parent="1">
+          <mxGeometry x="289" y="2720" width="90" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="PciO0lL1RMfXF03mVYs5-190" value="内存&lt;br&gt;jwt token处理" style="whiteSpace=wrap;html=1;fillColor=#FF99CC;" vertex="1" parent="1">
+          <mxGeometry x="380" y="2720" width="90" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="PciO0lL1RMfXF03mVYs5-191" value="配置文件处理" style="whiteSpace=wrap;html=1;fillColor=#FF99CC;" vertex="1" parent="1">
+          <mxGeometry x="1590" y="2500" width="90" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="PciO0lL1RMfXF03mVYs5-192" value="微信client&lt;br&gt;管理器" style="whiteSpace=wrap;html=1;fillColor=#FF99CC;" vertex="1" parent="1">
+          <mxGeometry x="320" y="2340" width="90" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="PciO0lL1RMfXF03mVYs5-193" value="微信&lt;br&gt;ticketserver&lt;br&gt;管理器" style="whiteSpace=wrap;html=1;fillColor=#FF99CC;" vertex="1" parent="1">
+          <mxGeometry x="430" y="2340" width="90" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="PciO0lL1RMfXF03mVYs5-194" value="域名/mode/appid&lt;br&gt;转换器" style="whiteSpace=wrap;html=1;fillColor=#FF99CC;" vertex="1" parent="1">
+          <mxGeometry x="550" y="2340" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="PciO0lL1RMfXF03mVYs5-195" value="redis&lt;br&gt;refer缓存" style="whiteSpace=wrap;html=1;fillColor=#FF99CC;" vertex="1" parent="1">
+          <mxGeometry x="1310" y="2890" width="90" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="PciO0lL1RMfXF03mVYs5-196" value="redis&lt;br&gt;mode缓存" style="whiteSpace=wrap;html=1;fillColor=#FF99CC;" vertex="1" parent="1">
+          <mxGeometry x="1410" y="2890" width="90" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="PciO0lL1RMfXF03mVYs5-197" value="redis&lt;br&gt;adtag缓存" style="whiteSpace=wrap;html=1;fillColor=#FF99CC;" vertex="1" parent="1">
+          <mxGeometry x="1310" y="2935" width="90" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="PciO0lL1RMfXF03mVYs5-198" value="redis&lt;br&gt;openType缓存" style="whiteSpace=wrap;html=1;fillColor=#FF99CC;" vertex="1" parent="1">
+          <mxGeometry x="1410" y="2935" width="90" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="PciO0lL1RMfXF03mVYs5-199" value="微信&lt;br&gt;mpoauth2" style="whiteSpace=wrap;html=1;fillColor=#FF99CC;" vertex="1" parent="1">
+          <mxGeometry x="690" y="2340" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="PciO0lL1RMfXF03mVYs5-200" value="http&lt;br&gt;data-center&lt;br&gt;大数据埋点" style="whiteSpace=wrap;html=1;fillColor=#FF99CC;" vertex="1" parent="1">
+          <mxGeometry x="520" y="3111.8" width="90" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="PciO0lL1RMfXF03mVYs5-201" value="redis&lt;br&gt;wx code token缓存" style="whiteSpace=wrap;html=1;fillColor=#FF99CC;" vertex="1" parent="1">
+          <mxGeometry x="1530" y="2900" width="90" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="PciO0lL1RMfXF03mVYs5-202" value="redis&lt;br&gt;wexpubRegist锁" style="whiteSpace=wrap;html=1;fillColor=#FF99CC;" vertex="1" parent="1">
+          <mxGeometry x="1850" y="2839.6099999999997" width="90" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="PciO0lL1RMfXF03mVYs5-203" value="http&lt;br&gt;shop&lt;br&gt;团购信息/邀请关系" style="whiteSpace=wrap;html=1;fillColor=#FF99CC;" vertex="1" parent="1">
+          <mxGeometry x="510" y="2705" width="90" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="PciO0lL1RMfXF03mVYs5-204" value="http&lt;br&gt;console&lt;br&gt;购买信息" style="whiteSpace=wrap;html=1;fillColor=#FF99CC;" vertex="1" parent="1">
+          <mxGeometry x="610" y="2707.5" width="90" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="PciO0lL1RMfXF03mVYs5-205" value="http&lt;br&gt;短信中心" style="whiteSpace=wrap;html=1;fillColor=#FF99CC;" vertex="1" parent="1">
+          <mxGeometry x="700" y="2707.5" width="90" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="PciO0lL1RMfXF03mVYs5-206" value="内存&lt;br&gt;userInfo等&lt;br&gt;兜底处理" style="whiteSpace=wrap;html=1;fillColor=#FF99CC;" vertex="1" parent="1">
+          <mxGeometry x="380" y="2662.8" width="90" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="PciO0lL1RMfXF03mVYs5-207" value="http&lt;br&gt;channel-admin&lt;br&gt;渠道信息" style="whiteSpace=wrap;html=1;fillColor=#FF99CC;" vertex="1" parent="1">
+          <mxGeometry x="800" y="2617.5" width="90" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="PciO0lL1RMfXF03mVYs5-208" value="redis&lt;br&gt;jwt token缓存" style="whiteSpace=wrap;html=1;fillColor=#FF99CC;" vertex="1" parent="1">
+          <mxGeometry x="1640" y="2900" width="90" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="PciO0lL1RMfXF03mVYs5-209" value="http&lt;br&gt;小程序处理" style="whiteSpace=wrap;html=1;fillColor=#FF99CC;" vertex="1" parent="1">
+          <mxGeometry x="800" y="2675" width="90" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="PciO0lL1RMfXF03mVYs5-210" value="微信小程序注册" style="whiteSpace=wrap;html=1;fillColor=#FF99CC;" vertex="1" parent="1">
+          <mxGeometry x="1590" y="2617.5" width="90" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="PciO0lL1RMfXF03mVYs5-211" value="mysql&amp;nbsp;&lt;br&gt;小程序配置" style="whiteSpace=wrap;html=1;fillColor=#FF99CC;" vertex="1" parent="1">
+          <mxGeometry x="975" y="2855" width="90" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="PciO0lL1RMfXF03mVYs5-212" value="微信小程序和其他账号绑定merge" style="whiteSpace=wrap;html=1;fillColor=#FF99CC;" vertex="1" parent="1">
+          <mxGeometry x="1390" y="2679" width="90" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="PciO0lL1RMfXF03mVYs5-213" value="http&lt;br&gt;微信小程序和账号relation" style="whiteSpace=wrap;html=1;fillColor=#FF99CC;" vertex="1" parent="1">
+          <mxGeometry x="810" y="2724" width="90" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="PciO0lL1RMfXF03mVYs5-214" value="华为登录" style="whiteSpace=wrap;html=1;fillColor=#FF99CC;" vertex="1" parent="1">
+          <mxGeometry x="1500" y="2675" width="90" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="PciO0lL1RMfXF03mVYs5-215" value="华为绑定微信" style="whiteSpace=wrap;html=1;fillColor=#FF99CC;" vertex="1" parent="1">
+          <mxGeometry x="1600" y="2675" width="90" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="PciO0lL1RMfXF03mVYs5-216" value="修改手机号信息" style="whiteSpace=wrap;html=1;fillColor=#FF99CC;" vertex="1" parent="1">
+          <mxGeometry x="1600" y="2560" width="90" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="PciO0lL1RMfXF03mVYs5-217" value="redis&lt;br&gt;手机验证码缓存" style="whiteSpace=wrap;html=1;fillColor=#FF99CC;" vertex="1" parent="1">
+          <mxGeometry x="1530" y="2947.38" width="90" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="PciO0lL1RMfXF03mVYs5-218" value="修改密码信息" style="whiteSpace=wrap;html=1;fillColor=#FF99CC;" vertex="1" parent="1">
+          <mxGeometry x="1700" y="2560" width="90" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="PciO0lL1RMfXF03mVYs5-219" value="内存&lt;br&gt;验证码处理模块" style="whiteSpace=wrap;html=1;fillColor=#FF99CC;" vertex="1" parent="1">
+          <mxGeometry x="1710" y="2495" width="90" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="PciO0lL1RMfXF03mVYs5-220" value="内存&lt;br&gt;验证码模板管理" style="whiteSpace=wrap;html=1;fillColor=#FF99CC;" vertex="1" parent="1">
+          <mxGeometry x="379" y="2610" width="90" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="PciO0lL1RMfXF03mVYs5-221" value="内存&lt;br&gt;错误码管理" style="whiteSpace=wrap;html=1;fillColor=#FF99CC;" vertex="1" parent="1">
+          <mxGeometry x="70" y="2634" width="90" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="PciO0lL1RMfXF03mVYs5-222" value="内存&lt;br&gt;验证码白名单" style="whiteSpace=wrap;html=1;fillColor=#FF99CC;" vertex="1" parent="1">
+          <mxGeometry x="70" y="2680" width="90" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="PciO0lL1RMfXF03mVYs5-223" value="无验证&lt;br&gt;绑定手机号" style="whiteSpace=wrap;html=1;fillColor=#FF99CC;" vertex="1" parent="1">
+          <mxGeometry x="1710" y="2617.5" width="90" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="PciO0lL1RMfXF03mVYs5-224" value="userId绑定手机号" style="whiteSpace=wrap;html=1;fillColor=#FF99CC;" vertex="1" parent="1">
+          <mxGeometry x="1710" y="2679" width="90" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="PciO0lL1RMfXF03mVYs5-225" value="修改&lt;br&gt;手机账号密码" style="whiteSpace=wrap;html=1;fillColor=#FF99CC;" vertex="1" parent="1">
+          <mxGeometry x="1810" y="2500" width="90" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="PciO0lL1RMfXF03mVYs5-226" value="redis&lt;br&gt;mq账号生成器&lt;br&gt;(还可以靓号等）" style="whiteSpace=wrap;html=1;fillColor=#FF99CC;" vertex="1" parent="1">
+          <mxGeometry x="1740" y="2900" width="90" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="PciO0lL1RMfXF03mVYs5-227" value="内存&lt;br&gt;主板序列号白名单" style="whiteSpace=wrap;html=1;fillColor=#FF99CC;" vertex="1" parent="1">
+          <mxGeometry x="70" y="2725" width="90" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="PciO0lL1RMfXF03mVYs5-228" value="mysql&lt;br&gt;&amp;nbsp;登录设备&lt;br&gt;条件获取" style="whiteSpace=wrap;html=1;fillColor=#FF99CC;" vertex="1" parent="1">
+          <mxGeometry x="780" y="2926" width="90" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="PciO0lL1RMfXF03mVYs5-229" value="mysql&lt;br&gt;&amp;nbsp;登录设备&lt;br&gt;更新" style="whiteSpace=wrap;html=1;fillColor=#FF99CC;" vertex="1" parent="1">
+          <mxGeometry x="880" y="2926" width="90" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="PciO0lL1RMfXF03mVYs5-230" value="内存&lt;br&gt;重定向模块" style="whiteSpace=wrap;html=1;fillColor=#FF99CC;" vertex="1" parent="1">
+          <mxGeometry x="70" y="2589" width="90" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="PciO0lL1RMfXF03mVYs5-231" value="redis&lt;br&gt;二维码凭证缓存" style="whiteSpace=wrap;html=1;fillColor=#FF99CC;" vertex="1" parent="1">
+          <mxGeometry x="1640" y="2947.38" width="90" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="PciO0lL1RMfXF03mVYs5-232" value="大数据埋点模块" style="whiteSpace=wrap;html=1;fillColor=#FF99CC;" vertex="1" parent="1">
+          <mxGeometry x="1810" y="2570" width="90" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="PciO0lL1RMfXF03mVYs5-233" value="作废账号" style="whiteSpace=wrap;html=1;fillColor=#FF99CC;" vertex="1" parent="1">
+          <mxGeometry x="1810" y="2624.2" width="90" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="PciO0lL1RMfXF03mVYs5-234" value="常用设备" style="whiteSpace=wrap;html=1;fillColor=#FF99CC;" vertex="1" parent="1">
+          <mxGeometry x="1820" y="2680" width="90" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="PciO0lL1RMfXF03mVYs5-235" value="内存&lt;br&gt;客户端&lt;br&gt;手机号加密" style="whiteSpace=wrap;html=1;fillColor=#FF99CC;" vertex="1" parent="1">
+          <mxGeometry x="-20" y="2590.6099999999997" width="90" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="PciO0lL1RMfXF03mVYs5-236" value="微信信息绑定手机" style="whiteSpace=wrap;html=1;fillColor=#FF99CC;" vertex="1" parent="1">
+          <mxGeometry x="1910" y="2624.2" width="90" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="PciO0lL1RMfXF03mVYs5-237" value="内存&lt;br&gt;返回数据安全处理模块" style="whiteSpace=wrap;html=1;fillColor=#FF99CC;" vertex="1" parent="1">
+          <mxGeometry x="-30" y="2675" width="90" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="PciO0lL1RMfXF03mVYs5-238" value="http&lt;br&gt;aliyun token模块" style="whiteSpace=wrap;html=1;fillColor=#FF99CC;" vertex="1" parent="1">
+          <mxGeometry x="910" y="2617.8" width="90" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="PciO0lL1RMfXF03mVYs5-239" value="http&lt;br&gt;抖音模块" style="whiteSpace=wrap;html=1;fillColor=#FF99CC;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="2615" width="90" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="PciO0lL1RMfXF03mVYs5-240" value="微信logout" style="whiteSpace=wrap;html=1;fillColor=#FF99CC;" vertex="1" parent="1">
+          <mxGeometry x="1910" y="2570" width="90" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="PciO0lL1RMfXF03mVYs5-241" value="防刷" style="whiteSpace=wrap;html=1;fillColor=#FF99CC;" vertex="1" parent="1">
+          <mxGeometry x="1910" y="2500" width="90" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="PciO0lL1RMfXF03mVYs5-242" value="手机号注册" style="whiteSpace=wrap;html=1;fillColor=#FF99CC;" vertex="1" parent="1">
+          <mxGeometry x="1920" y="2675" width="90" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="PciO0lL1RMfXF03mVYs5-243" value="修改账号信息" style="whiteSpace=wrap;html=1;fillColor=#FF99CC;" vertex="1" parent="1">
+          <mxGeometry x="2030" y="2669.2" width="90" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="PciO0lL1RMfXF03mVYs5-244" value="关注注册" style="whiteSpace=wrap;html=1;fillColor=#FF99CC;" vertex="1" parent="1">
+          <mxGeometry x="2030" y="2615" width="90" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="PciO0lL1RMfXF03mVYs5-245" value="模块" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1755" y="2440" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
