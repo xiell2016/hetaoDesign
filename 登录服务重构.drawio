@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-30T08:47:44.746Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="5MvWurX3M47ApS2sKMcs" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-30T08:50:37.936Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="Jyq2BvrfBO1VeTVSqVBD" version="20.5.3" type="github">
   <diagram id="kJFJ0D_12UuaY3lmtUbJ" name="第 1 页">
     <mxGraphModel dx="2293" dy="1903" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1090,7 +1090,7 @@
           <mxGeometry x="364" y="870.6100000000001" width="185" height="190" as="geometry" />
         </mxCell>
         <mxCell id="PciO0lL1RMfXF03mVYs5-795" value="token&lt;br&gt;处理" style="whiteSpace=wrap;html=1;fillColor=#FFCCE6;" parent="1" vertex="1">
-          <mxGeometry x="150" y="914.4600000000003" width="90" height="45" as="geometry" />
+          <mxGeometry x="49" y="915.7700000000002" width="90" height="45" as="geometry" />
         </mxCell>
         <mxCell id="PciO0lL1RMfXF03mVYs5-796" value="内存&lt;br&gt;手机号*掩码" style="whiteSpace=wrap;html=1;fillColor=#FFCCE6;" parent="1" vertex="1">
           <mxGeometry x="459.5" y="959.6100000000001" width="90" height="45" as="geometry" />
@@ -1102,7 +1102,7 @@
           <mxGeometry x="263.25" y="1000.4900000000005" width="90" height="45" as="geometry" />
         </mxCell>
         <mxCell id="PciO0lL1RMfXF03mVYs5-799" value="内存&lt;br&gt;配置文件处理" style="whiteSpace=wrap;html=1;fillColor=#FFCCE6;" parent="1" vertex="1">
-          <mxGeometry x="47.75" y="912.4599999999998" width="101" height="47.15" as="geometry" />
+          <mxGeometry x="139" y="916.0799999999998" width="101" height="47.15" as="geometry" />
         </mxCell>
         <mxCell id="PciO0lL1RMfXF03mVYs5-800" value="微信client&lt;br&gt;管理器" style="whiteSpace=wrap;html=1;fillColor=#FFCCE6;" parent="1" vertex="1">
           <mxGeometry x="560.75" y="962.0200000000002" width="90" height="45" as="geometry" />
@@ -1116,7 +1116,7 @@
         <mxCell id="PciO0lL1RMfXF03mVYs5-803" value="内存&lt;br&gt;userInfo等&lt;br&gt;兜底处理" style="whiteSpace=wrap;html=1;fillColor=#FFCCE6;" parent="1" vertex="1">
           <mxGeometry x="459" y="1004.4900000000005" width="90" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="PciO0lL1RMfXF03mVYs5-804" value="内存&lt;br&gt;验证码处理模块" style="whiteSpace=wrap;html=1;fillColor=#FFCCE6;" parent="1" vertex="1">
+        <mxCell id="PciO0lL1RMfXF03mVYs5-804" value="内存&lt;br&gt;验证码处理" style="whiteSpace=wrap;html=1;fillColor=#FFCCE6;" parent="1" vertex="1">
           <mxGeometry x="52" y="1003.7700000000002" width="90" height="45" as="geometry" />
         </mxCell>
         <mxCell id="PciO0lL1RMfXF03mVYs5-805" value="内存&lt;br&gt;验证码模板管理" style="whiteSpace=wrap;html=1;fillColor=#FFCCE6;" parent="1" vertex="1">
@@ -1126,7 +1126,7 @@
           <mxGeometry x="369" y="914.49" width="90" height="45" as="geometry" />
         </mxCell>
         <mxCell id="PciO0lL1RMfXF03mVYs5-807" value="内存&lt;br&gt;验证码白名单" style="whiteSpace=wrap;html=1;fillColor=#FFCCE6;" parent="1" vertex="1">
-          <mxGeometry x="-42.5" y="1003.4599999999998" width="90" height="45" as="geometry" />
+          <mxGeometry x="-42.5" y="1003.46" width="92.5" height="45" as="geometry" />
         </mxCell>
         <mxCell id="PciO0lL1RMfXF03mVYs5-808" value="内存&lt;br&gt;主板序列号白名单" style="whiteSpace=wrap;html=1;fillColor=#FFCCE6;" parent="1" vertex="1">
           <mxGeometry x="144.25" y="961.3200000000003" width="101.5" height="40.4" as="geometry" />
