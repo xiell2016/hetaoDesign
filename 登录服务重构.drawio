@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-30T08:50:37.936Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="Jyq2BvrfBO1VeTVSqVBD" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-30T08:52:10.173Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="tX4pUaGdUnL0BxYuu3kY" version="20.5.3" type="github">
   <diagram id="kJFJ0D_12UuaY3lmtUbJ" name="第 1 页">
     <mxGraphModel dx="2293" dy="1903" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1048,7 +1048,7 @@
           <mxGeometry x="169" y="749.49" width="90" height="45" as="geometry" />
         </mxCell>
         <mxCell id="PciO0lL1RMfXF03mVYs5-781" value="内存&lt;br&gt;账号恢复黑名单" style="whiteSpace=wrap;html=1;fillColor=#FFCCE6;" parent="1" vertex="1">
-          <mxGeometry x="143.25" y="1003.61" width="96.75" height="45" as="geometry" />
+          <mxGeometry x="-44" y="959.49" width="96.75" height="45" as="geometry" />
         </mxCell>
         <mxCell id="PciO0lL1RMfXF03mVYs5-782" value="域名/mode/appid&lt;br&gt;转换器" style="whiteSpace=wrap;html=1;fillColor=#FFCCE6;" parent="1" vertex="1">
           <mxGeometry x="899" y="750.5500000000002" width="100" height="42.5" as="geometry" />
@@ -1116,11 +1116,8 @@
         <mxCell id="PciO0lL1RMfXF03mVYs5-803" value="内存&lt;br&gt;userInfo等&lt;br&gt;兜底处理" style="whiteSpace=wrap;html=1;fillColor=#FFCCE6;" parent="1" vertex="1">
           <mxGeometry x="459" y="1004.4900000000005" width="90" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="PciO0lL1RMfXF03mVYs5-804" value="内存&lt;br&gt;验证码处理" style="whiteSpace=wrap;html=1;fillColor=#FFCCE6;" parent="1" vertex="1">
-          <mxGeometry x="52" y="1003.7700000000002" width="90" height="45" as="geometry" />
-        </mxCell>
         <mxCell id="PciO0lL1RMfXF03mVYs5-805" value="内存&lt;br&gt;验证码模板管理" style="whiteSpace=wrap;html=1;fillColor=#FFCCE6;" parent="1" vertex="1">
-          <mxGeometry x="-44" y="957.5400000000003" width="100" height="45.4" as="geometry" />
+          <mxGeometry x="144" y="1004.6100000000004" width="100" height="45.4" as="geometry" />
         </mxCell>
         <mxCell id="PciO0lL1RMfXF03mVYs5-806" value="内存&lt;br&gt;错误码管理" style="whiteSpace=wrap;html=1;fillColor=#FFCCE6;" parent="1" vertex="1">
           <mxGeometry x="369" y="914.49" width="90" height="45" as="geometry" />
@@ -1129,13 +1126,13 @@
           <mxGeometry x="-42.5" y="1003.46" width="92.5" height="45" as="geometry" />
         </mxCell>
         <mxCell id="PciO0lL1RMfXF03mVYs5-808" value="内存&lt;br&gt;主板序列号白名单" style="whiteSpace=wrap;html=1;fillColor=#FFCCE6;" parent="1" vertex="1">
-          <mxGeometry x="144.25" y="961.3200000000003" width="101.5" height="40.4" as="geometry" />
+          <mxGeometry x="143.25" y="963.3200000000003" width="101.5" height="40.4" as="geometry" />
         </mxCell>
         <mxCell id="PciO0lL1RMfXF03mVYs5-809" value="内存&lt;br&gt;重定向模块" style="whiteSpace=wrap;html=1;fillColor=#FFCCE6;" parent="1" vertex="1">
           <mxGeometry x="369" y="958.2300000000002" width="90" height="45" as="geometry" />
         </mxCell>
         <mxCell id="PciO0lL1RMfXF03mVYs5-810" value="内存&lt;br&gt;客户端&lt;br&gt;手机号加密" style="whiteSpace=wrap;html=1;fillColor=#FFCCE6;" parent="1" vertex="1">
-          <mxGeometry x="54.25" y="957.74" width="90" height="45" as="geometry" />
+          <mxGeometry x="53.25" y="958.74" width="90" height="45" as="geometry" />
         </mxCell>
         <mxCell id="PciO0lL1RMfXF03mVYs5-811" value="内存&lt;br&gt;返回数据安全处理模块" style="whiteSpace=wrap;html=1;fillColor=#FFCCE6;" parent="1" vertex="1">
           <mxGeometry x="459" y="914.6100000000001" width="90" height="45" as="geometry" />
@@ -1388,6 +1385,9 @@
         </mxCell>
         <mxCell id="PciO0lL1RMfXF03mVYs5-894" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;功能模块划分&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="350" y="564.0000000000002" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-bejD2evjlZ876-dMXlc-1" value="内存&lt;br&gt;手机号白名单" style="whiteSpace=wrap;html=1;fillColor=#FFCCE6;" vertex="1" parent="1">
+          <mxGeometry x="50.5" y="1004.46" width="92.5" height="45" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
