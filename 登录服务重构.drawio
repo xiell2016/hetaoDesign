@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-30T08:52:10.173Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="tX4pUaGdUnL0BxYuu3kY" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-30T08:55:42.154Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="BQzVPHlbHvp3umYqWDN4" version="20.5.3" type="github">
   <diagram id="kJFJ0D_12UuaY3lmtUbJ" name="第 1 页">
     <mxGraphModel dx="2293" dy="1903" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1092,7 +1092,7 @@
         <mxCell id="PciO0lL1RMfXF03mVYs5-795" value="token&lt;br&gt;处理" style="whiteSpace=wrap;html=1;fillColor=#FFCCE6;" parent="1" vertex="1">
           <mxGeometry x="49" y="915.7700000000002" width="90" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="PciO0lL1RMfXF03mVYs5-796" value="内存&lt;br&gt;手机号*掩码" style="whiteSpace=wrap;html=1;fillColor=#FFCCE6;" parent="1" vertex="1">
+        <mxCell id="PciO0lL1RMfXF03mVYs5-796" value="内存&lt;br&gt;手机号*掩码规则" style="whiteSpace=wrap;html=1;fillColor=#FFCCE6;" parent="1" vertex="1">
           <mxGeometry x="459.5" y="959.6100000000001" width="90" height="45" as="geometry" />
         </mxCell>
         <mxCell id="PciO0lL1RMfXF03mVYs5-797" value="内存&lt;br&gt;账号密码&lt;br&gt;生成器" style="whiteSpace=wrap;html=1;fillColor=#FFCCE6;" parent="1" vertex="1">
@@ -1134,7 +1134,7 @@
         <mxCell id="PciO0lL1RMfXF03mVYs5-810" value="内存&lt;br&gt;客户端&lt;br&gt;手机号加密" style="whiteSpace=wrap;html=1;fillColor=#FFCCE6;" parent="1" vertex="1">
           <mxGeometry x="53.25" y="958.74" width="90" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="PciO0lL1RMfXF03mVYs5-811" value="内存&lt;br&gt;返回数据安全处理模块" style="whiteSpace=wrap;html=1;fillColor=#FFCCE6;" parent="1" vertex="1">
+        <mxCell id="PciO0lL1RMfXF03mVYs5-811" value="内存&lt;br&gt;返回数据安全处理" style="whiteSpace=wrap;html=1;fillColor=#FFCCE6;" parent="1" vertex="1">
           <mxGeometry x="459" y="914.6100000000001" width="90" height="45" as="geometry" />
         </mxCell>
         <mxCell id="PciO0lL1RMfXF03mVYs5-812" value="内存&lt;br&gt;防刷配置处理" style="whiteSpace=wrap;html=1;fillColor=#FFCCE6;" parent="1" vertex="1">
@@ -1255,10 +1255,10 @@
           <mxGeometry x="963" y="912.4600000000003" width="90" height="45" as="geometry" />
         </mxCell>
         <mxCell id="PciO0lL1RMfXF03mVYs5-851" value="mq&lt;br&gt;其他推送" style="whiteSpace=wrap;html=1;fillColor=#FFCCE6;" parent="1" vertex="1">
-          <mxGeometry x="963" y="957.4600000000003" width="90" height="45" as="geometry" />
+          <mxGeometry x="963" y="1003.2300000000002" width="90" height="45" as="geometry" />
         </mxCell>
         <mxCell id="PciO0lL1RMfXF03mVYs5-852" value="http&lt;br&gt;data-center&lt;br&gt;大数据埋点" style="whiteSpace=wrap;html=1;fillColor=#FFCCE6;" parent="1" vertex="1">
-          <mxGeometry x="963" y="1003.8700000000006" width="90" height="45" as="geometry" />
+          <mxGeometry x="963" y="957.4600000000006" width="90" height="45" as="geometry" />
         </mxCell>
         <mxCell id="PciO0lL1RMfXF03mVYs5-853" value="验证&amp;amp;防刷" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="54" y="876.0800000000002" width="80" height="30" as="geometry" />
@@ -1272,7 +1272,7 @@
         <mxCell id="PciO0lL1RMfXF03mVYs5-856" value="三方依赖" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="660" y="876.0800000000002" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="PciO0lL1RMfXF03mVYs5-857" value="用户数据" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+        <mxCell id="PciO0lL1RMfXF03mVYs5-857" value="内部依赖" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="856.5" y="873.46" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PciO0lL1RMfXF03mVYs5-858" value="推送通知" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
