@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-12-01T02:33:40.008Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="hombKERhujf-dL0mG8xY" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-01T02:46:20.775Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="VtKs70tDo_bugPpB9voS" version="20.5.3" type="github">
   <diagram id="kJFJ0D_12UuaY3lmtUbJ" name="第 1 页">
-    <mxGraphModel dx="2493" dy="1963" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2293" dy="1903" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -46,16 +46,16 @@
         <mxCell id="mRexfQhfjzAPBLykWlBQ-17" value="&lt;div class=&quot;mind-clipboard&quot;&gt;&lt;div class=&quot;mind-clipboard&quot;&gt;&lt;div&gt;小程序&lt;span&gt;微信&lt;/span&gt;&lt;/div&gt;&lt;div&gt;认证流程&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#99CCFF;" parent="1" vertex="1">
           <mxGeometry x="1953" y="391.5" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="mRexfQhfjzAPBLykWlBQ-19" value="&lt;div&gt;客户端微信&lt;/div&gt;绑定逻辑" style="whiteSpace=wrap;html=1;fillColor=#99CCFF;" parent="1" vertex="1">
+        <mxCell id="mRexfQhfjzAPBLykWlBQ-19" value="&lt;div&gt;客户端微信&lt;/div&gt;登录绑定逻辑" style="whiteSpace=wrap;html=1;fillColor=#99CCFF;" parent="1" vertex="1">
           <mxGeometry x="1643" y="466.5" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="mRexfQhfjzAPBLykWlBQ-20" value="&lt;div class=&quot;mind-clipboard&quot;&gt;&lt;div class=&quot;mind-clipboard&quot;&gt;&lt;span style=&quot;color: rgb(50, 50, 50); font-size: 13px; background-color: rgba(255, 255, 255, 0.008);&quot;&gt;手机号&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;mind-clipboard&quot;&gt;绑定逻辑&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#99CCFF;" parent="1" vertex="1">
+        <mxCell id="mRexfQhfjzAPBLykWlBQ-20" value="&lt;div class=&quot;mind-clipboard&quot;&gt;&lt;div class=&quot;mind-clipboard&quot;&gt;&lt;span style=&quot;color: rgb(50, 50, 50); font-size: 13px; background-color: rgba(255, 255, 255, 0.008);&quot;&gt;手机号&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;登录&lt;span style=&quot;background-color: initial;&quot;&gt;绑定逻辑&lt;/span&gt;" style="whiteSpace=wrap;html=1;fillColor=#99CCFF;" parent="1" vertex="1">
           <mxGeometry x="1743" y="466.5" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="mRexfQhfjzAPBLykWlBQ-21" value="&lt;div class=&quot;mind-clipboard&quot;&gt;&lt;div&gt;h5微信&lt;/div&gt;&lt;div class=&quot;mind-clipboard&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;绑定逻辑&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#99CCFF;" parent="1" vertex="1">
+        <mxCell id="mRexfQhfjzAPBLykWlBQ-21" value="&lt;div class=&quot;mind-clipboard&quot;&gt;&lt;div&gt;h5微信&lt;/div&gt;&lt;div class=&quot;mind-clipboard&quot;&gt;登录&lt;span style=&quot;background-color: initial;&quot;&gt;绑定逻辑&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#99CCFF;" parent="1" vertex="1">
           <mxGeometry x="1843" y="466.5" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="mRexfQhfjzAPBLykWlBQ-22" value="小程序微信&lt;br&gt;绑定逻辑" style="whiteSpace=wrap;html=1;fillColor=#99CCFF;" parent="1" vertex="1">
+        <mxCell id="mRexfQhfjzAPBLykWlBQ-22" value="小程序微信&lt;br&gt;登录&lt;span style=&quot;background-color: initial;&quot;&gt;绑定逻辑&lt;/span&gt;" style="whiteSpace=wrap;html=1;fillColor=#99CCFF;" parent="1" vertex="1">
           <mxGeometry x="1953" y="466.5" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="mRexfQhfjzAPBLykWlBQ-24" value="存储" style="whiteSpace=wrap;html=1;fillColor=#FFB366;" parent="1" vertex="1">
