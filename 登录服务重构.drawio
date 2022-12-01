@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-01T02:55:34.464Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="QZu5abh6tfoG6ZNr1frD" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-01T02:57:47.108Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="7Q-HN_UMJJ0tYIy0VCIW" version="20.5.3" type="github">
   <diagram id="kJFJ0D_12UuaY3lmtUbJ" name="第 1 页">
     <mxGraphModel dx="2890" dy="2082" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -690,7 +690,7 @@
         <mxCell id="PciO0lL1RMfXF03mVYs5-767" value="业务层" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#CCCCFF;" parent="1" vertex="1">
           <mxGeometry x="-142" y="734.6100000000001" width="70" height="98" as="geometry" />
         </mxCell>
-        <mxCell id="PciO0lL1RMfXF03mVYs5-768" value="认证逻辑" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#99CCFF;" parent="1" vertex="1">
+        <mxCell id="PciO0lL1RMfXF03mVYs5-768" value="逻辑组织&lt;br&gt;调度" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#99CCFF;" parent="1" vertex="1">
           <mxGeometry x="-141" y="873.4600000000003" width="74" height="208.75" as="geometry" />
         </mxCell>
         <mxCell id="PciO0lL1RMfXF03mVYs5-769" value="账号逻辑" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#66FFB3;" parent="1" vertex="1">
