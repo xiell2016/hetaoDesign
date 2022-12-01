@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-12-01T02:46:20.775Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="VtKs70tDo_bugPpB9voS" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-01T02:50:04.149Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="Ekgq8BcPARWQklTonZEh" version="20.5.3" type="github">
   <diagram id="kJFJ0D_12UuaY3lmtUbJ" name="第 1 页">
-    <mxGraphModel dx="2293" dy="1903" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2375" dy="1854" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -98,13 +98,13 @@
           <mxGeometry x="1993" y="510" width="10" height="22.5" as="geometry" />
         </mxCell>
         <mxCell id="mRexfQhfjzAPBLykWlBQ-73" value="&lt;div class=&quot;mind-clipboard&quot;&gt;三方&lt;br&gt;接口&lt;/div&gt;&lt;div class=&quot;mind-clipboard&quot;&gt;+&lt;/div&gt;&lt;div class=&quot;mind-clipboard&quot;&gt;部门&lt;/div&gt;&lt;div class=&quot;mind-clipboard&quot;&gt;接口&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#E6E6E6;" parent="1" vertex="1">
-          <mxGeometry x="2063" y="324" width="50" height="185" as="geometry" />
+          <mxGeometry x="2063" y="380" width="50" height="70" as="geometry" />
         </mxCell>
         <mxCell id="mRexfQhfjzAPBLykWlBQ-109" value="&lt;font style=&quot;font-size: 18px&quot;&gt;登录系统&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1773" y="269" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mRexfQhfjzAPBLykWlBQ-111" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCFFCC;" parent="1" vertex="1">
-          <mxGeometry x="2183" y="189" width="680" height="450" as="geometry" />
+          <mxGeometry x="2200" y="191.5" width="680" height="450" as="geometry" />
         </mxCell>
         <mxCell id="mRexfQhfjzAPBLykWlBQ-112" value="业务层" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#CCCCFF;" parent="1" vertex="1">
           <mxGeometry x="2220" y="314" width="90" height="50" as="geometry" />
@@ -149,7 +149,7 @@
           <mxGeometry x="2366.5" y="290.5" width="10" height="22.5" as="geometry" />
         </mxCell>
         <mxCell id="mRexfQhfjzAPBLykWlBQ-131" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;fillColor=#99CCFF;" parent="1" vertex="1">
-          <mxGeometry x="2370" y="460.5" width="10" height="22.5" as="geometry" />
+          <mxGeometry x="2421" y="460.5" width="10" height="22.5" as="geometry" />
         </mxCell>
         <mxCell id="mRexfQhfjzAPBLykWlBQ-132" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;fillColor=#99CCFF;" parent="1" vertex="1">
           <mxGeometry x="2370" y="535" width="10" height="22.5" as="geometry" />
@@ -164,16 +164,13 @@
           <mxGeometry x="2676.5" y="288.5" width="10" height="22.5" as="geometry" />
         </mxCell>
         <mxCell id="mRexfQhfjzAPBLykWlBQ-136" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;fillColor=#99CCFF;" parent="1" vertex="1">
-          <mxGeometry x="2680" y="463" width="10" height="22.5" as="geometry" />
-        </mxCell>
-        <mxCell id="mRexfQhfjzAPBLykWlBQ-137" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;fillColor=#99CCFF;" parent="1" vertex="1">
-          <mxGeometry x="2470" y="463" width="10" height="22.5" as="geometry" />
+          <mxGeometry x="2651" y="463" width="10" height="22.5" as="geometry" />
         </mxCell>
         <mxCell id="mRexfQhfjzAPBLykWlBQ-138" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;fillColor=#99CCFF;" parent="1" vertex="1">
           <mxGeometry x="2470" y="534" width="10" height="22.5" as="geometry" />
         </mxCell>
         <mxCell id="mRexfQhfjzAPBLykWlBQ-139" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;fillColor=#99CCFF;" parent="1" vertex="1">
-          <mxGeometry x="2570" y="463" width="10" height="22.5" as="geometry" />
+          <mxGeometry x="2531" y="463" width="10" height="22.5" as="geometry" />
         </mxCell>
         <mxCell id="mRexfQhfjzAPBLykWlBQ-140" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;fillColor=#99CCFF;" parent="1" vertex="1">
           <mxGeometry x="2570" y="535" width="10" height="22.5" as="geometry" />
@@ -194,16 +191,7 @@
           <mxGeometry x="2330" y="485" width="393" height="44" as="geometry" />
         </mxCell>
         <mxCell id="mRexfQhfjzAPBLykWlBQ-149" value="&lt;div class=&quot;mind-clipboard&quot;&gt;&lt;div&gt;统一参数转化&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#99CCFF;" parent="1" vertex="1">
-          <mxGeometry x="2330" y="431.5" width="90" height="27.5" as="geometry" />
-        </mxCell>
-        <mxCell id="mRexfQhfjzAPBLykWlBQ-150" value="&lt;div class=&quot;mind-clipboard&quot;&gt;&lt;div&gt;统一参数转化&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#99CCFF;" parent="1" vertex="1">
-          <mxGeometry x="2430" y="431.5" width="90" height="27.5" as="geometry" />
-        </mxCell>
-        <mxCell id="mRexfQhfjzAPBLykWlBQ-151" value="&lt;div class=&quot;mind-clipboard&quot;&gt;&lt;div&gt;统一参数转化&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#99CCFF;" parent="1" vertex="1">
-          <mxGeometry x="2530" y="431.5" width="90" height="27.5" as="geometry" />
-        </mxCell>
-        <mxCell id="mRexfQhfjzAPBLykWlBQ-152" value="&lt;div class=&quot;mind-clipboard&quot;&gt;&lt;div&gt;统一参数转化&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#99CCFF;" parent="1" vertex="1">
-          <mxGeometry x="2640" y="431.5" width="90" height="27.5" as="geometry" />
+          <mxGeometry x="2330" y="431.5" width="400" height="27.5" as="geometry" />
         </mxCell>
         <mxCell id="mRexfQhfjzAPBLykWlBQ-155" value="&lt;div class=&quot;mind-clipboard&quot;&gt;appid配置&lt;/div&gt;&lt;div class=&quot;mind-clipboard&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div class=&quot;mind-clipboard&quot;&gt;短信配置&lt;/div&gt;&lt;div class=&quot;mind-clipboard&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div class=&quot;mind-clipboard&quot;&gt;mp配置&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#80FF00;" parent="1" vertex="1">
           <mxGeometry x="2799" y="379" width="60" height="151" as="geometry" />
@@ -1391,6 +1379,9 @@
         </mxCell>
         <mxCell id="-bejD2evjlZ876-dMXlc-2" value="" style="shape=singleArrow;direction=west;whiteSpace=wrap;html=1;fillColor=#99CCFF;" parent="1" vertex="1">
           <mxGeometry x="330" y="1184.86" width="50" height="32.5" as="geometry" />
+        </mxCell>
+        <mxCell id="MCvlnnfc8C_oQc0QfDhz-1" value="&lt;div class=&quot;mind-clipboard&quot;&gt;&lt;span&gt;部门&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div class=&quot;mind-clipboard&quot;&gt;接口&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#E6E6E6;" vertex="1" parent="1">
+          <mxGeometry x="2063" y="469.75" width="50" height="36.75" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
