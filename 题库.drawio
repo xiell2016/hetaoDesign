@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-06T05:23:08.669Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="XYd3d2LzpH29YmIRjj0S" version="20.8.16" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-06T06:46:11.856Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="Sa-ezGKk8Xnla41xcf4s" version="20.8.16" type="github">
   <diagram name="第 1 页" id="4LB3VPhYWwdAGur-6obr">
     <mxGraphModel dx="1034" dy="1685" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -8,12 +8,12 @@
           <mxGeometry x="170" y="-10" width="200" height="495" as="geometry" />
         </mxCell>
         <mxCell id="QNNMNAnkimFnzDS3SCOf-27" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fillColor=#CCFFFF;" vertex="1" parent="1">
-          <mxGeometry x="435" y="-10" width="605" height="500" as="geometry" />
+          <mxGeometry x="435" y="-10" width="455" height="500" as="geometry" />
         </mxCell>
         <mxCell id="QNNMNAnkimFnzDS3SCOf-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;" edge="1" parent="1" source="QNNMNAnkimFnzDS3SCOf-2" target="QNNMNAnkimFnzDS3SCOf-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QNNMNAnkimFnzDS3SCOf-8" value="判题" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;fontFamily=Helvetica;" vertex="1" connectable="0" parent="QNNMNAnkimFnzDS3SCOf-7">
+        <mxCell id="QNNMNAnkimFnzDS3SCOf-8" value="3.判题" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;fontFamily=Helvetica;" vertex="1" connectable="0" parent="QNNMNAnkimFnzDS3SCOf-7">
           <mxGeometry x="-0.1125" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -21,10 +21,15 @@
         <mxCell id="QNNMNAnkimFnzDS3SCOf-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;" edge="1" parent="1" source="QNNMNAnkimFnzDS3SCOf-2" target="QNNMNAnkimFnzDS3SCOf-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="QNNMNAnkimFnzDS3SCOf-59" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;2.获取信息&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=24;fontFamily=Helvetica;" vertex="1" connectable="0" parent="QNNMNAnkimFnzDS3SCOf-22">
+          <mxGeometry x="0.2653" y="-2" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="QNNMNAnkimFnzDS3SCOf-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;" edge="1" parent="1" source="QNNMNAnkimFnzDS3SCOf-2" target="QNNMNAnkimFnzDS3SCOf-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QNNMNAnkimFnzDS3SCOf-43" value="题目信息整合&lt;br&gt;返回结果" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;fontFamily=Helvetica;" vertex="1" connectable="0" parent="QNNMNAnkimFnzDS3SCOf-41">
+        <mxCell id="QNNMNAnkimFnzDS3SCOf-43" value="信息整合&lt;br&gt;返回结果" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;fontFamily=Helvetica;" vertex="1" connectable="0" parent="QNNMNAnkimFnzDS3SCOf-41">
           <mxGeometry x="-0.2087" y="-3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -36,17 +41,26 @@
           <mxGeometry x="220" y="230" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QNNMNAnkimFnzDS3SCOf-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;" edge="1" parent="1" source="QNNMNAnkimFnzDS3SCOf-3" target="QNNMNAnkimFnzDS3SCOf-9">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="340" y="365" />
+            </Array>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="QNNMNAnkimFnzDS3SCOf-35" value="case1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;fontFamily=Helvetica;" vertex="1" connectable="0" parent="QNNMNAnkimFnzDS3SCOf-32">
+        <mxCell id="QNNMNAnkimFnzDS3SCOf-35" value="4.1 case1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;fontFamily=Helvetica;" vertex="1" connectable="0" parent="QNNMNAnkimFnzDS3SCOf-32">
           <mxGeometry x="-0.0099" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="QNNMNAnkimFnzDS3SCOf-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;" edge="1" parent="1" source="QNNMNAnkimFnzDS3SCOf-3" target="QNNMNAnkimFnzDS3SCOf-9">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="430" y="445" />
+              <mxPoint x="430" y="395" />
+            </Array>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="QNNMNAnkimFnzDS3SCOf-36" value="case2" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;fontFamily=Helvetica;" vertex="1" connectable="0" parent="QNNMNAnkimFnzDS3SCOf-33">
+        <mxCell id="QNNMNAnkimFnzDS3SCOf-36" value="4.2 case2" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;fontFamily=Helvetica;" vertex="1" connectable="0" parent="QNNMNAnkimFnzDS3SCOf-33">
           <mxGeometry x="-0.0693" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -67,39 +81,44 @@
             <mxPoint x="250" y="116" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QNNMNAnkimFnzDS3SCOf-6" value="请求判题" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;fontFamily=Helvetica;" vertex="1" connectable="0" parent="QNNMNAnkimFnzDS3SCOf-5">
+        <mxCell id="QNNMNAnkimFnzDS3SCOf-6" value="1. 请求判题" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;fontFamily=Helvetica;" vertex="1" connectable="0" parent="QNNMNAnkimFnzDS3SCOf-5">
           <mxGeometry x="-0.1571" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QNNMNAnkimFnzDS3SCOf-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;" edge="1" parent="1" source="QNNMNAnkimFnzDS3SCOf-9" target="QNNMNAnkimFnzDS3SCOf-13">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="QNNMNAnkimFnzDS3SCOf-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;" edge="1" parent="1" source="QNNMNAnkimFnzDS3SCOf-9" target="QNNMNAnkimFnzDS3SCOf-3">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="400" y="380" />
+              <mxPoint x="400" y="430" />
+            </Array>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="QNNMNAnkimFnzDS3SCOf-39" value="case1返回" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;fontFamily=Helvetica;" vertex="1" connectable="0" parent="QNNMNAnkimFnzDS3SCOf-38">
+        <mxCell id="QNNMNAnkimFnzDS3SCOf-39" value="4.1 case1返回" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;fontFamily=Helvetica;" vertex="1" connectable="0" parent="QNNMNAnkimFnzDS3SCOf-38">
           <mxGeometry x="-0.0495" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QNNMNAnkimFnzDS3SCOf-9" value="编译" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCFF99;" vertex="1" parent="1">
-          <mxGeometry x="462" y="400" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="QNNMNAnkimFnzDS3SCOf-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;" edge="1" parent="1" source="QNNMNAnkimFnzDS3SCOf-13" target="QNNMNAnkimFnzDS3SCOf-17">
+        <mxCell id="QNNMNAnkimFnzDS3SCOf-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=24;" edge="1" parent="1" source="QNNMNAnkimFnzDS3SCOf-9" target="QNNMNAnkimFnzDS3SCOf-53">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QNNMNAnkimFnzDS3SCOf-9" value="合法检测&lt;br&gt;（代码关键字、超时、超内存等）" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCFF99;" vertex="1" parent="1">
+          <mxGeometry x="540" y="350" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QNNMNAnkimFnzDS3SCOf-10" value="einstein-logic&lt;br&gt;(golang)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFCCCC;" vertex="1" parent="1">
           <mxGeometry x="220" y="55" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="QNNMNAnkimFnzDS3SCOf-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=24;" edge="1" parent="1" source="QNNMNAnkimFnzDS3SCOf-13" target="QNNMNAnkimFnzDS3SCOf-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="QNNMNAnkimFnzDS3SCOf-13" value="判题插件启动&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;(子进程-python)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCFF99;" vertex="1" parent="1">
-          <mxGeometry x="603" y="400" width="120" height="60" as="geometry" />
+          <mxGeometry x="750" y="425" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QNNMNAnkimFnzDS3SCOf-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=24;" edge="1" parent="1" source="QNNMNAnkimFnzDS3SCOf-17" target="QNNMNAnkimFnzDS3SCOf-49">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QNNMNAnkimFnzDS3SCOf-17" value="资源限制、trace等&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;(子进程-c)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCFF99;" vertex="1" parent="1">
-          <mxGeometry x="741" y="400" width="119" height="60" as="geometry" />
+          <mxGeometry x="609" y="425" width="119" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QNNMNAnkimFnzDS3SCOf-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;" edge="1" parent="1" source="QNNMNAnkimFnzDS3SCOf-20" target="QNNMNAnkimFnzDS3SCOf-21">
           <mxGeometry relative="1" as="geometry" />
@@ -120,7 +139,13 @@
           <mxGeometry x="462" y="270" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QNNMNAnkimFnzDS3SCOf-49" value="执行判题&lt;br&gt;(python、c应用程序)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCFF99;" vertex="1" parent="1">
-          <mxGeometry x="890" y="400" width="119" height="60" as="geometry" />
+          <mxGeometry x="463" y="425" width="119" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QNNMNAnkimFnzDS3SCOf-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=24;" edge="1" parent="1" source="QNNMNAnkimFnzDS3SCOf-53" target="QNNMNAnkimFnzDS3SCOf-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QNNMNAnkimFnzDS3SCOf-53" value="编译&lt;br&gt;（子进程-shell)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCFF99;" vertex="1" parent="1">
+          <mxGeometry x="707" y="350" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
