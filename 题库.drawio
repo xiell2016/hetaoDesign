@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-02-06T08:22:29.865Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="e-ZEdfBy8c6SfHoAZIDR" version="20.8.16" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-06T09:19:48.814Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="_XV5wKzNU6CT7SD0f5o3" version="20.8.16" type="github">
   <diagram name="第 1 页" id="4LB3VPhYWwdAGur-6obr">
-    <mxGraphModel dx="1477" dy="1955" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="899" dy="1647" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -324,6 +324,39 @@
         </mxCell>
         <mxCell id="FJg1SBBiD9YUJrhbdtov-140" value="&lt;h1&gt;新流程&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="440" y="573" width="127" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="FJg1SBBiD9YUJrhbdtov-141" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#CCFFFF;" vertex="1" parent="1">
+          <mxGeometry x="1260" y="15" width="270" height="325" as="geometry" />
+        </mxCell>
+        <mxCell id="FJg1SBBiD9YUJrhbdtov-142" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#CCFFFF;" vertex="1" parent="1">
+          <mxGeometry x="1275" y="80" width="235" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="FJg1SBBiD9YUJrhbdtov-143" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#CCFFFF;" vertex="1" parent="1">
+          <mxGeometry x="1290" y="140" width="200" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="FJg1SBBiD9YUJrhbdtov-145" value="judge_server&lt;br&gt;(java)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="1380" y="15" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FJg1SBBiD9YUJrhbdtov-146" value="Lo-runner&lt;br&gt;(python + C)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="1365" y="85" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FJg1SBBiD9YUJrhbdtov-147" value="题目运行子进程&lt;br&gt;(c)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="1350" y="145" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FJg1SBBiD9YUJrhbdtov-150" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;runtime.exec()&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="1275" y="55" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FJg1SBBiD9YUJrhbdtov-151" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;vfork()&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="1275" y="115" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FJg1SBBiD9YUJrhbdtov-152" value="1. 时间限制、内存资源限制&lt;br&gt;2.execvp(判题程序）" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="1305" y="190" width="185" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="FJg1SBBiD9YUJrhbdtov-154" value="超时限制设置" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="1265" y="40" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FJg1SBBiD9YUJrhbdtov-155" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;判题&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="1275" y="270" width="45" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
