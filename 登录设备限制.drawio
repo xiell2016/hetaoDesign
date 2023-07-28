@@ -1,9 +1,130 @@
-<mxfile host="app.diagrams.net" modified="2023-07-28T03:26:48.609Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" version="21.6.5" etag="H6Qcq6dTEhhccJdQyKPR" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-28T07:32:59.661Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="8ke25MgsaRGHGsy3nY1K" version="21.6.5" type="github">
   <diagram name="第 1 页" id="X-xQZxfg_xba9_xP6oeh">
-    <mxGraphModel>
+    <mxGraphModel dx="1194" dy="766" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="H1sqpdMl3Yht_voogCkb-2" value="app1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="160" width="90" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="H1sqpdMl3Yht_voogCkb-3" value="nginx（token-fe模块）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="320" width="950" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="H1sqpdMl3Yht_voogCkb-4" value="后端登录服务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="460" width="950" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="H1sqpdMl3Yht_voogCkb-5" value="mysql" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="640" width="950" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="H1sqpdMl3Yht_voogCkb-6" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.064;entryY=-0.033;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="H1sqpdMl3Yht_voogCkb-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="300" y="230" as="sourcePoint" />
+            <mxPoint x="300" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H1sqpdMl3Yht_voogCkb-7" value="1.1登录接口&lt;br&gt;第1个设备" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="H1sqpdMl3Yht_voogCkb-6">
+          <mxGeometry x="-0.0636" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H1sqpdMl3Yht_voogCkb-8" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="310" y="525" as="sourcePoint" />
+            <mxPoint x="310" y="645" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H1sqpdMl3Yht_voogCkb-9" value="1.3记录设备列表" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="H1sqpdMl3Yht_voogCkb-8">
+          <mxGeometry x="-0.0636" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H1sqpdMl3Yht_voogCkb-10" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.064;entryY=-0.033;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="300" y="380" as="sourcePoint" />
+            <mxPoint x="301" y="468" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H1sqpdMl3Yht_voogCkb-12" value="1.2" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="H1sqpdMl3Yht_voogCkb-10">
+          <mxGeometry x="0.0221" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H1sqpdMl3Yht_voogCkb-13" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.182;entryY=-0.017;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="H1sqpdMl3Yht_voogCkb-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="413" y="220" as="sourcePoint" />
+            <mxPoint x="414" y="308" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H1sqpdMl3Yht_voogCkb-14" value="2.1登录接口&lt;br&gt;第4个设备登录" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="H1sqpdMl3Yht_voogCkb-13">
+          <mxGeometry x="-0.0636" y="3" relative="1" as="geometry">
+            <mxPoint y="9" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H1sqpdMl3Yht_voogCkb-15" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.064;entryY=-0.033;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="410" y="380" as="sourcePoint" />
+            <mxPoint x="411" y="468" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H1sqpdMl3Yht_voogCkb-16" value="2.2" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="H1sqpdMl3Yht_voogCkb-15">
+          <mxGeometry x="-0.0636" y="3" relative="1" as="geometry">
+            <mxPoint y="9" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H1sqpdMl3Yht_voogCkb-17" value="app4&lt;br&gt;(android)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="369" y="150" width="90" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="H1sqpdMl3Yht_voogCkb-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.3;entryY=-0.067;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="H1sqpdMl3Yht_voogCkb-18" target="H1sqpdMl3Yht_voogCkb-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="525" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H1sqpdMl3Yht_voogCkb-30" value="带token接口请求" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="H1sqpdMl3Yht_voogCkb-29">
+          <mxGeometry x="0.2308" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H1sqpdMl3Yht_voogCkb-18" value="app1&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;(ios pad)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="150" width="90" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="H1sqpdMl3Yht_voogCkb-19" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="413" y="520" as="sourcePoint" />
+            <mxPoint x="413" y="640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H1sqpdMl3Yht_voogCkb-20" value="2.3记录设备列表" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="H1sqpdMl3Yht_voogCkb-19">
+          <mxGeometry x="-0.0636" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H1sqpdMl3Yht_voogCkb-25" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="503.5" y="460" as="sourcePoint" />
+            <mxPoint x="503.5" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H1sqpdMl3Yht_voogCkb-26" value="2.3" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="H1sqpdMl3Yht_voogCkb-25">
+          <mxGeometry x="-0.0636" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H1sqpdMl3Yht_voogCkb-27" value="2.4 app1的token拉黑" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="H1sqpdMl3Yht_voogCkb-25">
+          <mxGeometry y="1" relative="1" as="geometry">
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H1sqpdMl3Yht_voogCkb-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.867;entryY=1.057;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="H1sqpdMl3Yht_voogCkb-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="535" y="326" as="targetPoint" />
+            <mxPoint x="560" y="300" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H1sqpdMl3Yht_voogCkb-34" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="H1sqpdMl3Yht_voogCkb-31">
+          <mxGeometry x="0.0572" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
