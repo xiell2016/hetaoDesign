@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-17T08:07:20.528Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="lftdCLMIdRc0mWlVZhhT" version="21.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-17T08:16:23.743Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="qQeHaenZCFfERe1VjBMh" version="21.8.0" type="github">
   <diagram name="第 1 页" id="Y1HsQ0itf-nCOPws9BB6">
     <mxGraphModel dx="1194" dy="760" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -46,30 +46,30 @@
           <mxGeometry x="230" y="450" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sFtv7r6JDpLOcGtbxZpa-12" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#99FFCC;" vertex="1" parent="1">
-          <mxGeometry x="580" y="190" width="490" height="420" as="geometry" />
+          <mxGeometry x="580" y="190" width="490" height="400" as="geometry" />
         </mxCell>
-        <mxCell id="sFtv7r6JDpLOcGtbxZpa-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="sFtv7r6JDpLOcGtbxZpa-7" target="sFtv7r6JDpLOcGtbxZpa-13">
+        <mxCell id="sFtv7r6JDpLOcGtbxZpa-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1.018;exitY=0.867;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" source="sFtv7r6JDpLOcGtbxZpa-7" target="sFtv7r6JDpLOcGtbxZpa-15">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="675" y="640" as="targetPoint" />
+            <mxPoint x="400" y="630" as="sourcePoint" />
+            <mxPoint x="970" y="690" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="470" y="490" />
-              <mxPoint x="545" y="490" />
-              <mxPoint x="545" y="573" />
-              <mxPoint x="675" y="573" />
+              <mxPoint x="440" y="502" />
+              <mxPoint x="440" y="570" />
+              <mxPoint x="940" y="570" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="sFtv7r6JDpLOcGtbxZpa-13" value="a.模拟点击开始按钮，运行开始&lt;br&gt;b.手机" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="615" y="270" width="195" height="270" as="geometry" />
+        <mxCell id="sFtv7r6JDpLOcGtbxZpa-13" value="" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="600" y="270" width="220" height="270" as="geometry" />
         </mxCell>
         <mxCell id="sFtv7r6JDpLOcGtbxZpa-15" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="840" y="270" width="200" height="270" as="geometry" />
+          <mxGeometry x="830" y="270" width="230" height="270" as="geometry" />
         </mxCell>
         <mxCell id="sFtv7r6JDpLOcGtbxZpa-16" value="无头浏览器" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="760" y="200" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="sFtv7r6JDpLOcGtbxZpa-17" value="网页1&lt;br&gt;（网页3分钟后强制关闭）" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="620" y="290" width="185" height="30" as="geometry" />
+        <mxCell id="sFtv7r6JDpLOcGtbxZpa-17" value="网页1&lt;br&gt;（网页超时时间3分钟，超时自动关闭）" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="600" y="290" width="220" height="30" as="geometry" />
         </mxCell>
         <mxCell id="sFtv7r6JDpLOcGtbxZpa-41" value="后端判题服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="1050" width="160" height="60" as="geometry" />
@@ -120,7 +120,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="sFtv7r6JDpLOcGtbxZpa-64" value="浏览器并发运行判题" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="374" y="530" width="100" height="30" as="geometry" />
+          <mxGeometry x="400" y="520" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="sFtv7r6JDpLOcGtbxZpa-66" value=".订阅回调，返回判题结果" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="340" y="360" width="100" height="30" as="geometry" />
@@ -128,34 +128,25 @@
         <mxCell id="sFtv7r6JDpLOcGtbxZpa-67" value="判题结果入库" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="200" y="523" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="sFtv7r6JDpLOcGtbxZpa-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+        <mxCell id="sFtv7r6JDpLOcGtbxZpa-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="sFtv7r6JDpLOcGtbxZpa-13">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="380" y="490" as="sourcePoint" />
+            <mxPoint x="370" y="490" as="sourcePoint" />
             <mxPoint x="825" y="553" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="370" y="490" />
-              <mxPoint x="370" y="500" />
-              <mxPoint x="510" y="500" />
-              <mxPoint x="510" y="583" />
-              <mxPoint x="825" y="583" />
+              <mxPoint x="460" y="490" />
+              <mxPoint x="460" y="560" />
+              <mxPoint x="710" y="560" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="sFtv7r6JDpLOcGtbxZpa-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="sFtv7r6JDpLOcGtbxZpa-7" target="sFtv7r6JDpLOcGtbxZpa-15">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="370" y="543.5" as="sourcePoint" />
-            <mxPoint x="560" y="636.5" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="440" y="510" />
-              <mxPoint x="440" y="640" />
-              <mxPoint x="545" y="640" />
-              <mxPoint x="545" y="637" />
-              <mxPoint x="975" y="637" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="sFtv7r6JDpLOcGtbxZpa-75" value="网页2&lt;br&gt;（网页超时时间3分钟，超时自动关闭）" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="830" y="290" width="220" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="sFtv7r6JDpLOcGtbxZpa-72" value="网页2&lt;br&gt;（网页3分钟后强制关闭）" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="840" y="290" width="185" height="30" as="geometry" />
+        <mxCell id="sFtv7r6JDpLOcGtbxZpa-76" value="a.模拟点击开始按钮，运行开始&lt;br style=&quot;border-color: var(--border-color); text-align: left;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;b.模拟点击结束按钮，运行结束&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color); text-align: left;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;c.收集运行结果，进程管道返回给服务&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="615" y="350" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="sFtv7r6JDpLOcGtbxZpa-77" value="a.模拟点击开始按钮，运行开始&lt;br style=&quot;border-color: var(--border-color); text-align: left;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;b.模拟点击结束按钮，运行结束&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color); text-align: left;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;c.收集运行结果，进程管道返回给服务&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="840" y="350" width="200" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
