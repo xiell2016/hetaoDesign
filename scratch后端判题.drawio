@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-17T08:51:46.122Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="avaP1M78w0hZWuwoFwiT" version="21.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-17T09:01:17.606Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="qSuNYqUE-GR2nLQURaTe" version="21.8.0" type="github">
   <diagram name="第 1 页" id="Y1HsQ0itf-nCOPws9BB6">
     <mxGraphModel dx="1194" dy="760" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -99,21 +99,21 @@
           <mxGeometry x="239" y="560" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sFtv7r6JDpLOcGtbxZpa-57" value="0.1后端服务开始时，启动子进程浏览器&lt;br&gt;&lt;br&gt;0.2浏览器子进程守护，退出即重启" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="600" y="250" width="240" height="60" as="geometry" />
+          <mxGeometry x="587" y="270" width="240" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sFtv7r6JDpLOcGtbxZpa-59" value="1.老师批量提交判题请求" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="209" y="190" width="60" height="30" as="geometry" />
+          <mxGeometry x="209" y="190" width="151" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="sFtv7r6JDpLOcGtbxZpa-60" value="2.投入消息队列，用于流量肖峰" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="209" y="310" width="100" height="30" as="geometry" />
+        <mxCell id="sFtv7r6JDpLOcGtbxZpa-60" value="2.投入消息队列(流量肖峰)" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="169" y="320" width="169" height="30" as="geometry" />
         </mxCell>
         <mxCell id="sFtv7r6JDpLOcGtbxZpa-62" value="3.消费判题请求&lt;br&gt;（控制消费并发数量）" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="169" y="413" width="140" height="30" as="geometry" />
+          <mxGeometry x="180" y="413" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="sFtv7r6JDpLOcGtbxZpa-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="sFtv7r6JDpLOcGtbxZpa-7" target="sFtv7r6JDpLOcGtbxZpa-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="sFtv7r6JDpLOcGtbxZpa-64" value="浏览器并发运行判题" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="sFtv7r6JDpLOcGtbxZpa-64" value="4.浏览器并发运行判题" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="389" y="520" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="sFtv7r6JDpLOcGtbxZpa-66" value=".订阅回调，返回判题结果" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -134,13 +134,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="sFtv7r6JDpLOcGtbxZpa-75" value="网页2&lt;br&gt;（网页超时3分钟，超时自动关闭）" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="827" y="413" width="220" height="30" as="geometry" />
+          <mxGeometry x="827" y="400" width="220" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="sFtv7r6JDpLOcGtbxZpa-76" value="a.模拟点击开始按钮，运行开始&lt;br style=&quot;border-color: var(--border-color); text-align: left;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;b.模拟点击结束按钮，运行结束&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color); text-align: left;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;c.收集运行结果，进程管道返回给服务&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+        <mxCell id="sFtv7r6JDpLOcGtbxZpa-76" value="4.2.模拟点击开始按钮，运行开始&lt;br style=&quot;border-color: var(--border-color); text-align: left;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;4.3.模拟点击结束按钮，运行结束&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color); text-align: left;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;4.4.收集运行结果，进程管道返回给服务&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="610" y="460" width="200" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="sFtv7r6JDpLOcGtbxZpa-77" value="a.模拟点击开始按钮，运行开始&lt;br style=&quot;border-color: var(--border-color); text-align: left;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;b.模拟点击结束按钮，运行结束&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color); text-align: left;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;c.收集运行结果，进程管道返回给服务&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="840" y="470" width="200" height="80" as="geometry" />
+        <mxCell id="sFtv7r6JDpLOcGtbxZpa-80" value="4.2.模拟点击开始按钮，运行开始&lt;br style=&quot;border-color: var(--border-color); text-align: left;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;4.3.模拟点击结束按钮，运行结束&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color); text-align: left;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;4.4.收集运行结果，进程管道返回给服务&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="845" y="460" width="200" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
