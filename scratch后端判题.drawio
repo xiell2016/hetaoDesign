@@ -1,28 +1,28 @@
-<mxfile host="app.diagrams.net" modified="2023-10-17T07:51:27.374Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="8F0wh9B8OQpDpKYH7FY6" version="21.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-17T08:07:20.528Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="lftdCLMIdRc0mWlVZhhT" version="21.8.0" type="github">
   <diagram name="第 1 页" id="Y1HsQ0itf-nCOPws9BB6">
     <mxGraphModel dx="1194" dy="760" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="sFtv7r6JDpLOcGtbxZpa-3" value="消息队列" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.sequential_data;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="sFtv7r6JDpLOcGtbxZpa-3" value="消息队列" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.sequential_data;whiteSpace=wrap;fillColor=#FFE6CC;" vertex="1" parent="1">
           <mxGeometry x="270" y="370" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="sFtv7r6JDpLOcGtbxZpa-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="sFtv7r6JDpLOcGtbxZpa-4" target="sFtv7r6JDpLOcGtbxZpa-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="sFtv7r6JDpLOcGtbxZpa-4" value="老师1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="sFtv7r6JDpLOcGtbxZpa-4" value="老师1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E6E6E6;" vertex="1" parent="1">
           <mxGeometry x="130" y="120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sFtv7r6JDpLOcGtbxZpa-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="sFtv7r6JDpLOcGtbxZpa-5" target="sFtv7r6JDpLOcGtbxZpa-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="sFtv7r6JDpLOcGtbxZpa-5" value="老师2" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="sFtv7r6JDpLOcGtbxZpa-5" value="老师2" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E6E6E6;" vertex="1" parent="1">
           <mxGeometry x="354" y="120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sFtv7r6JDpLOcGtbxZpa-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sFtv7r6JDpLOcGtbxZpa-6" target="sFtv7r6JDpLOcGtbxZpa-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="sFtv7r6JDpLOcGtbxZpa-6" value="scratch判题&lt;br&gt;web服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="sFtv7r6JDpLOcGtbxZpa-6" value="scratch判题&lt;br&gt;web服务" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#99FFFF;" vertex="1" parent="1">
           <mxGeometry x="230" y="240" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sFtv7r6JDpLOcGtbxZpa-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sFtv7r6JDpLOcGtbxZpa-7">
@@ -42,7 +42,7 @@
         <mxCell id="sFtv7r6JDpLOcGtbxZpa-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="sFtv7r6JDpLOcGtbxZpa-7" target="sFtv7r6JDpLOcGtbxZpa-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="sFtv7r6JDpLOcGtbxZpa-7" value="scratch判题&lt;br&gt;判题服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="sFtv7r6JDpLOcGtbxZpa-7" value="scratch判题&lt;br&gt;判题服务" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#99FFFF;" vertex="1" parent="1">
           <mxGeometry x="230" y="450" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sFtv7r6JDpLOcGtbxZpa-12" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#99FFCC;" vertex="1" parent="1">
@@ -59,26 +59,17 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="sFtv7r6JDpLOcGtbxZpa-13" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="615" y="293" width="110" height="270" as="geometry" />
-        </mxCell>
-        <mxCell id="sFtv7r6JDpLOcGtbxZpa-14" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="770" y="283" width="110" height="270" as="geometry" />
+        <mxCell id="sFtv7r6JDpLOcGtbxZpa-13" value="a.模拟点击开始按钮，运行开始&lt;br&gt;b.手机" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="615" y="270" width="195" height="270" as="geometry" />
         </mxCell>
         <mxCell id="sFtv7r6JDpLOcGtbxZpa-15" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="920" y="283" width="110" height="270" as="geometry" />
+          <mxGeometry x="840" y="270" width="200" height="270" as="geometry" />
         </mxCell>
         <mxCell id="sFtv7r6JDpLOcGtbxZpa-16" value="无头浏览器" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="760" y="200" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="sFtv7r6JDpLOcGtbxZpa-17" value="网页1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="645" y="293" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="sFtv7r6JDpLOcGtbxZpa-18" value="网页2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="790" y="293" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="sFtv7r6JDpLOcGtbxZpa-19" value="网页3" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="950" y="293" width="60" height="30" as="geometry" />
+        <mxCell id="sFtv7r6JDpLOcGtbxZpa-17" value="网页1&lt;br&gt;（网页3分钟后强制关闭）" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="620" y="290" width="185" height="30" as="geometry" />
         </mxCell>
         <mxCell id="sFtv7r6JDpLOcGtbxZpa-41" value="后端判题服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="1050" width="160" height="60" as="geometry" />
@@ -110,11 +101,11 @@
         <mxCell id="sFtv7r6JDpLOcGtbxZpa-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.008;entryY=0.45;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="sFtv7r6JDpLOcGtbxZpa-41" target="sFtv7r6JDpLOcGtbxZpa-42">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="sFtv7r6JDpLOcGtbxZpa-55" value="mysql" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.stored_data;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="sFtv7r6JDpLOcGtbxZpa-55" value="mysql" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.stored_data;whiteSpace=wrap;fillColor=#FFE6CC;" vertex="1" parent="1">
           <mxGeometry x="250" y="560" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="sFtv7r6JDpLOcGtbxZpa-57" value="0.1后端服务开始时，启动子进程浏览器&lt;br&gt;&lt;br&gt;0.2浏览器子进程探活" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="425" y="250" width="150" height="50" as="geometry" />
+        <mxCell id="sFtv7r6JDpLOcGtbxZpa-57" value="0.1后端服务开始时，启动子进程浏览器&lt;br&gt;&lt;br&gt;0.2浏览器子进程守护，退出即重启" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="580" y="120" width="240" height="50" as="geometry" />
         </mxCell>
         <mxCell id="sFtv7r6JDpLOcGtbxZpa-59" value="1.老师批量提交判题请求" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="130" y="200" width="60" height="30" as="geometry" />
@@ -129,7 +120,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="sFtv7r6JDpLOcGtbxZpa-64" value="浏览器并发运行判题" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="425" y="493" width="100" height="30" as="geometry" />
+          <mxGeometry x="374" y="530" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="sFtv7r6JDpLOcGtbxZpa-66" value=".订阅回调，返回判题结果" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="340" y="360" width="100" height="30" as="geometry" />
@@ -137,15 +128,15 @@
         <mxCell id="sFtv7r6JDpLOcGtbxZpa-67" value="判题结果入库" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="200" y="523" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="sFtv7r6JDpLOcGtbxZpa-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" target="sFtv7r6JDpLOcGtbxZpa-14">
+        <mxCell id="sFtv7r6JDpLOcGtbxZpa-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="380" y="490" as="sourcePoint" />
-            <mxPoint x="680" y="573" as="targetPoint" />
+            <mxPoint x="825" y="553" as="targetPoint" />
             <Array as="points">
               <mxPoint x="370" y="490" />
               <mxPoint x="370" y="500" />
-              <mxPoint x="555" y="500" />
-              <mxPoint x="555" y="583" />
+              <mxPoint x="510" y="500" />
+              <mxPoint x="510" y="583" />
               <mxPoint x="825" y="583" />
             </Array>
           </mxGeometry>
@@ -155,12 +146,16 @@
             <mxPoint x="370" y="543.5" as="sourcePoint" />
             <mxPoint x="560" y="636.5" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="370" y="640" />
+              <mxPoint x="440" y="510" />
+              <mxPoint x="440" y="640" />
               <mxPoint x="545" y="640" />
               <mxPoint x="545" y="637" />
               <mxPoint x="975" y="637" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="sFtv7r6JDpLOcGtbxZpa-72" value="网页2&lt;br&gt;（网页3分钟后强制关闭）" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="840" y="290" width="185" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
