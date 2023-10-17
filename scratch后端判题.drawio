@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-17T11:54:48.203Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="Nxo-EkBa00gNNKd2dAKU" version="21.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-17T11:55:14.301Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="GW1nL2ldk7ELKtVlkl1l" version="21.8.0" type="github">
   <diagram name="第 1 页" id="Y1HsQ0itf-nCOPws9BB6">
     <mxGraphModel dx="1593" dy="844" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -140,7 +140,7 @@
           <mxGeometry x="1520" y="291" width="169" height="30" as="geometry" />
         </mxCell>
         <mxCell id="sFtv7r6JDpLOcGtbxZpa-99" value="3.消费判题请求&lt;br&gt;（控制消费并发数量）" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1530" y="395" width="140" height="30" as="geometry" />
+          <mxGeometry x="1534.5" y="400" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="sFtv7r6JDpLOcGtbxZpa-100" value="4.1浏览器运行判题&lt;br&gt;(多网页并发开启)" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1849" y="428.5" width="130" height="30" as="geometry" />
@@ -164,7 +164,7 @@
           <mxGeometry x="1360" y="347.5" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="sFtv7r6JDpLOcGtbxZpa-107" value="5.1.判题成功，&lt;br&gt;结果回调，&lt;br&gt;返回结果" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1740" y="340" width="100" height="30" as="geometry" />
+          <mxGeometry x="1790" y="330" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="sFtv7r6JDpLOcGtbxZpa-109" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.066;exitY=1;exitDx=0;exitDy=0;entryX=0.058;entryY=-0.008;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;" edge="1" parent="1" source="sFtv7r6JDpLOcGtbxZpa-90" target="sFtv7r6JDpLOcGtbxZpa-91">
           <mxGeometry relative="1" as="geometry">
@@ -202,7 +202,7 @@
           <mxGeometry x="1821" y="145" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="sFtv7r6JDpLOcGtbxZpa-124" value="5.2.判题失败，&lt;br&gt;重新投入队列&lt;br&gt;（最多3次）" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1670" y="400" width="100" height="30" as="geometry" />
+          <mxGeometry x="1680" y="403.5" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
