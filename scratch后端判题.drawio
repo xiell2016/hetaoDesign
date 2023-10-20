@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-19T10:02:05.327Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="42_EKNQ64oYRLdiYx5wo" version="21.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-20T02:52:12.458Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="oLS8Do4NXg8r0t1_T-fh" version="21.8.0" type="github">
   <diagram name="第 1 页" id="Y1HsQ0itf-nCOPws9BB6">
     <mxGraphModel dx="1593" dy="844" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -133,13 +133,13 @@
         <mxCell id="sFtv7r6JDpLOcGtbxZpa-96" value="&lt;b style=&quot;font-size: 14px;&quot;&gt;网页1&lt;br&gt;&lt;/b&gt;（网页超时3分钟，超时自动关闭）" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1991" y="318.5" width="220" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="sFtv7r6JDpLOcGtbxZpa-97" value="1.提交判题请求(批量）" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="sFtv7r6JDpLOcGtbxZpa-97" value="1.提交判题任务(批量）" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1604.5" y="90" width="151" height="30" as="geometry" />
         </mxCell>
         <mxCell id="sFtv7r6JDpLOcGtbxZpa-98" value="2.投入消息队列(流量肖峰)" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1520" y="291" width="169" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="sFtv7r6JDpLOcGtbxZpa-99" value="3.消费判题请求&lt;br&gt;（控制消费并发数量）" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="sFtv7r6JDpLOcGtbxZpa-99" value="3.消费判题任务&lt;br&gt;（控制消费并发数量）" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1534.5" y="400" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="sFtv7r6JDpLOcGtbxZpa-100" value="4.1浏览器运行判题&lt;br&gt;(多网页并发开启，并&lt;br&gt;限制开启网页的数量)" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
