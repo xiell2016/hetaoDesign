@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-10-25T09:30:10.810Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="oxIAOsGoHonvVL5XSb6g" version="22.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-25T09:37:11.752Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="dOZZyXmcz9urTfa9sLDi" version="22.0.7" type="github">
   <diagram name="第 1 页" id="yzyK3-7SbpeYX_4x3AM7">
-    <mxGraphModel dx="1434" dy="1929" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="1963" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -644,7 +644,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="712rNak-isTEVFoMbdnw-1" value="敏感词检测&lt;br&gt;（代码关键字、超时、超内存等）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3862" y="573" width="120" height="60" as="geometry" />
+          <mxGeometry x="3862" y="561" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="712rNak-isTEVFoMbdnw-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="712rNak-isTEVFoMbdnw-2" target="712rNak-isTEVFoMbdnw-1">
           <mxGeometry relative="1" as="geometry" />
@@ -656,13 +656,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="712rNak-isTEVFoMbdnw-4" value="创建工作目录&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;测试用例准备&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3862" y="659" width="120" height="60" as="geometry" />
+          <mxGeometry x="3862" y="641" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="712rNak-isTEVFoMbdnw-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="712rNak-isTEVFoMbdnw-5" target="712rNak-isTEVFoMbdnw-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="712rNak-isTEVFoMbdnw-5" value="源码编译&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;(c、c++等源码编程应用程序）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3862" y="753" width="120" height="60" as="geometry" />
+          <mxGeometry x="3862" y="720" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="712rNak-isTEVFoMbdnw-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="712rNak-isTEVFoMbdnw-6" target="712rNak-isTEVFoMbdnw-26">
           <mxGeometry relative="1" as="geometry" />
@@ -681,13 +681,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="712rNak-isTEVFoMbdnw-6" value="协程启动&lt;br&gt;判题子进程" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3862" y="849.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="3862" y="799.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="712rNak-isTEVFoMbdnw-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="712rNak-isTEVFoMbdnw-7" target="712rNak-isTEVFoMbdnw-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="712rNak-isTEVFoMbdnw-7" value="子进程资源限制&lt;br&gt;（运行时间、内存、文件数量等）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3752" y="1060" width="120" height="60" as="geometry" />
+          <mxGeometry x="3752" y="972" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="712rNak-isTEVFoMbdnw-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="712rNak-isTEVFoMbdnw-17" target="712rNak-isTEVFoMbdnw-23">
           <mxGeometry relative="1" as="geometry" />
@@ -701,73 +701,92 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="712rNak-isTEVFoMbdnw-17" value="结果判定" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3752" y="1234" width="120" height="60" as="geometry" />
+          <mxGeometry x="3752" y="1125.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="712rNak-isTEVFoMbdnw-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="712rNak-isTEVFoMbdnw-18" target="712rNak-isTEVFoMbdnw-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="712rNak-isTEVFoMbdnw-18" value="运行用户程序&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3752" y="1146" width="120" height="60" as="geometry" />
+          <mxGeometry x="3752" y="1050.5" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="712rNak-isTEVFoMbdnw-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="712rNak-isTEVFoMbdnw-23" target="712rNak-isTEVFoMbdnw-25">
+        <mxCell id="712rNak-isTEVFoMbdnw-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="712rNak-isTEVFoMbdnw-23" target="712rNak-isTEVFoMbdnw-67">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="712rNak-isTEVFoMbdnw-23" value="结果整理&lt;br&gt;（测试用例顺序等）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3862" y="1362.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="3862" y="1234" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="712rNak-isTEVFoMbdnw-25" value="判题结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3862" y="1550" width="120" height="60" as="geometry" />
+          <mxGeometry x="3862" y="1390" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="712rNak-isTEVFoMbdnw-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="712rNak-isTEVFoMbdnw-26" target="712rNak-isTEVFoMbdnw-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="712rNak-isTEVFoMbdnw-26" value="超时设置&lt;br&gt;（判题子进程1）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3752" y="983" width="120" height="60" as="geometry" />
+          <mxGeometry x="3752" y="892" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="712rNak-isTEVFoMbdnw-29" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3350" y="903.5" width="320" height="516.5" as="geometry" />
+          <mxGeometry x="3340" y="780" width="300" height="480" as="geometry" />
         </mxCell>
-        <mxCell id="712rNak-isTEVFoMbdnw-32" value="对比正确答案" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3370" y="1235" width="120" height="60" as="geometry" />
+        <mxCell id="712rNak-isTEVFoMbdnw-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="712rNak-isTEVFoMbdnw-32" target="712rNak-isTEVFoMbdnw-33">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3420" y="1163" />
+              <mxPoint x="3500" y="1163" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="712rNak-isTEVFoMbdnw-32" value="用户结果和标准答案&lt;br&gt;对比" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3360" y="1076" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="712rNak-isTEVFoMbdnw-33" value="结果判定结束&lt;br&gt;返回结果" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3450" y="1333" width="120" height="60" as="geometry" />
+          <mxGeometry x="3440" y="1184" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="712rNak-isTEVFoMbdnw-34" value="用户答案和标准答案预处理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3370" y="1140.5" width="120" height="60" as="geometry" />
+        <mxCell id="712rNak-isTEVFoMbdnw-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="712rNak-isTEVFoMbdnw-34" target="712rNak-isTEVFoMbdnw-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="712rNak-isTEVFoMbdnw-34" value="用户结果和标准答案预处理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3360" y="984.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="712rNak-isTEVFoMbdnw-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="712rNak-isTEVFoMbdnw-35" target="712rNak-isTEVFoMbdnw-33">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3570" y="1163" />
+              <mxPoint x="3500" y="1163" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="712rNak-isTEVFoMbdnw-35" value="判断异常种类" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3520" y="1141" width="120" height="60" as="geometry" />
+          <mxGeometry x="3510" y="985" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="712rNak-isTEVFoMbdnw-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="712rNak-isTEVFoMbdnw-36" target="712rNak-isTEVFoMbdnw-42">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="712rNak-isTEVFoMbdnw-36" value="结果判定开始" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3445" y="931" width="120" height="60" as="geometry" />
+          <mxGeometry x="3435" y="790" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="712rNak-isTEVFoMbdnw-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="712rNak-isTEVFoMbdnw-37" target="712rNak-isTEVFoMbdnw-39">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="712rNak-isTEVFoMbdnw-37" value="子进程资源限制&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;（运行时间、内存、文件数量等）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3960" y="1060" width="120" height="60" as="geometry" />
+          <mxGeometry x="3970" y="973" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="712rNak-isTEVFoMbdnw-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="712rNak-isTEVFoMbdnw-38" target="712rNak-isTEVFoMbdnw-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="712rNak-isTEVFoMbdnw-38" value="结果判定" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3960" y="1234" width="120" height="60" as="geometry" />
+          <mxGeometry x="3970" y="1126.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="712rNak-isTEVFoMbdnw-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="712rNak-isTEVFoMbdnw-39" target="712rNak-isTEVFoMbdnw-38">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="712rNak-isTEVFoMbdnw-39" value="运行用户程序&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3960" y="1146" width="120" height="60" as="geometry" />
+          <mxGeometry x="3970" y="1050.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="712rNak-isTEVFoMbdnw-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="712rNak-isTEVFoMbdnw-40" target="712rNak-isTEVFoMbdnw-37">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="712rNak-isTEVFoMbdnw-40" value="超时设置&lt;br&gt;（判题子进程2）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3960" y="983" width="120" height="60" as="geometry" />
+          <mxGeometry x="3970" y="896" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="712rNak-isTEVFoMbdnw-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="712rNak-isTEVFoMbdnw-42" target="712rNak-isTEVFoMbdnw-34">
           <mxGeometry relative="1" as="geometry" />
@@ -785,11 +804,14 @@
             <mxPoint y="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="712rNak-isTEVFoMbdnw-42" value="判题进程&lt;br&gt;退出方式判断" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3450" y="1019.5" width="110" height="80" as="geometry" />
+        <mxCell id="712rNak-isTEVFoMbdnw-42" value="判题子进程&lt;br&gt;退出方式" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3440" y="880.5" width="110" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="712rNak-isTEVFoMbdnw-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="712rNak-isTEVFoMbdnw-67" target="712rNak-isTEVFoMbdnw-25">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="712rNak-isTEVFoMbdnw-67" value="清理工作目录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3862" y="1456" width="120" height="60" as="geometry" />
+          <mxGeometry x="3862" y="1313" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
