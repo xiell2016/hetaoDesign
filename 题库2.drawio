@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-27T03:04:42.674Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="t-SXeiOYvlSJTdwEZ_H6" version="22.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-27T03:06:05.175Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="0KPfDUEp_u020aP4_GjQ" version="22.0.7" type="github">
   <diagram name="第 1 页" id="yzyK3-7SbpeYX_4x3AM7">
     <mxGraphModel dx="1687" dy="2103" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -813,8 +813,11 @@
         <mxCell id="712rNak-isTEVFoMbdnw-67" value="清理工作目录" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFCCFF;" vertex="1" parent="1">
           <mxGeometry x="3862" y="1309" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="712rNak-isTEVFoMbdnw-78" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;注：&lt;br&gt;&amp;nbsp; &amp;nbsp;颜色区分进程&lt;br&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;&amp;nbsp; &amp;nbsp; 1.&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 204, 255);&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;表示主进程（父进程）&lt;br&gt;&lt;/span&gt;&amp;nbsp; &amp;nbsp; 2.&lt;span style=&quot;background-color: rgb(255, 255, 204);&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;/span&gt;表示判题子进程&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="4184" y="519.5" width="426" height="127" as="geometry" />
+        <mxCell id="712rNak-isTEVFoMbdnw-79" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4150" y="498" width="390" height="152" as="geometry" />
+        </mxCell>
+        <mxCell id="712rNak-isTEVFoMbdnw-80" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;注：&lt;br&gt;&amp;nbsp; &amp;nbsp;颜色区分进程&lt;br&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;&amp;nbsp; &amp;nbsp; 1.&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 204, 255);&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;表示主进程（父进程）&lt;br&gt;&lt;/span&gt;&amp;nbsp; &amp;nbsp; 2.&lt;span style=&quot;background-color: rgb(255, 255, 204);&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;/span&gt;表示判题子进程&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="4170" y="507" width="426" height="127" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
