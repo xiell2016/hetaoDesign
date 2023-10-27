@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-27T02:43:08.727Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="4ZATLU0pti_UpVFc6xRJ" version="22.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-27T02:43:43.167Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="0murjemy7u83wfIv_el1" version="22.0.7" type="github">
   <diagram name="第 1 页" id="yzyK3-7SbpeYX_4x3AM7">
     <mxGraphModel dx="1687" dy="2103" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -735,7 +735,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="712rNak-isTEVFoMbdnw-32" value="用户结果和标准答案&lt;br&gt;对比" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFE6CC;" vertex="1" parent="1">
+        <mxCell id="712rNak-isTEVFoMbdnw-32" value="对比判断&lt;br&gt;用户结果和标准答案" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFE6CC;" vertex="1" parent="1">
           <mxGeometry x="4221" y="1057" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="712rNak-isTEVFoMbdnw-33" value="结果判定结束&lt;br&gt;返回结果" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFE6CC;" vertex="1" parent="1">
