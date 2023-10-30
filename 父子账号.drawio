@@ -1,14 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2023-10-30T08:19:32.433Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="UnsZd6zbIYImJeHq_sNm" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-30T08:49:42.885Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="GUP_yxiy6tXjbU4WklL9" version="22.0.8" type="github">
   <diagram name="第 1 页" id="Imp0usc3wWshR_QT694W">
-    <mxGraphModel dx="1434" dy="760" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2261" dy="760" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="HRvxDB4I8MCEPSmdqRKO-1" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="180" y="180" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="HRvxDB4I8MCEPSmdqRKO-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="180" y="280" width="120" height="60" as="geometry" />
+          <mxGeometry x="-440" y="210" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HRvxDB4I8MCEPSmdqRKO-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HRvxDB4I8MCEPSmdqRKO-3" target="HRvxDB4I8MCEPSmdqRKO-4">
           <mxGeometry relative="1" as="geometry" />
@@ -75,6 +72,108 @@
         </mxCell>
         <mxCell id="HRvxDB4I8MCEPSmdqRKO-41" value="x.4.获取父子账号变动&lt;br&gt;业务处理" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1456" y="295" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HRvxDB4I8MCEPSmdqRKO-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HRvxDB4I8MCEPSmdqRKO-42" target="HRvxDB4I8MCEPSmdqRKO-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HRvxDB4I8MCEPSmdqRKO-42" value="family表&lt;br&gt;添加此用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-627" y="572" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HRvxDB4I8MCEPSmdqRKO-44" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HRvxDB4I8MCEPSmdqRKO-46" value="user_auth新增" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-100" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HRvxDB4I8MCEPSmdqRKO-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HRvxDB4I8MCEPSmdqRKO-47" target="HRvxDB4I8MCEPSmdqRKO-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HRvxDB4I8MCEPSmdqRKO-67" value="新增用户" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="HRvxDB4I8MCEPSmdqRKO-66">
+          <mxGeometry x="0.168" y="4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HRvxDB4I8MCEPSmdqRKO-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="HRvxDB4I8MCEPSmdqRKO-47" target="HRvxDB4I8MCEPSmdqRKO-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HRvxDB4I8MCEPSmdqRKO-70" value="删除用户" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="HRvxDB4I8MCEPSmdqRKO-69">
+          <mxGeometry x="-0.6026" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HRvxDB4I8MCEPSmdqRKO-47" value="user_auth表有变动" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-455" y="319" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="HRvxDB4I8MCEPSmdqRKO-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HRvxDB4I8MCEPSmdqRKO-49" target="HRvxDB4I8MCEPSmdqRKO-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HRvxDB4I8MCEPSmdqRKO-51" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="HRvxDB4I8MCEPSmdqRKO-50">
+          <mxGeometry x="-0.25" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HRvxDB4I8MCEPSmdqRKO-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="HRvxDB4I8MCEPSmdqRKO-49" target="HRvxDB4I8MCEPSmdqRKO-81">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HRvxDB4I8MCEPSmdqRKO-49" value="family表已有&lt;br&gt;&lt;div data-docx-has-block-data=&quot;false&quot; data-page-id=&quot;H2dkdbYHcoo3fOxrRf8cBjybnae&quot;&gt;&lt;div class=&quot;old-record-id-NEFbd2yO6o0nXTxlkc0cnwMOnpg&quot; style=&quot;&quot;&gt;master_user_id&lt;/div&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-642" y="444" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="HRvxDB4I8MCEPSmdqRKO-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HRvxDB4I8MCEPSmdqRKO-52" target="HRvxDB4I8MCEPSmdqRKO-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HRvxDB4I8MCEPSmdqRKO-52" value="&lt;div data-docx-has-block-data=&quot;false&quot; data-page-id=&quot;H2dkdbYHcoo3fOxrRf8cBjybnae&quot;&gt;&lt;div class=&quot;old-record-id-NEFbd2yO6o0nXTxlkc0cnwMOnpg&quot; style=&quot;&quot;&gt;family_user&lt;/div&gt;&lt;div class=&quot;old-record-id-NEFbd2yO6o0nXTxlkc0cnwMOnpg&quot; style=&quot;&quot;&gt;添加此user_id&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-627" y="680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HRvxDB4I8MCEPSmdqRKO-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HRvxDB4I8MCEPSmdqRKO-55" target="HRvxDB4I8MCEPSmdqRKO-81">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HRvxDB4I8MCEPSmdqRKO-55" value="&lt;div data-docx-has-block-data=&quot;false&quot; data-page-id=&quot;H2dkdbYHcoo3fOxrRf8cBjybnae&quot;&gt;&lt;div class=&quot;old-record-id-NEFbd2yO6o0nXTxlkc0cnwMOnpg&quot; style=&quot;&quot;&gt;&lt;div data-docx-has-block-data=&quot;false&quot; data-page-id=&quot;H2dkdbYHcoo3fOxrRf8cBjybnae&quot;&gt;&lt;div class=&quot;old-record-id-SlJNd7PGNow6A5x4QqhcfKrGn4g&quot; style=&quot;&quot;&gt;family_bind_history&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;old-record-id-NEFbd2yO6o0nXTxlkc0cnwMOnpg&quot; style=&quot;&quot;&gt;添加操作记录&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-627" y="790" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HRvxDB4I8MCEPSmdqRKO-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HRvxDB4I8MCEPSmdqRKO-58" target="HRvxDB4I8MCEPSmdqRKO-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HRvxDB4I8MCEPSmdqRKO-58" value="family_user&lt;br&gt;删除用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-225" y="572" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HRvxDB4I8MCEPSmdqRKO-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HRvxDB4I8MCEPSmdqRKO-61" target="HRvxDB4I8MCEPSmdqRKO-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HRvxDB4I8MCEPSmdqRKO-60" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="HRvxDB4I8MCEPSmdqRKO-59">
+          <mxGeometry x="-0.25" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HRvxDB4I8MCEPSmdqRKO-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HRvxDB4I8MCEPSmdqRKO-61" target="HRvxDB4I8MCEPSmdqRKO-81">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-320" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HRvxDB4I8MCEPSmdqRKO-78" value="不应该出现否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="HRvxDB4I8MCEPSmdqRKO-77">
+          <mxGeometry x="0.4394" y="-2" relative="1" as="geometry">
+            <mxPoint x="72" y="-278" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HRvxDB4I8MCEPSmdqRKO-61" value="family_user表&lt;br&gt;有记录" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-240" y="444" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="HRvxDB4I8MCEPSmdqRKO-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HRvxDB4I8MCEPSmdqRKO-63" target="HRvxDB4I8MCEPSmdqRKO-65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HRvxDB4I8MCEPSmdqRKO-63" value="&lt;div data-docx-has-block-data=&quot;false&quot; data-page-id=&quot;H2dkdbYHcoo3fOxrRf8cBjybnae&quot;&gt;&lt;div class=&quot;old-record-id-NEFbd2yO6o0nXTxlkc0cnwMOnpg&quot; style=&quot;&quot;&gt;family&lt;/div&gt;&lt;div class=&quot;old-record-id-NEFbd2yO6o0nXTxlkc0cnwMOnpg&quot; style=&quot;&quot;&gt;删除此user_id&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-225" y="680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HRvxDB4I8MCEPSmdqRKO-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HRvxDB4I8MCEPSmdqRKO-65" target="HRvxDB4I8MCEPSmdqRKO-81">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HRvxDB4I8MCEPSmdqRKO-65" value="&lt;div data-docx-has-block-data=&quot;false&quot; data-page-id=&quot;H2dkdbYHcoo3fOxrRf8cBjybnae&quot;&gt;&lt;div class=&quot;old-record-id-NEFbd2yO6o0nXTxlkc0cnwMOnpg&quot; style=&quot;&quot;&gt;&lt;div data-docx-has-block-data=&quot;false&quot; data-page-id=&quot;H2dkdbYHcoo3fOxrRf8cBjybnae&quot;&gt;&lt;div class=&quot;old-record-id-SlJNd7PGNow6A5x4QqhcfKrGn4g&quot; style=&quot;&quot;&gt;family_bind_history&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;old-record-id-NEFbd2yO6o0nXTxlkc0cnwMOnpg&quot; style=&quot;&quot;&gt;添加操作记录&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-225" y="790" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HRvxDB4I8MCEPSmdqRKO-81" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-430" y="900" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HRvxDB4I8MCEPSmdqRKO-86" value="不应该出现是" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-480" y="460" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
