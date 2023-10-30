@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-30T08:05:24.808Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="yXEn4vecunR4VT2gaWD0" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-30T08:05:52.083Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="zzVSlcs82AZa1DcPkp9c" version="22.0.8" type="github">
   <diagram name="第 1 页" id="Imp0usc3wWshR_QT694W">
     <mxGraphModel dx="1434" dy="760" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -10,11 +10,20 @@
         <mxCell id="HRvxDB4I8MCEPSmdqRKO-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="280" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="HRvxDB4I8MCEPSmdqRKO-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.093;exitY=1.017;exitDx=0;exitDy=0;entryX=0.094;entryY=0.017;entryDx=0;entryDy=0;exitPerimeter=0;entryPerimeter=0;" edge="1" parent="1" source="HRvxDB4I8MCEPSmdqRKO-3" target="HRvxDB4I8MCEPSmdqRKO-4">
+        <mxCell id="HRvxDB4I8MCEPSmdqRKO-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HRvxDB4I8MCEPSmdqRKO-3" target="HRvxDB4I8MCEPSmdqRKO-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HRvxDB4I8MCEPSmdqRKO-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HRvxDB4I8MCEPSmdqRKO-3" target="HRvxDB4I8MCEPSmdqRKO-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HRvxDB4I8MCEPSmdqRKO-3" value="crm后台" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="920" y="180" width="540" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HRvxDB4I8MCEPSmdqRKO-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HRvxDB4I8MCEPSmdqRKO-4" target="HRvxDB4I8MCEPSmdqRKO-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HRvxDB4I8MCEPSmdqRKO-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HRvxDB4I8MCEPSmdqRKO-4" target="HRvxDB4I8MCEPSmdqRKO-5">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HRvxDB4I8MCEPSmdqRKO-4" value="crm后端" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="920" y="319" width="540" height="60" as="geometry" />
@@ -34,9 +43,6 @@
         <mxCell id="HRvxDB4I8MCEPSmdqRKO-8" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1525" y="358" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="HRvxDB4I8MCEPSmdqRKO-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.089;exitY=1.017;exitDx=0;exitDy=0;entryX=0.163;entryY=-0.017;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;" edge="1" parent="1" source="HRvxDB4I8MCEPSmdqRKO-4" target="HRvxDB4I8MCEPSmdqRKO-5">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="HRvxDB4I8MCEPSmdqRKO-16" value="1.1 老师帮学生绑定/换绑单账号" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="890" y="260" width="180" height="30" as="geometry" />
         </mxCell>
@@ -44,7 +50,7 @@
           <mxGeometry x="660" y="328" width="180" height="51" as="geometry" />
         </mxCell>
         <mxCell id="HRvxDB4I8MCEPSmdqRKO-19" value="1.1 父子账号操作" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1230" y="270" width="110" height="30" as="geometry" />
+          <mxGeometry x="1270" y="270" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
