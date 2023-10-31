@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-31T03:35:22.050Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="txOSQqspDxu3nAOtjkhS" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-31T03:42:59.759Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="_r9omnCGuBq81EXU5X73" version="22.0.8" type="github">
   <diagram name="第 1 页" id="Imp0usc3wWshR_QT694W">
     <mxGraphModel dx="3088" dy="760" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -266,6 +266,11 @@
         <mxCell id="HRvxDB4I8MCEPSmdqRKO-196" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="HRvxDB4I8MCEPSmdqRKO-147" target="HRvxDB4I8MCEPSmdqRKO-176" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="VWnf_pDv5Sl6LeYncFD3-31" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="HRvxDB4I8MCEPSmdqRKO-196">
+          <mxGeometry x="0.4118" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="HRvxDB4I8MCEPSmdqRKO-147" value="family表&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;有userId记录" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="160" y="523" width="150" height="68" as="geometry" />
         </mxCell>
@@ -306,7 +311,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HRvxDB4I8MCEPSmdqRKO-176" value="主账号&lt;br&gt;没有其他子账号？" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="HRvxDB4I8MCEPSmdqRKO-176" value="是子账号，或是主账号&lt;br&gt;没有其他子账号？" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="160" y="620" width="150" height="80" as="geometry" />
         </mxCell>
         <mxCell id="HRvxDB4I8MCEPSmdqRKO-231" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="HRvxDB4I8MCEPSmdqRKO-235" target="HRvxDB4I8MCEPSmdqRKO-243" edge="1">
