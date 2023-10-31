@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-31T03:24:13.244Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="f_4ntWKI-VbZbVo1UEii" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-31T03:29:41.349Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="PHG2P0rnGNPTiTag9L1V" version="22.0.8" type="github">
   <diagram name="第 1 页" id="Imp0usc3wWshR_QT694W">
     <mxGraphModel dx="3088" dy="760" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -125,7 +125,7 @@
         <mxCell id="HRvxDB4I8MCEPSmdqRKO-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="HRvxDB4I8MCEPSmdqRKO-63" target="HRvxDB4I8MCEPSmdqRKO-65" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HRvxDB4I8MCEPSmdqRKO-63" value="&lt;div data-docx-has-block-data=&quot;false&quot; data-page-id=&quot;H2dkdbYHcoo3fOxrRf8cBjybnae&quot;&gt;&lt;div class=&quot;old-record-id-NEFbd2yO6o0nXTxlkc0cnwMOnpg&quot; style=&quot;&quot;&gt;family&lt;/div&gt;&lt;div class=&quot;old-record-id-NEFbd2yO6o0nXTxlkc0cnwMOnpg&quot; style=&quot;&quot;&gt;删除此user_id&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="HRvxDB4I8MCEPSmdqRKO-63" value="&lt;div data-docx-has-block-data=&quot;false&quot; data-page-id=&quot;H2dkdbYHcoo3fOxrRf8cBjybnae&quot;&gt;&lt;div class=&quot;old-record-id-NEFbd2yO6o0nXTxlkc0cnwMOnpg&quot; style=&quot;&quot;&gt;family&lt;/div&gt;&lt;div class=&quot;old-record-id-NEFbd2yO6o0nXTxlkc0cnwMOnpg&quot; style=&quot;&quot;&gt;删除此userId&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-75" y="820" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HRvxDB4I8MCEPSmdqRKO-175" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="HRvxDB4I8MCEPSmdqRKO-65" target="HRvxDB4I8MCEPSmdqRKO-163" edge="1">
@@ -161,7 +161,7 @@
         <mxCell id="HRvxDB4I8MCEPSmdqRKO-120" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="HRvxDB4I8MCEPSmdqRKO-96" target="HRvxDB4I8MCEPSmdqRKO-119" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HRvxDB4I8MCEPSmdqRKO-96" value="&lt;div style=&quot;border-color: var(--border-color);&quot; class=&quot;old-record-id-NEFbd2yO6o0nXTxlkc0cnwMOnpg&quot;&gt;family表&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot; class=&quot;old-record-id-NEFbd2yO6o0nXTxlkc0cnwMOnpg&quot;&gt;添加此user_id（父）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="HRvxDB4I8MCEPSmdqRKO-96" value="&lt;div style=&quot;border-color: var(--border-color);&quot; class=&quot;old-record-id-NEFbd2yO6o0nXTxlkc0cnwMOnpg&quot;&gt;family表&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot; class=&quot;old-record-id-NEFbd2yO6o0nXTxlkc0cnwMOnpg&quot;&gt;添加此userId（父）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-955" y="616" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HRvxDB4I8MCEPSmdqRKO-166" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="HRvxDB4I8MCEPSmdqRKO-106" target="HRvxDB4I8MCEPSmdqRKO-145" edge="1">
@@ -186,7 +186,7 @@
         <mxCell id="HRvxDB4I8MCEPSmdqRKO-121" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="HRvxDB4I8MCEPSmdqRKO-119" target="HRvxDB4I8MCEPSmdqRKO-55" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HRvxDB4I8MCEPSmdqRKO-119" value="&lt;div style=&quot;border-color: var(--border-color);&quot; class=&quot;old-record-id-NEFbd2yO6o0nXTxlkc0cnwMOnpg&quot;&gt;family_user&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot; class=&quot;old-record-id-NEFbd2yO6o0nXTxlkc0cnwMOnpg&quot;&gt;添加此user_id（父）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="HRvxDB4I8MCEPSmdqRKO-119" value="&lt;div style=&quot;border-color: var(--border-color);&quot; class=&quot;old-record-id-NEFbd2yO6o0nXTxlkc0cnwMOnpg&quot;&gt;family_user&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot; class=&quot;old-record-id-NEFbd2yO6o0nXTxlkc0cnwMOnpg&quot;&gt;添加此userId（父）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-955" y="698" width="120" height="55" as="geometry" />
         </mxCell>
         <mxCell id="HRvxDB4I8MCEPSmdqRKO-127" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="HRvxDB4I8MCEPSmdqRKO-130" target="HRvxDB4I8MCEPSmdqRKO-131" edge="1">
@@ -360,29 +360,29 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HRvxDB4I8MCEPSmdqRKO-264" value="请求子账号&lt;br&gt;是否有家庭？" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-798" y="1343" width="150" height="80" as="geometry" />
+        <mxCell id="HRvxDB4I8MCEPSmdqRKO-264" value="reqSlaveUser&lt;br&gt;是否有家庭？" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-798" y="1446" width="150" height="80" as="geometry" />
         </mxCell>
         <mxCell id="HRvxDB4I8MCEPSmdqRKO-265" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="HRvxDB4I8MCEPSmdqRKO-266" target="HRvxDB4I8MCEPSmdqRKO-267" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HRvxDB4I8MCEPSmdqRKO-266" value="&lt;div data-docx-has-block-data=&quot;false&quot; data-page-id=&quot;H2dkdbYHcoo3fOxrRf8cBjybnae&quot;&gt;&lt;div class=&quot;old-record-id-NEFbd2yO6o0nXTxlkc0cnwMOnpg&quot; style=&quot;&quot;&gt;&lt;div data-docx-has-block-data=&quot;false&quot; data-page-id=&quot;H2dkdbYHcoo3fOxrRf8cBjybnae&quot;&gt;&lt;div class=&quot;old-record-id-SlJNd7PGNow6A5x4QqhcfKrGn4g&quot; style=&quot;&quot;&gt;family_bind_history&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;old-record-id-NEFbd2yO6o0nXTxlkc0cnwMOnpg&quot; style=&quot;&quot;&gt;添加操作记录&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-783" y="1656.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="-783" y="1759.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HRvxDB4I8MCEPSmdqRKO-267" value="绑定成功" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-783" y="1750.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="-783" y="1853.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HRvxDB4I8MCEPSmdqRKO-271" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="HRvxDB4I8MCEPSmdqRKO-272" target="HRvxDB4I8MCEPSmdqRKO-266" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HRvxDB4I8MCEPSmdqRKO-272" value="family_user&lt;span style=&quot;background-color: initial;&quot;&gt;表&lt;br&gt;&lt;/span&gt;子账号的&lt;span style=&quot;background-color: initial;&quot;&gt;familyId改成&lt;br&gt;&lt;/span&gt;父账号的familyId" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-783" y="1563.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="-783" y="1666.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VWnf_pDv5Sl6LeYncFD3-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HRvxDB4I8MCEPSmdqRKO-274" target="VWnf_pDv5Sl6LeYncFD3-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HRvxDB4I8MCEPSmdqRKO-274" value="绑定开始" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-783" y="1150" width="120" height="60" as="geometry" />
+          <mxGeometry x="-783" y="1253" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HRvxDB4I8MCEPSmdqRKO-277" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="HRvxDB4I8MCEPSmdqRKO-276" target="HRvxDB4I8MCEPSmdqRKO-245" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -419,8 +419,8 @@
             <mxPoint y="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HRvxDB4I8MCEPSmdqRKO-287" value="请求父账号&lt;br&gt;是否为其他子账号？" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-798" y="1446.5" width="150" height="80" as="geometry" />
+        <mxCell id="HRvxDB4I8MCEPSmdqRKO-287" value="reqMasterUser&lt;br&gt;是否为其他slaveUser？" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-798" y="1549.5" width="150" height="80" as="geometry" />
         </mxCell>
         <mxCell id="VWnf_pDv5Sl6LeYncFD3-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="VWnf_pDv5Sl6LeYncFD3-1" target="VWnf_pDv5Sl6LeYncFD3-8">
           <mxGeometry relative="1" as="geometry" />
@@ -438,11 +438,11 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VWnf_pDv5Sl6LeYncFD3-1" value="请求子账号&lt;br&gt;家庭父是否已经是请求父？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1000" y="1449.5" width="150" height="80" as="geometry" />
+        <mxCell id="VWnf_pDv5Sl6LeYncFD3-1" value="reqSlaveUser&lt;br&gt;master是否已经是&lt;br&gt;reqMasterUser？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1000" y="1552.5" width="150" height="80" as="geometry" />
         </mxCell>
         <mxCell id="VWnf_pDv5Sl6LeYncFD3-8" value="绑定失败" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1079" y="1739" width="120" height="60" as="geometry" />
+          <mxGeometry x="-1079" y="1842" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VWnf_pDv5Sl6LeYncFD3-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VWnf_pDv5Sl6LeYncFD3-16" target="HRvxDB4I8MCEPSmdqRKO-264">
           <mxGeometry relative="1" as="geometry" />
@@ -461,7 +461,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="VWnf_pDv5Sl6LeYncFD3-16" value="user_auth检查&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;是否为手机用户" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-798" y="1234.5" width="150" height="80" as="geometry" />
+          <mxGeometry x="-798" y="1337.5" width="150" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
