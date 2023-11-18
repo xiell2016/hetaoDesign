@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2023-11-18T08:33:45.614Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="kFiastUGGZFftvsnmWMM" version="22.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-18T08:46:41.097Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="HanWvdIYIwXvAJDlvb1h" version="22.1.3" type="github">
   <diagram name="第 1 页" id="I_CiBrEOC1lFi9Kymtpu">
     <mxGraphModel dx="2314" dy="1150" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="NjjN-hI9MORs_WGNS3X4-1" value="rocketMq" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="760" y="710" width="120" height="60" as="geometry" />
+          <mxGeometry x="810" y="710" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fU38ZnRJ3ddc92GVq5r2-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="NjjN-hI9MORs_WGNS3X4-2" target="NjjN-hI9MORs_WGNS3X4-3">
           <mxGeometry relative="1" as="geometry" />
@@ -68,7 +68,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="NjjN-hI9MORs_WGNS3X4-7" value="教研/赛事系统" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="640" y="440" width="120" height="60" as="geometry" />
+          <mxGeometry x="660" y="440" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fU38ZnRJ3ddc92GVq5r2-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.178;entryY=0.017;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="NjjN-hI9MORs_WGNS3X4-4" target="NjjN-hI9MORs_WGNS3X4-2">
           <mxGeometry relative="1" as="geometry" />
