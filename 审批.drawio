@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-07T09:00:54.015Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="wXJVfM6jf92oAOelZFUf" version="22.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-07T09:02:18.952Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="pf8XrtS4EZ6mE6S-iDXI" version="22.1.7" type="github">
   <diagram name="第 1 页" id="31AeGMw_1z83WCatpMYb">
     <mxGraphModel dx="2261" dy="756" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -16,7 +16,7 @@
         <mxCell id="3wynmw63Yajw8kt6DfwZ-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;strokeColor=#009900;" edge="1" parent="1" source="3wynmw63Yajw8kt6DfwZ-3" target="3wynmw63Yajw8kt6DfwZ-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3wynmw63Yajw8kt6DfwZ-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="3wynmw63Yajw8kt6DfwZ-3">
+        <mxCell id="3wynmw63Yajw8kt6DfwZ-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;strokeColor=#009900;" edge="1" parent="1" source="3wynmw63Yajw8kt6DfwZ-3">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="160" y="473" as="targetPoint" />
             <Array as="points">
@@ -83,23 +83,19 @@
             <mxPoint x="340" y="623" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3wynmw63Yajw8kt6DfwZ-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;curved=1;entryX=0.46;entryY=1.05;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="3wynmw63Yajw8kt6DfwZ-3" target="3wynmw63Yajw8kt6DfwZ-1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="150" y="190" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="-102" y="469" />
-              <mxPoint x="-102" y="370" />
-              <mxPoint x="110" y="370" />
-              <mxPoint x="110" y="200" />
-              <mxPoint x="148" y="200" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="3wynmw63Yajw8kt6DfwZ-44" value="2.2 不使用审批&lt;font color=&quot;#ff0080&quot;&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-35" y="443" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3wynmw63Yajw8kt6DfwZ-45" value="若使用审批，返回创建审批的结果，审批结束后查看结果&lt;br&gt;&lt;br&gt;若不使用审批，透传后端的返回结果" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="30" y="280" width="150" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="3wynmw63Yajw8kt6DfwZ-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.453;entryY=1.067;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;strokeColor=#009900;" edge="1" parent="1" source="3wynmw63Yajw8kt6DfwZ-3" target="3wynmw63Yajw8kt6DfwZ-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-158" y="370" />
+              <mxPoint x="145" y="370" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
