@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-08T02:43:39.758Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="m7rmoowgZogNRRZVYfU8" version="22.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-08T03:03:32.367Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="uhY48gFBSbHYM2CbaDmW" version="22.1.7" type="github">
   <diagram name="第 1 页" id="31AeGMw_1z83WCatpMYb">
     <mxGraphModel dx="2261" dy="756" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -58,7 +58,7 @@
           <mxGeometry x="516" y="473" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="3wynmw63Yajw8kt6DfwZ-14" value="1.提交修改/创建&lt;br&gt;&lt;font color=&quot;#0000cc&quot;&gt;提交内容为：&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;a. 原header、url、body&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;b. 额外 用户userId、老师id、业务、修改前全量用户信息、commit说明、是否强制&lt;br&gt;&lt;/font&gt;&lt;font color=&quot;#ff0080&quot;&gt;异常：&lt;/font&gt;&lt;br&gt;&lt;font color=&quot;#ff0080&quot;&gt;a.手抖提交两次&lt;/font&gt;&lt;br&gt;&lt;font color=&quot;#ff0080&quot;&gt;b.&amp;nbsp;同一个老师修改不同用户&lt;/font&gt;&lt;br&gt;&lt;font color=&quot;#ff0080&quot;&gt;c.同一老师修改相同用户、不同内容&lt;/font&gt;&lt;br&gt;&lt;font color=&quot;#ff0080&quot;&gt;d.不同老师操作同一用户&lt;/font&gt;&lt;br&gt;&lt;font color=&quot;#ff0080&quot;&gt;e.不同老师修改不同用户&lt;/font&gt;&lt;br&gt;&lt;font color=&quot;#ff0080&quot;&gt;f.操作后，重新登录crm后台，token过期&lt;/font&gt;&lt;br&gt;&lt;font color=&quot;#336600&quot;&gt;异常解决：&lt;br&gt;a.加锁teacherId_userId_url&lt;br&gt;b.token验证前置，后端去掉token验证&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-250" y="190" width="275" height="220" as="geometry" />
+          <mxGeometry x="-200" y="200" width="275" height="220" as="geometry" />
         </mxCell>
         <mxCell id="3wynmw63Yajw8kt6DfwZ-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;strokeColor=#009900;" parent="1" source="3wynmw63Yajw8kt6DfwZ-16" target="3wynmw63Yajw8kt6DfwZ-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
