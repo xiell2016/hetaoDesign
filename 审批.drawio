@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-08T02:16:32.835Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="QTtW2ZFNrtF2U7u8RwE7" version="22.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-08T02:28:45.520Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="szxEoxi1j2BuDRMn-yU6" version="22.1.7" type="github">
   <diagram name="第 1 页" id="31AeGMw_1z83WCatpMYb">
     <mxGraphModel dx="2261" dy="756" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -57,8 +57,8 @@
         <mxCell id="3wynmw63Yajw8kt6DfwZ-8" value="staff&lt;br&gt;&amp;nbsp;token中心" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="516" y="473" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="3wynmw63Yajw8kt6DfwZ-14" value="1.提交修改/创建&lt;br&gt;&lt;font color=&quot;#0000cc&quot;&gt;提交内容为：&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;a. 原header、url、body&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;b. 额外 用户userId、老师id、业务、修改前全量用户信息、commit说明&lt;br&gt;&lt;/font&gt;&lt;font color=&quot;#ff0080&quot;&gt;异常：&lt;br&gt;a.手抖提交两次&lt;br&gt;b.&amp;nbsp;同一个老师修改不同用户&lt;br&gt;c.同一老师修改相同用户、不同内容&lt;br&gt;d.不同老师操作同一用户&lt;br&gt;e.不同老师修改不同用户&lt;br&gt;f.操作后，重新登录crm后台，token过期&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-230" y="230" width="275" height="170" as="geometry" />
+        <mxCell id="3wynmw63Yajw8kt6DfwZ-14" value="1.提交修改/创建&lt;br&gt;&lt;font color=&quot;#0000cc&quot;&gt;提交内容为：&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;a. 原header、url、body&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;b. 额外 用户userId、老师id、业务、修改前全量用户信息、commit说明、是否强制&lt;br&gt;&lt;/font&gt;&lt;font color=&quot;#ff0080&quot;&gt;异常：&lt;/font&gt;&lt;br&gt;&lt;font color=&quot;#ff0080&quot;&gt;a.手抖提交两次&lt;/font&gt;&lt;br&gt;&lt;font color=&quot;#ff0080&quot;&gt;b.&amp;nbsp;同一个老师修改不同用户&lt;/font&gt;&lt;br&gt;&lt;font color=&quot;#ff0080&quot;&gt;c.同一老师修改相同用户、不同内容&lt;/font&gt;&lt;br&gt;&lt;font color=&quot;#ff0080&quot;&gt;d.不同老师操作同一用户&lt;/font&gt;&lt;br&gt;&lt;font color=&quot;#ff0080&quot;&gt;e.不同老师修改不同用户&lt;/font&gt;&lt;br&gt;&lt;font color=&quot;#ff0080&quot;&gt;f.操作后，重新登录crm后台，token过期&lt;/font&gt;&lt;br&gt;&lt;font color=&quot;#336600&quot;&gt;异常解决：&lt;br&gt;a.加锁teacherId_userId_url&lt;br&gt;b.token验证前置，后端去掉token验证&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="-250" y="190" width="275" height="220" as="geometry" />
         </mxCell>
         <mxCell id="3wynmw63Yajw8kt6DfwZ-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;strokeColor=#009900;" parent="1" source="3wynmw63Yajw8kt6DfwZ-16" target="3wynmw63Yajw8kt6DfwZ-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -72,16 +72,16 @@
             <mxPoint x="527" y="495" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3wynmw63Yajw8kt6DfwZ-26" value="2.1使用审批：创建审批&lt;br&gt;&lt;font color=&quot;#ff0080&quot;&gt;异常：&lt;br&gt;a.创建失败&lt;br&gt;b.创建两次&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-326" y="523" width="140" height="90" as="geometry" />
+        <mxCell id="3wynmw63Yajw8kt6DfwZ-26" value="2.1使用审批：创建审批&lt;br&gt;&lt;font color=&quot;#ff0080&quot;&gt;异常：&lt;br&gt;a.创建失败(直接返回，&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;老师重新提交)&lt;br&gt;b.创建调用两次（加锁）&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="-320" y="540" width="134" height="77" as="geometry" />
         </mxCell>
-        <mxCell id="3wynmw63Yajw8kt6DfwZ-28" value="3.审批成功回调&lt;br&gt;&lt;font color=&quot;#ff0080&quot;&gt;异常：&lt;br&gt;a.一直无回调，让老师取消修改（取消审批接口），重新提交审批&lt;br&gt;b.回调两次&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="3wynmw63Yajw8kt6DfwZ-28" value="3.审批成功回调&lt;br&gt;&lt;font color=&quot;#ff0080&quot;&gt;异常：&lt;br&gt;a.一直无回调（老师强制重新，飞书接口验证，解老师操作锁）&lt;br&gt;b.回调两次（加锁）&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-156" y="540" width="156" height="107" as="geometry" />
         </mxCell>
-        <mxCell id="3wynmw63Yajw8kt6DfwZ-34" value="4.使用审批，异步执行修改&lt;br&gt;&lt;font color=&quot;#ff0080&quot;&gt;异常：&lt;br&gt;a.操作两次，做了重试&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry y="510" width="150" height="60" as="geometry" />
+        <mxCell id="3wynmw63Yajw8kt6DfwZ-34" value="4.使用审批，异步执行修改&lt;br&gt;&lt;font color=&quot;#ff0080&quot;&gt;异常：&lt;br&gt;a.操作两次(加锁，不能重试)&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="-10" y="510" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3wynmw63Yajw8kt6DfwZ-35" value="5.token验证&lt;br&gt;&lt;font color=&quot;#ff0080&quot;&gt;异常：&lt;br&gt;重登后台，token失效&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="3wynmw63Yajw8kt6DfwZ-35" value="5.token验证&lt;br&gt;&lt;font color=&quot;#ff0080&quot;&gt;异常：&lt;br&gt;重登后台，token失效（去掉token验证）&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="409" y="493" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3wynmw63Yajw8kt6DfwZ-37" value="6. 执行更新/插入&lt;font color=&quot;#ff0080&quot;&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
