@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-28T12:23:03.801Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="XN4k0FI08keOLTEMDAYP" version="24.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-28T12:32:37.267Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="geWjy3dm-V8eBKI0J4ht" version="24.2.2" type="github">
   <diagram name="第 1 页" id="Zqn69nHAaQLIHZz4OZMA">
     <mxGraphModel dx="2314" dy="1146" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -173,7 +173,7 @@
         <mxCell id="ji8Ps8-y2DthkimGRA9Z-36" value="2.存储cos url" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1360" y="1107.5" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ji8Ps8-y2DthkimGRA9Z-37" value="3.&amp;nbsp; cos url的切割成文件路径 /mount/xxx&lt;div&gt;&lt;div&gt;像本地磁盘一样&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;read/write&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;（内网，最高15Gb/s)&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="ji8Ps8-y2DthkimGRA9Z-37" value="3.&amp;nbsp; cos url的切割成文件路径 /mount/xxx&lt;div&gt;&lt;div&gt;像本地磁盘一样&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;read/write&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;内网带宽最高 Gb级&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;磁盘最高读写15Gb/s&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1905" y="1000" width="230" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ji8Ps8-y2DthkimGRA9Z-40" value="cos 文件系统插件" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#67AB9F;" vertex="1" parent="1">
