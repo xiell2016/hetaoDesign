@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-22T10:29:30.935Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="y4CLIiOOs4vIx4Jqt6AF" version="24.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-22T10:31:25.731Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="LpVD4EiPpYmGZq5w4UzL" version="24.6.1" type="github">
   <diagram name="第 1 页" id="rGw42DEsiBUozZV5euj-">
     <mxGraphModel dx="2420" dy="840" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -42,9 +42,6 @@
         <mxCell id="0yUii9oryXIb9BvwYovy-15" value="&lt;div&gt;同一个判题请求&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;case太多会分批&lt;br&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;case标号：1到20" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-200" y="410" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="0yUii9oryXIb9BvwYovy-19" value="判题沙箱进程&lt;div&gt;一个case一个协程并发&lt;div&gt;最多并发64&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;（不应达到，达到排队）&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-20" y="583" width="140" height="55" as="geometry" />
-        </mxCell>
         <mxCell id="0yUii9oryXIb9BvwYovy-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;strokeColor=#CC0066;" edge="1" parent="1" target="0yUii9oryXIb9BvwYovy-4" source="0yUii9oryXIb9BvwYovy-3">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="960" y="290" as="sourcePoint" />
@@ -56,7 +53,7 @@
             <mxPoint x="720" y="461" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0yUii9oryXIb9BvwYovy-24" value="&lt;div&gt;运行&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;topic - runCode&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;批量消费 - 64个一批" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="0yUii9oryXIb9BvwYovy-24" value="&lt;div&gt;学生调试(运行）&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;topic - runCode&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;批量消费 - 64个一批" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="223" y="170" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="0yUii9oryXIb9BvwYovy-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="0yUii9oryXIb9BvwYovy-25" target="0yUii9oryXIb9BvwYovy-49">
@@ -80,23 +77,26 @@
         <mxCell id="0yUii9oryXIb9BvwYovy-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.714;entryY=0.006;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="0yUii9oryXIb9BvwYovy-4" target="0yUii9oryXIb9BvwYovy-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0yUii9oryXIb9BvwYovy-41" value="判题沙箱进程&lt;div&gt;一个case一个协程并发&lt;div&gt;最多并发64&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;（不应达到，达到排队）&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="0yUii9oryXIb9BvwYovy-41" value="判题沙箱进程&lt;div&gt;一个case一个协程并发&lt;div&gt;最多并发64&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;（case分批不应达到64，达到排队）&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-245" y="587" width="140" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="0yUii9oryXIb9BvwYovy-42" value="&lt;div&gt;学生代码&lt;/div&gt;子进程" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
+        <mxCell id="0yUii9oryXIb9BvwYovy-42" value="&lt;div&gt;学生判题代码&lt;/div&gt;子进程" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="-315" y="690" width="95" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="0yUii9oryXIb9BvwYovy-43" value="&lt;div&gt;学生代码&lt;/div&gt;子进程" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
+        <mxCell id="0yUii9oryXIb9BvwYovy-43" value="&lt;div&gt;学生判题代码&lt;/div&gt;子进程" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="90" y="690" width="95" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0yUii9oryXIb9BvwYovy-46" value="。。。最多64*20=1280个判题子进程同时存在&amp;nbsp; &amp;nbsp;。。。" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="-220" y="705" width="310" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="0yUii9oryXIb9BvwYovy-49" value="&lt;div&gt;学生代码&lt;/div&gt;子进程" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
+        <mxCell id="0yUii9oryXIb9BvwYovy-49" value="&lt;div&gt;学生调试代码&lt;/div&gt;子进程" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="390" y="690" width="95" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="0yUii9oryXIb9BvwYovy-51" value="最多64个运行子进程同时存在&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
+        <mxCell id="0yUii9oryXIb9BvwYovy-51" value="最多64个代码运行运行子进程同时存在&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="282.5" y="660" width="310" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0yUii9oryXIb9BvwYovy-52" value="判题沙箱进程&lt;div&gt;一个case一个协程并发&lt;div&gt;最多并发64&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;（case分批不应达到64，达到排队）&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-20" y="588" width="140" height="55" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
