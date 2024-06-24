@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-24T08:11:27.595Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="TtdOidqjAUw912FNPtcY" version="24.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-24T08:15:23.943Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="t_RgsZ-NQb9oZkkwTR-l" version="24.6.1" type="github">
   <diagram name="第 1 页" id="rGw42DEsiBUozZV5euj-">
     <mxGraphModel dx="2420" dy="840" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -23,9 +23,6 @@
         </mxCell>
         <mxCell id="0yUii9oryXIb9BvwYovy-4" value="judge-center" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="70" y="370" width="200" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="0yUii9oryXIb9BvwYovy-7" value="&lt;div&gt;&lt;font color=&quot;#000099&quot;&gt;1.1 判题&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#000099&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#000099&quot;&gt;topic - judge&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#000099&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;font color=&quot;#000099&quot;&gt;批量消费 - 64个一批&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#000099;" vertex="1" parent="1">
-          <mxGeometry x="-15" y="150" width="130" height="70" as="geometry" />
         </mxCell>
         <mxCell id="0yUii9oryXIb9BvwYovy-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;strokeColor=#000099;" edge="1" parent="1" source="0yUii9oryXIb9BvwYovy-9" target="0yUii9oryXIb9BvwYovy-42">
           <mxGeometry relative="1" as="geometry" />
@@ -97,6 +94,9 @@
         </mxCell>
         <mxCell id="0yUii9oryXIb9BvwYovy-54" value="&lt;div&gt;&lt;font color=&quot;#330000&quot;&gt;进程 - 判题沙箱&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#330000&quot;&gt;每个case一个协程并发&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#330000&quot;&gt;最多并发64&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;（case分批不应达到64，达到排队）&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="373" y="588" width="140" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="0yUii9oryXIb9BvwYovy-56" value="&lt;div&gt;&lt;font color=&quot;#000099&quot;&gt;1.1 判题&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#000099&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#000099&quot;&gt;topic - judge&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#000099&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;font color=&quot;#000099&quot;&gt;批量消费 - 64个一批&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-20" y="130" width="135" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
