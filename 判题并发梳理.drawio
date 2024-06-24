@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-22T10:36:23.004Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="6nNXvFiK3d398Ca_NHL8" version="24.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-24T07:58:48.175Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="TZeST2rYVrRqYvanZa0i" version="24.6.1" type="github">
   <diagram name="第 1 页" id="rGw42DEsiBUozZV5euj-">
     <mxGraphModel dx="2420" dy="840" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -25,7 +25,7 @@
           <mxGeometry x="70" y="370" width="200" height="90" as="geometry" />
         </mxCell>
         <mxCell id="0yUii9oryXIb9BvwYovy-7" value="&lt;div&gt;1.1 判题&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;topic - judge&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;批量消费 - 64个一批" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-15" y="180" width="130" height="40" as="geometry" />
+          <mxGeometry x="-15" y="150" width="130" height="70" as="geometry" />
         </mxCell>
         <mxCell id="0yUii9oryXIb9BvwYovy-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="0yUii9oryXIb9BvwYovy-9" target="0yUii9oryXIb9BvwYovy-42">
           <mxGeometry relative="1" as="geometry" />
@@ -53,8 +53,8 @@
             <mxPoint x="720" y="461" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0yUii9oryXIb9BvwYovy-24" value="&lt;div&gt;学生调试(运行）&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;topic - runCode&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;批量消费 - 64个一批" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="223" y="170" width="130" height="40" as="geometry" />
+        <mxCell id="0yUii9oryXIb9BvwYovy-24" value="&lt;div&gt;2.1 学生调试(运行）&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;topic - runCode&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;批量消费 - 64个一批" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="223" y="130" width="130" height="80" as="geometry" />
         </mxCell>
         <mxCell id="0yUii9oryXIb9BvwYovy-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="0yUii9oryXIb9BvwYovy-25" target="0yUii9oryXIb9BvwYovy-49">
           <mxGeometry relative="1" as="geometry" />
@@ -62,7 +62,7 @@
         <mxCell id="0yUii9oryXIb9BvwYovy-25" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="353" y="568" width="160" height="85" as="geometry" />
         </mxCell>
-        <mxCell id="0yUii9oryXIb9BvwYovy-27" value="最多有1个case&lt;div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="0yUii9oryXIb9BvwYovy-27" value="2.2 最多有1个case&lt;div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="300" y="450" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="0yUii9oryXIb9BvwYovy-31" value="&lt;div&gt;1.3 同一个判题请求&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;case太多会分批&lt;/span&gt;&lt;/div&gt;&lt;div&gt;批次同步执行&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;case标号：21到40" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
