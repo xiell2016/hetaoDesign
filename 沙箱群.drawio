@@ -31,6 +31,21 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="jhO21iNm7kxq1k48zXee-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.639;exitY=1.017;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="oX1zahlx5rYVZvXtA2q4-2" target="oX1zahlx5rYVZvXtA2q4-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jhO21iNm7kxq1k48zXee-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.908;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1282.08" y="360" as="sourcePoint" />
+            <mxPoint x="1280" y="420" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1282" y="361" />
+              <mxPoint x="1280" y="361" />
+              <mxPoint x="1280" y="391" />
+              <mxPoint x="1281" y="391" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="oX1zahlx5rYVZvXtA2q4-2" value="online-judge-service" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="370" y="300" width="1010" height="60" as="geometry" />
         </mxCell>
@@ -39,8 +54,8 @@
         </mxCell>
         <mxCell id="jhO21iNm7kxq1k48zXee-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="560" y="650" as="targetPoint" />
-            <mxPoint x="560" y="600" as="sourcePoint" />
+            <mxPoint x="619" y="650" as="targetPoint" />
+            <mxPoint x="619" y="600" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="jhO21iNm7kxq1k48zXee-10" value="&lt;div&gt;推送判题mq&lt;/div&gt;&lt;div&gt;（case/条）&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="jhO21iNm7kxq1k48zXee-9">
@@ -57,19 +72,19 @@
         <mxCell id="oX1zahlx5rYVZvXtA2q4-5" value="redis" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="150" y="410" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="oX1zahlx5rYVZvXtA2q4-7" value="运行编译mq" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="oX1zahlx5rYVZvXtA2q4-7" value="&lt;div&gt;mq&lt;/div&gt;topic-运行编译" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="430" y="679" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="oX1zahlx5rYVZvXtA2q4-8" value="判题编译mq" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="877" y="679" width="120" height="60" as="geometry" />
+        <mxCell id="oX1zahlx5rYVZvXtA2q4-8" value="&lt;div&gt;mq&lt;/div&gt;topic-判题编译" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="907" y="679" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="oX1zahlx5rYVZvXtA2q4-9" value="运行mq" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="oX1zahlx5rYVZvXtA2q4-9" value="&lt;div&gt;mq&lt;/div&gt;topic-运行" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="585" y="679" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="oX1zahlx5rYVZvXtA2q4-10" value="judge-center&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;服务群 （任务判题）&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="890" y="420" width="250" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="oX1zahlx5rYVZvXtA2q4-12" value="判题mq" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="oX1zahlx5rYVZvXtA2q4-12" value="&lt;div&gt;mq&lt;/div&gt;topic-判题" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1060" y="679" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="oX1zahlx5rYVZvXtA2q4-14" value="赛事服务" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -116,8 +131,11 @@
         <mxCell id="oX1zahlx5rYVZvXtA2q4-28" value="6. 提交成功" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="470" y="250" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="oX1zahlx5rYVZvXtA2q4-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.131;entryY=0.01;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="oX1zahlx5rYVZvXtA2q4-3" target="oX1zahlx5rYVZvXtA2q4-13" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="oX1zahlx5rYVZvXtA2q4-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.131;entryY=0.01;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="515.5" y="590" as="sourcePoint" />
+            <mxPoint x="515.31" y="655" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="oX1zahlx5rYVZvXtA2q4-31" value="消费编译&lt;div&gt;编译完成&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="oX1zahlx5rYVZvXtA2q4-30" vertex="1" connectable="0">
           <mxGeometry x="-0.0083" y="-2" relative="1" as="geometry">
@@ -232,8 +250,8 @@
         </mxCell>
         <mxCell id="jhO21iNm7kxq1k48zXee-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="630" y="600" as="sourcePoint" />
-            <mxPoint x="631" y="650" as="targetPoint" />
+            <mxPoint x="714" y="600" as="sourcePoint" />
+            <mxPoint x="715" y="650" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="jhO21iNm7kxq1k48zXee-3" value="消费判题&lt;div&gt;判题完成&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="jhO21iNm7kxq1k48zXee-1">
@@ -250,6 +268,22 @@
         <mxCell id="jhO21iNm7kxq1k48zXee-13" value="判题结果callback" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="jhO21iNm7kxq1k48zXee-11">
           <mxGeometry x="-0.0709" y="-2" relative="1" as="geometry">
             <mxPoint x="1" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jhO21iNm7kxq1k48zXee-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.649;entryY=0.02;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="oX1zahlx5rYVZvXtA2q4-10" target="oX1zahlx5rYVZvXtA2q4-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jhO21iNm7kxq1k48zXee-16" value="groupId = dealyJudge" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="jhO21iNm7kxq1k48zXee-15">
+          <mxGeometry x="0.0677" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jhO21iNm7kxq1k48zXee-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.916;entryY=0.02;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="oX1zahlx5rYVZvXtA2q4-108" target="oX1zahlx5rYVZvXtA2q4-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jhO21iNm7kxq1k48zXee-18" value="groupId = student" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="jhO21iNm7kxq1k48zXee-17">
+          <mxGeometry x="-0.0332" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
