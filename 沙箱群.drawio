@@ -26,9 +26,9 @@
             <mxPoint x="748" y="298" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jhO21iNm7kxq1k48zXee-14" value="判题结果callback" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="jhO21iNm7kxq1k48zXee-12">
+        <mxCell id="jhO21iNm7kxq1k48zXee-14" value="14. 判题结果callback" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="jhO21iNm7kxq1k48zXee-12">
           <mxGeometry x="-0.1393" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint y="-10" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="jhO21iNm7kxq1k48zXee-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.639;exitY=1.017;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="oX1zahlx5rYVZvXtA2q4-2" target="oX1zahlx5rYVZvXtA2q4-10">
@@ -58,7 +58,7 @@
             <mxPoint x="619" y="600" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jhO21iNm7kxq1k48zXee-10" value="&lt;div&gt;推送判题mq&lt;/div&gt;&lt;div&gt;（case/条）&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="jhO21iNm7kxq1k48zXee-9">
+        <mxCell id="jhO21iNm7kxq1k48zXee-10" value="&lt;div&gt;10.推送判题mq&lt;/div&gt;&lt;div&gt;（case/条）&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="jhO21iNm7kxq1k48zXee-9">
           <mxGeometry x="-0.32" y="-4" relative="1" as="geometry">
             <mxPoint x="10" y="12" as="offset" />
           </mxGeometry>
@@ -67,7 +67,7 @@
           <mxGeometry x="370" y="420" width="490" height="170" as="geometry" />
         </mxCell>
         <mxCell id="oX1zahlx5rYVZvXtA2q4-4" value="mysql" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="140" y="220" width="120" height="60" as="geometry" />
+          <mxGeometry x="140" y="205" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="oX1zahlx5rYVZvXtA2q4-5" value="redis" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="130" y="410" width="120" height="60" as="geometry" />
@@ -103,7 +103,7 @@
           <mxGeometry x="374" y="230" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="oX1zahlx5rYVZvXtA2q4-20" value="2.题目信息&lt;div&gt;limit等&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="270" y="290" width="80" height="30" as="geometry" />
+          <mxGeometry x="260" y="265" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="oX1zahlx5rYVZvXtA2q4-21" value="3.暂存题、请求信息&lt;br&gt;submitIdKey" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="170" y="350" width="110" height="30" as="geometry" />
@@ -137,7 +137,7 @@
             <mxPoint x="515.31" y="655" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oX1zahlx5rYVZvXtA2q4-31" value="消费编译&lt;div&gt;编译完成&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="oX1zahlx5rYVZvXtA2q4-30" vertex="1" connectable="0">
+        <mxCell id="oX1zahlx5rYVZvXtA2q4-31" value="8.消费编译&lt;div&gt;编译完成&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="oX1zahlx5rYVZvXtA2q4-30" vertex="1" connectable="0">
           <mxGeometry x="-0.0083" y="-2" relative="1" as="geometry">
             <mxPoint x="-2" y="-2" as="offset" />
           </mxGeometry>
@@ -251,18 +251,18 @@
             <mxPoint x="715" y="650" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jhO21iNm7kxq1k48zXee-3" value="消费判题&lt;div&gt;判题完成&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="jhO21iNm7kxq1k48zXee-1">
+        <mxCell id="jhO21iNm7kxq1k48zXee-3" value="11. 消费判题&lt;div&gt;判题完成&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="jhO21iNm7kxq1k48zXee-1">
           <mxGeometry x="-0.1237" y="3" relative="1" as="geometry">
             <mxPoint x="-2" y="10" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jhO21iNm7kxq1k48zXee-7" value="case计数&lt;div style=&quot;font-size: 11px; text-wrap: nowrap;&quot;&gt;&lt;span style=&quot;font-size: 12px; text-wrap: wrap;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px; text-wrap: nowrap;&quot;&gt;&lt;span style=&quot;font-size: 12px; text-wrap: wrap;&quot;&gt;结果聚合&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="jhO21iNm7kxq1k48zXee-7" value="9. case计数&lt;div style=&quot;font-size: 11px; text-wrap: nowrap;&quot;&gt;&lt;span style=&quot;font-size: 12px; text-wrap: wrap;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px; text-wrap: nowrap;&quot;&gt;&lt;span style=&quot;font-size: 12px; text-wrap: wrap;&quot;&gt;12.结果聚合&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="210" y="480" width="110" height="44" as="geometry" />
         </mxCell>
         <mxCell id="jhO21iNm7kxq1k48zXee-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.364;entryY=1.033;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="oX1zahlx5rYVZvXtA2q4-3" target="oX1zahlx5rYVZvXtA2q4-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jhO21iNm7kxq1k48zXee-13" value="判题结果callback" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="jhO21iNm7kxq1k48zXee-11">
+        <mxCell id="jhO21iNm7kxq1k48zXee-13" value="13. 判题结果callback" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="jhO21iNm7kxq1k48zXee-11">
           <mxGeometry x="-0.0709" y="-2" relative="1" as="geometry">
             <mxPoint x="1" y="-1" as="offset" />
           </mxGeometry>
