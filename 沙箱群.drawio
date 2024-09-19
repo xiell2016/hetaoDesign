@@ -24,14 +24,17 @@
         <mxCell id="oX1zahlx5rYVZvXtA2q4-2" value="online-judge-service" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="370" y="300" width="1010" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="jhO21iNm7kxq1k48zXee-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="oX1zahlx5rYVZvXtA2q4-3" target="oX1zahlx5rYVZvXtA2q4-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="oX1zahlx5rYVZvXtA2q4-3" value="judge-center&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;服务群 （实时判题）&lt;/span&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="370" y="420" width="490" height="170" as="geometry" />
         </mxCell>
         <mxCell id="oX1zahlx5rYVZvXtA2q4-4" value="mysql" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="150" y="235" width="120" height="60" as="geometry" />
+          <mxGeometry x="160" y="225" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="oX1zahlx5rYVZvXtA2q4-5" value="redis" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="150" y="440" width="120" height="60" as="geometry" />
+          <mxGeometry x="150" y="410" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="oX1zahlx5rYVZvXtA2q4-7" value="运行编译mq" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="430" y="679" width="120" height="60" as="geometry" />
@@ -67,7 +70,7 @@
           <mxGeometry x="270" y="290" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="oX1zahlx5rYVZvXtA2q4-21" value="3.暂存题、请求信息&lt;br&gt;submitIdKey" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="210" y="370" width="110" height="30" as="geometry" />
+          <mxGeometry x="200" y="360" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="oX1zahlx5rYVZvXtA2q4-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.106;exitY=1.017;exitDx=0;exitDy=0;entryX=0.061;entryY=0.01;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;" parent="1" source="oX1zahlx5rYVZvXtA2q4-3" target="oX1zahlx5rYVZvXtA2q4-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -208,6 +211,14 @@
         </mxCell>
         <mxCell id="jhO21iNm7kxq1k48zXee-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.408;exitY=1.024;exitDx=0;exitDy=0;entryX=0.207;entryY=0.03;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;" edge="1" parent="1" source="oX1zahlx5rYVZvXtA2q4-3" target="oX1zahlx5rYVZvXtA2q4-13">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jhO21iNm7kxq1k48zXee-3" value="消费判题" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="jhO21iNm7kxq1k48zXee-1">
+          <mxGeometry x="-0.1237" y="3" relative="1" as="geometry">
+            <mxPoint x="3" y="-2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jhO21iNm7kxq1k48zXee-7" value="case计数&lt;div style=&quot;font-size: 11px; text-wrap: nowrap;&quot;&gt;&lt;span style=&quot;font-size: 12px; text-wrap: wrap;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px; text-wrap: nowrap;&quot;&gt;&lt;span style=&quot;font-size: 12px; text-wrap: wrap;&quot;&gt;结果聚合&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="220" y="486" width="110" height="44" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
