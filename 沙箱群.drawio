@@ -361,7 +361,7 @@
         <mxCell id="OMg2h1D-q6PAFUjmHJT1-35" value="判题种类" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="2095" y="100" width="105" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="OMg2h1D-q6PAFUjmHJT1-37" value="沙箱方式-ptrace" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="OMg2h1D-q6PAFUjmHJT1-37" value="ptrace沙箱" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="680" y="1140" width="115" height="20" as="geometry" />
         </mxCell>
         <mxCell id="OMg2h1D-q6PAFUjmHJT1-38" value="判题方式-沙箱群" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -412,13 +412,40 @@
           <mxGeometry x="545" y="1410" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OMg2h1D-q6PAFUjmHJT1-63" value="&lt;div&gt;&lt;div style=&quot;background-color:#ffffff;color:#080808;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9.8pt;white-space:pre;&quot;&gt;&lt;span style=&quot;color:#805900;&quot;&gt;rlimit &lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;background-color:#ffffff;color:#080808;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9.8pt;white-space:pre;&quot;&gt;&lt;span style=&quot;color:#805900;&quot;&gt;cpu&amp;amp;time限制&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="846" y="1260" width="120" height="60" as="geometry" />
+          <mxGeometry x="842" y="1320" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="OMg2h1D-q6PAFUjmHJT1-64" value="&lt;div&gt;&lt;div style=&quot;background-color:#ffffff;color:#080808;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9.8pt;white-space:pre;&quot;&gt;&lt;span style=&quot;color:#805900;&quot;&gt;cpu&amp;amp;time 限制&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="OMg2h1D-q6PAFUjmHJT1-64" value="&lt;div&gt;&lt;div style=&quot;background-color:#ffffff;color:#080808;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9.8pt;white-space:pre;&quot;&gt;&lt;div style=&quot;font-size: 9.8pt;&quot;&gt;&lt;span style=&quot;color:#8c8c8c;font-style:italic;&quot;&gt;tracer limit&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;background-color:#ffffff;color:#080808;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9.8pt;white-space:pre;&quot;&gt;&lt;span style=&quot;color:#805900;&quot;&gt;cpu&amp;amp;time 限制&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="545" y="1250" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OMg2h1D-q6PAFUjmHJT1-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.394;entryY=1.069;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;" edge="1" parent="1" source="OMg2h1D-q6PAFUjmHJT1-47" target="OMg2h1D-q6PAFUjmHJT1-46">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OMg2h1D-q6PAFUjmHJT1-67" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1133" y="1210" width="150" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="OMg2h1D-q6PAFUjmHJT1-68" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1426" y="1210" width="157" height="315" as="geometry" />
+        </mxCell>
+        <mxCell id="OMg2h1D-q6PAFUjmHJT1-69" value="容器群沙箱" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1300" y="1130" width="115" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="OMg2h1D-q6PAFUjmHJT1-70" value="namespace" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1148" y="1350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OMg2h1D-q6PAFUjmHJT1-71" value="常驻父进程" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1167" y="1215" width="82" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OMg2h1D-q6PAFUjmHJT1-72" value="子进程" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1475" y="1215" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OMg2h1D-q6PAFUjmHJT1-73" value="cgroup" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1148" y="1420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OMg2h1D-q6PAFUjmHJT1-74" value="&lt;div&gt;&lt;div style=&quot;background-color:#ffffff;color:#080808;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9.8pt;white-space:pre;&quot;&gt;&lt;span style=&quot;color:#805900;&quot;&gt;rlimit &lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;background-color:#ffffff;color:#080808;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9.8pt;white-space:pre;&quot;&gt;&lt;span style=&quot;color:#805900;&quot;&gt;cpu&amp;amp;time限制&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1445" y="1330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OMg2h1D-q6PAFUjmHJT1-76" value="libseccomp&lt;div&gt;系统调用&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1148" y="1280" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
