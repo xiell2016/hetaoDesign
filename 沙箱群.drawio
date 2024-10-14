@@ -386,11 +386,37 @@
         <mxCell id="OMg2h1D-q6PAFUjmHJT1-29" value="&lt;div&gt;&lt;font color=&quot;#000099&quot;&gt;1.1 判题请求&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#000099&quot;&gt;4并发&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#000099&quot;&gt;业务幂等&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" vertex="1">
           <mxGeometry x="2022.5" y="350" width="87.5" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="HNFhALDRVjWEtjjJLuxw-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1.007;exitY=0.15;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.019;entryY=0.156;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="OMg2h1D-q6PAFUjmHJT1-32" target="OMg2h1D-q6PAFUjmHJT1-33">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="810" y="1280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HNFhALDRVjWEtjjJLuxw-20" value="启动" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="HNFhALDRVjWEtjjJLuxw-15">
+          <mxGeometry x="0.0511" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="OMg2h1D-q6PAFUjmHJT1-32" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="530" y="1200" width="150" height="320" as="geometry" />
         </mxCell>
+        <mxCell id="HNFhALDRVjWEtjjJLuxw-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="OMg2h1D-q6PAFUjmHJT1-33" target="OMg2h1D-q6PAFUjmHJT1-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HNFhALDRVjWEtjjJLuxw-21" value="Python命令可用？" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="HNFhALDRVjWEtjjJLuxw-16">
+          <mxGeometry x="-0.1163" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HNFhALDRVjWEtjjJLuxw-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="OMg2h1D-q6PAFUjmHJT1-33" target="OMg2h1D-q6PAFUjmHJT1-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HNFhALDRVjWEtjjJLuxw-22" value="底层read命令&lt;div&gt;xxx文件可读？&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="HNFhALDRVjWEtjjJLuxw-17">
+          <mxGeometry x="-0.0078" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="OMg2h1D-q6PAFUjmHJT1-33" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="823" y="1200" width="157" height="315" as="geometry" />
+          <mxGeometry x="809" y="1200" width="161" height="320" as="geometry" />
         </mxCell>
         <mxCell id="OMg2h1D-q6PAFUjmHJT1-34" value="判题整体架构图" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="815" y="70" width="155" height="30" as="geometry" />
@@ -471,8 +497,8 @@
         <mxCell id="OMg2h1D-q6PAFUjmHJT1-62" value="&lt;div&gt;&lt;div style=&quot;background-color:#ffffff;color:#080808;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9.8pt;white-space:pre;&quot;&gt;&lt;span style=&quot;color:#805900;&quot;&gt;libseccomp&lt;/span&gt;&lt;/div&gt;系统调用限制&lt;/div&gt;&lt;div&gt;allow/kill/trace&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="545" y="1430" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="OMg2h1D-q6PAFUjmHJT1-63" value="&lt;div style=&quot;background-color:#ffffff;color:#080808;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9.8pt;white-space:pre;&quot;&gt;&lt;span style=&quot;color:#805900;&quot;&gt;rlimit&lt;/span&gt;&lt;span style=&quot;color: rgb(128, 89, 0);&quot;&gt;实时限制&lt;/span&gt;&lt;span style=&quot;color: rgb(128, 89, 0); font-size: 9.8pt;&quot;&gt; &lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;background-color:#ffffff;color:#080808;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9.8pt;white-space:pre;&quot;&gt;&lt;span style=&quot;color:#805900;&quot;&gt;cpu&amp;amp;time&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="842" y="1320" width="120" height="60" as="geometry" />
+        <mxCell id="OMg2h1D-q6PAFUjmHJT1-63" value="&lt;div style=&quot;background-color:#ffffff;color:#080808;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9.8pt;white-space:pre;&quot;&gt;&lt;span style=&quot;color:#805900;&quot;&gt;rlimit&lt;/span&gt;&lt;span style=&quot;color: rgb(128, 89, 0);&quot;&gt;实时限制&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;background-color:#ffffff;color:#080808;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9.8pt;white-space:pre;&quot;&gt;&lt;span style=&quot;color: rgb(128, 89, 0); font-size: 9.8pt;&quot;&gt; &lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;background-color:#ffffff;color:#080808;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9.8pt;white-space:pre;&quot;&gt;&lt;span style=&quot;color:#805900;&quot;&gt;cpu &lt;/span&gt;&lt;span style=&quot;color: rgb(128, 89, 0); font-size: 9.8pt;&quot;&gt;time&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;background-color:#ffffff;color:#080808;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9.8pt;white-space:pre;&quot;&gt;&lt;span style=&quot;color: rgb(128, 89, 0); font-size: 9.8pt;&quot;&gt;memory&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;background-color:#ffffff;color:#080808;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9.8pt;white-space:pre;&quot;&gt;&lt;span style=&quot;color: rgb(128, 89, 0); font-size: 9.8pt;&quot;&gt;打开文件数&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;background-color:#ffffff;color:#080808;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9.8pt;white-space:pre;&quot;&gt;&lt;span style=&quot;color: rgb(128, 89, 0); font-size: 9.8pt;&quot;&gt;打开文件大小&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="833.5" y="1290" width="118" height="160" as="geometry" />
         </mxCell>
         <mxCell id="OMg2h1D-q6PAFUjmHJT1-64" value="&lt;div&gt;&lt;div style=&quot;background-color:#ffffff;color:#080808;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9.8pt;white-space:pre;&quot;&gt;&lt;div style=&quot;font-size: 9.8pt;&quot;&gt;&lt;span style=&quot;color:#8c8c8c;font-style:italic;&quot;&gt;tracer limit&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;background-color:#ffffff;color:#080808;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9.8pt;white-space:pre;&quot;&gt;&lt;span style=&quot;color:#805900;&quot;&gt;cpu&amp;amp;time 限制&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="545" y="1250" width="120" height="60" as="geometry" />
@@ -540,14 +566,41 @@
         <mxCell id="OMg2h1D-q6PAFUjmHJT1-99" value="&lt;div&gt;&lt;font color=&quot;#000099&quot;&gt;1.4 单case判题&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#000099&quot;&gt;4并发&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#000099&quot;&gt;业务幂等&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" vertex="1">
           <mxGeometry x="2220" y="365" width="100" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="HNFhALDRVjWEtjjJLuxw-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="1560" width="160" height="210" as="geometry" />
-        </mxCell>
         <mxCell id="HNFhALDRVjWEtjjJLuxw-5" value="1.5.4 答案检验&lt;div&gt;学生结果和标准答案比对&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1936" y="658.5" width="84" height="41.5" as="geometry" />
         </mxCell>
         <mxCell id="HNFhALDRVjWEtjjJLuxw-6" value="redis" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2390" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HNFhALDRVjWEtjjJLuxw-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.006;exitY=0.941;exitDx=0;exitDy=0;entryX=1.013;entryY=0.941;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;" edge="1" parent="1" source="OMg2h1D-q6PAFUjmHJT1-33" target="OMg2h1D-q6PAFUjmHJT1-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HNFhALDRVjWEtjjJLuxw-29" value="结果返回&lt;div&gt;或写入文件&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="HNFhALDRVjWEtjjJLuxw-19">
+          <mxGeometry x="0.0618" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HNFhALDRVjWEtjjJLuxw-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1.007;exitY=0.356;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.006;entryY=0.353;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="OMg2h1D-q6PAFUjmHJT1-32" target="OMg2h1D-q6PAFUjmHJT1-33">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="822" y="1260" as="targetPoint" />
+            <mxPoint x="691" y="1258" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HNFhALDRVjWEtjjJLuxw-24" value="可用" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="HNFhALDRVjWEtjjJLuxw-23">
+          <mxGeometry x="0.0511" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HNFhALDRVjWEtjjJLuxw-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1.007;exitY=0.356;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.006;entryY=0.353;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="809" y="1398.5" as="targetPoint" />
+            <mxPoint x="682" y="1399.5" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HNFhALDRVjWEtjjJLuxw-28" value="可读继续&lt;br&gt;不可读 kill" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="HNFhALDRVjWEtjjJLuxw-25">
+          <mxGeometry x="-0.0936" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
