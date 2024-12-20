@@ -8,13 +8,31 @@
           <mxGeometry x="365" y="230" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nJXdHBnAXh9dm8N67HSL-2" value="乐高课消服务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="610" y="430" width="110" height="80" as="geometry" />
+          <mxGeometry x="370" y="380" width="890" height="80" as="geometry" />
         </mxCell>
         <mxCell id="nJXdHBnAXh9dm8N67HSL-8" value="学生端挂课解锁&lt;br&gt;mq" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="590" y="230" width="120" height="60" as="geometry" />
+          <mxGeometry x="580" y="230" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nJXdHBnAXh9dm8N67HSL-9" value="直播课解锁&lt;br&gt;mq" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="820" y="230" width="120" height="60" as="geometry" />
+          <mxGeometry x="707" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nJXdHBnAXh9dm8N67HSL-10" value="crm财务后台" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="950" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nJXdHBnAXh9dm8N67HSL-11" value="退费系统" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1135" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nJXdHBnAXh9dm8N67HSL-12" value="课消账户表" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="550" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nJXdHBnAXh9dm8N67HSL-13" value="课消课程流水表" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="550" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nJXdHBnAXh9dm8N67HSL-14" value="课消结算表" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="750" y="550" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nJXdHBnAXh9dm8N67HSL-15" value="课消变更记录" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="930" y="545" width="140" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
