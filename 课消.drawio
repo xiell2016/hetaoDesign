@@ -8,7 +8,7 @@
           <mxGeometry x="365" y="230" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nJXdHBnAXh9dm8N67HSL-2" value="乐高课消服务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="380" width="890" height="80" as="geometry" />
+          <mxGeometry x="370" y="380" width="890" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nJXdHBnAXh9dm8N67HSL-8" value="学生端挂课解锁&lt;br&gt;mq" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="580" y="230" width="120" height="60" as="geometry" />
@@ -32,10 +32,13 @@
           <mxGeometry x="750" y="550" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="nJXdHBnAXh9dm8N67HSL-15" value="课消变更记录" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="930" y="545" width="140" height="40" as="geometry" />
+          <mxGeometry x="930" y="550" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="nJXdHBnAXh9dm8N67HSL-16" value="日、周、月统计&lt;div&gt;静态数据表&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1115" y="550" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nJXdHBnAXh9dm8N67HSL-17" value="课程维度表" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="640" width="680" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
