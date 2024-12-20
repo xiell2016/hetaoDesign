@@ -34,6 +34,9 @@
         <mxCell id="nJXdHBnAXh9dm8N67HSL-15" value="课消变更记录" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="930" y="545" width="140" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="nJXdHBnAXh9dm8N67HSL-16" value="日、周、月统计&lt;div&gt;静态数据表&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1115" y="550" width="140" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
