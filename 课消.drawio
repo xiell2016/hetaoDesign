@@ -1,9 +1,21 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="vsfwroW1HJ1qrRivyFGg">
-    <mxGraphModel>
+    <mxGraphModel dx="1434" dy="755" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="nJXdHBnAXh9dm8N67HSL-1" value="履约单&lt;div&gt;mq&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nJXdHBnAXh9dm8N67HSL-2" value="乐高课消服务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="430" width="110" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="nJXdHBnAXh9dm8N67HSL-8" value="学生端挂课解锁&lt;br&gt;mq" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nJXdHBnAXh9dm8N67HSL-9" value="直播课解锁&lt;br&gt;mq" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="820" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
