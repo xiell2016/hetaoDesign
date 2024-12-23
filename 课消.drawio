@@ -169,7 +169,7 @@
           <mxGeometry x="1240" y="350" width="170" height="62" as="geometry" />
         </mxCell>
         <mxCell id="nJXdHBnAXh9dm8N67HSL-97" value="&lt;div&gt;疑问：系统有哪些模块？&lt;/div&gt;&lt;div&gt;哪些流程？&lt;/div&gt;&lt;div&gt;数据是如何存储的，如何使用的？&lt;/div&gt;&lt;div&gt;数据之间有什么关系？&lt;/div&gt;&lt;div&gt;有哪些重点难点风险点？&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="780" y="780" width="300" height="100" as="geometry" />
+          <mxGeometry x="860" y="780" width="300" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
