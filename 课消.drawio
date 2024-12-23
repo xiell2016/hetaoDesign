@@ -10,9 +10,9 @@
         <mxCell id="nJXdHBnAXh9dm8N67HSL-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.097;exitY=1.042;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" source="nJXdHBnAXh9dm8N67HSL-2" target="nJXdHBnAXh9dm8N67HSL-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nJXdHBnAXh9dm8N67HSL-47" value="账户修改&lt;br&gt;状态修改" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="nJXdHBnAXh9dm8N67HSL-46">
+        <mxCell id="nJXdHBnAXh9dm8N67HSL-47" value="1.2账户初始化&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="nJXdHBnAXh9dm8N67HSL-46">
           <mxGeometry x="0.0576" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-41" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="nJXdHBnAXh9dm8N67HSL-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="nJXdHBnAXh9dm8N67HSL-13">
@@ -115,7 +115,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nJXdHBnAXh9dm8N67HSL-60" value="课消" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="730" y="470" width="60" height="30" as="geometry" />
+          <mxGeometry x="740" y="460" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nJXdHBnAXh9dm8N67HSL-63" value="2.3 修改&lt;div&gt;账户/状态&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="480" y="520" width="70" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
