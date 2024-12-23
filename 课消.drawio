@@ -22,22 +22,22 @@
         <mxCell id="nJXdHBnAXh9dm8N67HSL-11" value="退费系统" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1135" y="230" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="nJXdHBnAXh9dm8N67HSL-12" value="课消账户表" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="nJXdHBnAXh9dm8N67HSL-12" value="用户 - 课消账户表&lt;div&gt;（订单、课时数、余额）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="550" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="nJXdHBnAXh9dm8N67HSL-13" value="课消课程流水表" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="nJXdHBnAXh9dm8N67HSL-13" value="用户 - 课消流水表&lt;div&gt;（订单、班级、课程id）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="570" y="550" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="nJXdHBnAXh9dm8N67HSL-14" value="课消结算表" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="nJXdHBnAXh9dm8N67HSL-14" value="用户 - 课消结算流水表&lt;div&gt;（订单、消耗课时、&lt;/div&gt;&lt;div&gt;前后余额、消耗金额）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="950" y="550" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="nJXdHBnAXh9dm8N67HSL-15" value="课消变更记录" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="nJXdHBnAXh9dm8N67HSL-15" value="用户 - 课消变更来源&lt;div&gt;（订单、变更事件、&lt;/div&gt;&lt;div&gt;变更金额、结算id）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="760" y="550" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="nJXdHBnAXh9dm8N67HSL-16" value="日、周、月统计&lt;div&gt;静态数据表&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1125" y="550" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="nJXdHBnAXh9dm8N67HSL-17" value="课程维度配置表" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="nJXdHBnAXh9dm8N67HSL-17" value="配置 - 课程维度表（学科、使用方向、培养方向等）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="640" width="890" height="40" as="geometry" />
         </mxCell>
       </root>
