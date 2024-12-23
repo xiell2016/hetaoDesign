@@ -37,10 +37,10 @@
           <mxGeometry x="550" y="550" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nJXdHBnAXh9dm8N67HSL-14" value="用户 - 课消结算流水表&lt;div&gt;（订单、消耗课时、&lt;/div&gt;&lt;div&gt;前后余额、消耗金额）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="860" y="550" width="160" height="60" as="geometry" />
+          <mxGeometry x="870" y="550" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nJXdHBnAXh9dm8N67HSL-15" value="用户 - 课消变更来源&lt;div&gt;（订单、变更事件、&lt;/div&gt;&lt;div&gt;变更金额、结算id）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="710" y="550" width="150" height="60" as="geometry" />
+          <mxGeometry x="714" y="550" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nJXdHBnAXh9dm8N67HSL-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="nJXdHBnAXh9dm8N67HSL-16" target="nJXdHBnAXh9dm8N67HSL-14">
           <mxGeometry relative="1" as="geometry" />
@@ -49,7 +49,7 @@
           <mxGeometry x="1125" y="550" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nJXdHBnAXh9dm8N67HSL-17" value="配置 - 课程维度表&lt;div&gt;（学科、使用方向、培养方向等）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="351" y="670" width="929" height="40" as="geometry" />
+          <mxGeometry x="340" y="670" width="940" height="40" as="geometry" />
         </mxCell>
         <mxCell id="nJXdHBnAXh9dm8N67HSL-21" value="1.1下单、转单、返现、退费、结单" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="365" y="320" width="105" height="30" as="geometry" />
@@ -88,7 +88,13 @@
           <mxGeometry x="210" y="565" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nJXdHBnAXh9dm8N67HSL-50" value="sql sum" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1040" y="535" width="60" height="30" as="geometry" />
+          <mxGeometry x="1050" y="530" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nJXdHBnAXh9dm8N67HSL-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.309;entryY=-0.037;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="nJXdHBnAXh9dm8N67HSL-13" target="nJXdHBnAXh9dm8N67HSL-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nJXdHBnAXh9dm8N67HSL-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.649;entryY=-0.012;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="nJXdHBnAXh9dm8N67HSL-14" target="nJXdHBnAXh9dm8N67HSL-17">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
