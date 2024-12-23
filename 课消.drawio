@@ -102,11 +102,11 @@
         <mxCell id="nJXdHBnAXh9dm8N67HSL-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.9;entryY=0.042;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="nJXdHBnAXh9dm8N67HSL-11" target="nJXdHBnAXh9dm8N67HSL-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nJXdHBnAXh9dm8N67HSL-48" value="0.1 mq有&lt;div&gt;幂等判断&lt;br&gt;（mq事件间隔较长）&lt;/div&gt;&lt;div&gt;0.2 如果有堆积，扩pod&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="215" y="310" width="155" height="70" as="geometry" />
+        <mxCell id="nJXdHBnAXh9dm8N67HSL-48" value="注：mq有&lt;span style=&quot;background-color: initial;&quot;&gt;幂等判断&lt;/span&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;注：mq事件之间间隔较长，可不关注顺序&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;注：如果有堆积，扩pod&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="195" y="310" width="155" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="nJXdHBnAXh9dm8N67HSL-49" value="0.3 sql操&lt;div&gt;作都有事务。&lt;/div&gt;&lt;div&gt;（失败则不commit？有时间顺序问题）&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="237.5" y="596" width="112.5" height="62" as="geometry" />
+        <mxCell id="nJXdHBnAXh9dm8N67HSL-49" value="注：sql操&lt;span style=&quot;background-color: initial;&quot;&gt;作都有事务。&lt;/span&gt;&lt;div&gt;（失败则不commit？有时间顺序问题）&lt;/div&gt;&lt;div&gt;注：账户操作都有版本判断&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="180" y="596" width="170" height="62" as="geometry" />
         </mxCell>
         <mxCell id="nJXdHBnAXh9dm8N67HSL-50" value="&lt;div&gt;5.1统计&lt;/div&gt;sql sum" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1060" y="573" width="60" height="30" as="geometry" />
