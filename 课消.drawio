@@ -102,8 +102,8 @@
         <mxCell id="nJXdHBnAXh9dm8N67HSL-49" value="0.2 sql操&lt;div&gt;作都有事务&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="210" y="565" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="nJXdHBnAXh9dm8N67HSL-50" value="sql sum" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1050" y="530" width="60" height="30" as="geometry" />
+        <mxCell id="nJXdHBnAXh9dm8N67HSL-50" value="&lt;div&gt;统计&lt;/div&gt;sql sum" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1060" y="540" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nJXdHBnAXh9dm8N67HSL-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.309;entryY=-0.037;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="nJXdHBnAXh9dm8N67HSL-13" target="nJXdHBnAXh9dm8N67HSL-17">
           <mxGeometry relative="1" as="geometry" />
