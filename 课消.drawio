@@ -159,8 +159,11 @@
         <mxCell id="nJXdHBnAXh9dm8N67HSL-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.648;entryY=-0.037;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="nJXdHBnAXh9dm8N67HSL-14" target="nJXdHBnAXh9dm8N67HSL-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nJXdHBnAXh9dm8N67HSL-92" value="&lt;div&gt;疑问：系统有哪些模块？哪些流程？数据是如何存储的，如何使用的？数据之间有什么关系？有哪些重点难点？&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;整体大流程：&lt;div&gt;1. 市场下单，落账户表&lt;/div&gt;&lt;div&gt;2. 学生上课，课消结算，更新账户表中数据、余额，落流水表&lt;/div&gt;&lt;div&gt;3. xxjob定时统计日、周、月数据&lt;/div&gt;&lt;div&gt;4.财务后台查看报表&amp;nbsp; 、 退费系统退费调接口&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="nJXdHBnAXh9dm8N67HSL-92" value="&lt;div&gt;疑问：系统有哪些模块？哪些流程？数据是如何存储的，如何使用的？数据之间有什么关系？有哪些重点难点？&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;注： 整体大流程：&lt;div&gt;1. 市场下单，落账户表&lt;/div&gt;&lt;div&gt;2. 学生上课，课消结算，更新账户表中数据、余额，落流水表&lt;/div&gt;&lt;div&gt;3. xxjob定时统计日、周、月数据&lt;/div&gt;&lt;div&gt;4.财务后台查看报表&amp;nbsp; 、 退费系统退费调接口&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="307.5" y="790" width="670" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="nJXdHBnAXh9dm8N67HSL-95" value="&lt;div&gt;注：xxjob调度一个pod，不用分布式锁&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;注：sql sum有索引的数据，比较快，试一下" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1290" y="583" width="170" height="62" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
