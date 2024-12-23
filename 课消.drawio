@@ -150,6 +150,9 @@
         <mxCell id="nJXdHBnAXh9dm8N67HSL-73" value="查询维度" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="900" y="620" width="110" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="nJXdHBnAXh9dm8N67HSL-75" value="依赖&lt;div&gt;班级系统&lt;/div&gt;&lt;div&gt;订单系统&lt;/div&gt;&lt;div&gt;课程系统&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1390" y="360" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
