@@ -25,7 +25,7 @@
         <mxCell id="nJXdHBnAXh9dm8N67HSL-12" value="用户 - 课消账户表&lt;div&gt;（订单、课时数、余额）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="550" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="nJXdHBnAXh9dm8N67HSL-13" value="用户 - 课消流水表&lt;div&gt;（订单、班级、课程id）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="nJXdHBnAXh9dm8N67HSL-13" value="用户 - 课消课程流水表&lt;div&gt;（订单、班级、课程id）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="570" y="550" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="nJXdHBnAXh9dm8N67HSL-14" value="用户 - 课消结算流水表&lt;div&gt;（订单、消耗课时、&lt;/div&gt;&lt;div&gt;前后余额、消耗金额）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -34,11 +34,17 @@
         <mxCell id="nJXdHBnAXh9dm8N67HSL-15" value="用户 - 课消变更来源&lt;div&gt;（订单、变更事件、&lt;/div&gt;&lt;div&gt;变更金额、结算id）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="760" y="550" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="nJXdHBnAXh9dm8N67HSL-16" value="日、周、月统计&lt;div&gt;静态数据表&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="nJXdHBnAXh9dm8N67HSL-16" value="日、周、月 统计&lt;div&gt;（日期起始、课消金额总&lt;/div&gt;&lt;div&gt;课消订单总、课时总）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1125" y="550" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="nJXdHBnAXh9dm8N67HSL-17" value="配置 - 课程维度表（学科、使用方向、培养方向等）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="nJXdHBnAXh9dm8N67HSL-17" value="配置 - 课程维度表&lt;div&gt;（学科、使用方向、培养方向等）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="640" width="890" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nJXdHBnAXh9dm8N67HSL-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.062;entryY=0.05;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="nJXdHBnAXh9dm8N67HSL-1" target="nJXdHBnAXh9dm8N67HSL-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nJXdHBnAXh9dm8N67HSL-21" value="1.下单、转单、返现、退费、结单" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="365" y="320" width="105" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
