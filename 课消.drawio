@@ -165,6 +165,9 @@
         <mxCell id="nJXdHBnAXh9dm8N67HSL-95" value="&lt;div&gt;注：xxjob调度一个pod，不用分布式锁&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;注：sql sum有索引的数据，比较快，试一下" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1290" y="583" width="170" height="62" as="geometry" />
         </mxCell>
+        <mxCell id="nJXdHBnAXh9dm8N67HSL-96" value="&lt;div&gt;注：调用失败，事务回滚&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1240" y="350" width="170" height="62" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
