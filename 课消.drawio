@@ -103,10 +103,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nJXdHBnAXh9dm8N67HSL-48" value="0.1 mq都有&lt;div&gt;幂等判断&lt;br&gt;（mq事件间隔较长）&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="190" y="310" width="125" height="60" as="geometry" />
+          <mxGeometry x="215" y="310" width="125" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nJXdHBnAXh9dm8N67HSL-49" value="0.2 sql操&lt;div&gt;作都有事务&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="230" y="598" width="60" height="30" as="geometry" />
+          <mxGeometry x="247.5" y="598" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nJXdHBnAXh9dm8N67HSL-50" value="&lt;div&gt;5.1统计&lt;/div&gt;sql sum" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1060" y="573" width="60" height="30" as="geometry" />
@@ -135,7 +135,7 @@
         <mxCell id="nJXdHBnAXh9dm8N67HSL-70" value="2.3" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="620" y="543" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="nJXdHBnAXh9dm8N67HSL-71" value="2.3" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="nJXdHBnAXh9dm8N67HSL-71" value="&lt;div&gt;1.2&lt;/div&gt;2.3" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="760" y="548" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nJXdHBnAXh9dm8N67HSL-72" value="2.3" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -158,6 +158,9 @@
         </mxCell>
         <mxCell id="nJXdHBnAXh9dm8N67HSL-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.648;entryY=-0.037;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="nJXdHBnAXh9dm8N67HSL-14" target="nJXdHBnAXh9dm8N67HSL-17">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nJXdHBnAXh9dm8N67HSL-92" value="&lt;div&gt;疑问：系统有哪些模块？哪些流程？数据是如何存储的，如何使用的？数据之间有什么关系？有哪些重点难点？&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;整体流程：&lt;div&gt;1. 市场下单，落表&lt;/div&gt;&lt;div&gt;2. 学生上课&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="307.5" y="790" width="670" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
