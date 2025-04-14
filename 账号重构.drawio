@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Q-jY20Gd-_YvdmPxHIIb-2" value="user-center" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-230" y="161" width="120" height="60" as="geometry" />
+          <mxGeometry x="-240" y="170" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Q-jY20Gd-_YvdmPxHIIb-4" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -46,7 +46,7 @@
         <mxCell id="eTkSVa2EqAl9yL7f8jPD-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="Q-jY20Gd-_YvdmPxHIIb-8" target="eTkSVa2EqAl9yL7f8jPD-73">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="eTkSVa2EqAl9yL7f8jPD-90" value="b. 用户&lt;div&gt;登录/注册/绑定/换绑/注销&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="eTkSVa2EqAl9yL7f8jPD-89">
+        <mxCell id="eTkSVa2EqAl9yL7f8jPD-90" value="b. 用户&lt;div&gt;登录/注册/注销&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="eTkSVa2EqAl9yL7f8jPD-89">
           <mxGeometry x="-0.1258" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -57,7 +57,7 @@
         <mxCell id="eTkSVa2EqAl9yL7f8jPD-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="eTkSVa2EqAl9yL7f8jPD-18" target="Q-jY20Gd-_YvdmPxHIIb-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="eTkSVa2EqAl9yL7f8jPD-69" value="5. userId和accountId&lt;br&gt;改为accountId" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="eTkSVa2EqAl9yL7f8jPD-68">
+        <mxCell id="eTkSVa2EqAl9yL7f8jPD-69" value="5.&amp;nbsp;&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; background-color: rgb(236, 236, 236);&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; text-align: center; text-wrap-mode: wrap;&quot;&gt;加accountId列&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; text-align: center; text-wrap-mode: wrap; background-color: light-dark(rgb(236, 236, 236), rgb(34, 34, 34));&quot;&gt;userId=accountId&lt;/span&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%E6%B7%BB%E5%8A%A0accountId%E5%88%97%26lt%3Bdiv%26gt%3BuserId%3DaccountId%26lt%3B%2Fdiv%26gt%3B%22%20style%3D%22text%3Bhtml%3D1%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3BwhiteSpace%3Dwrap%3Brounded%3D0%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22-30%22%20y%3D%22520%22%20width%3D%22110%22%20height%3D%2230%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;&amp;nbsp;&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; background-color: rgb(236, 236, 236);&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%E6%B7%BB%E5%8A%A0accountId%E5%88%97%26lt%3Bdiv%26gt%3BuserId%3DaccountId%26lt%3B%2Fdiv%26gt%3B%22%20style%3D%22text%3Bhtml%3D1%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3BwhiteSpace%3Dwrap%3Brounded%3D0%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22-30%22%20y%3D%22520%22%20width%3D%22110%22%20height%3D%2230%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="eTkSVa2EqAl9yL7f8jPD-68">
           <mxGeometry x="0.0659" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -71,7 +71,7 @@
         <mxCell id="eTkSVa2EqAl9yL7f8jPD-19" value="account-service" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="336.5" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="eTkSVa2EqAl9yL7f8jPD-32" value="db封装" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="eTkSVa2EqAl9yL7f8jPD-32" value="数据同步" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="150" y="336.5" width="120" height="67" as="geometry" />
         </mxCell>
         <mxCell id="eTkSVa2EqAl9yL7f8jPD-37" value="4. 增 同步数据，返回accountId" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;exitX=0.996;exitY=0.666;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
@@ -88,7 +88,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="eTkSVa2EqAl9yL7f8jPD-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.345;entryY=0.028;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="eTkSVa2EqAl9yL7f8jPD-32">
+        <mxCell id="eTkSVa2EqAl9yL7f8jPD-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Q-jY20Gd-_YvdmPxHIIb-6" target="eTkSVa2EqAl9yL7f8jPD-32">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="191" y="220" as="sourcePoint" />
           </mxGeometry>
@@ -144,6 +144,9 @@
           <mxGeometry x="0.1113" y="3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="eTkSVa2EqAl9yL7f8jPD-91" value="添加accountId列&lt;div&gt;userId=accountId&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-30" y="520" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
