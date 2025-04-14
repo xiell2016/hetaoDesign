@@ -51,7 +51,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="eTkSVa2EqAl9yL7f8jPD-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Q-jY20Gd-_YvdmPxHIIb-8" target="eTkSVa2EqAl9yL7f8jPD-81">
+        <mxCell id="eTkSVa2EqAl9yL7f8jPD-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;strokeColor=#006600;" edge="1" parent="1" source="Q-jY20Gd-_YvdmPxHIIb-8" target="eTkSVa2EqAl9yL7f8jPD-81">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eTkSVa2EqAl9yL7f8jPD-93" value="aa. token检查" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="eTkSVa2EqAl9yL7f8jPD-92">
@@ -82,10 +82,10 @@
         <mxCell id="eTkSVa2EqAl9yL7f8jPD-32" value="数据同步" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF2CC;" vertex="1" parent="1">
           <mxGeometry x="150" y="336.5" width="120" height="67" as="geometry" />
         </mxCell>
-        <mxCell id="eTkSVa2EqAl9yL7f8jPD-37" value="4. 增 同步数据，返回accountId" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;exitX=0.996;exitY=0.666;exitDx=0;exitDy=0;exitPerimeter=0;fillColor=#FF0000;strokeColor=#FF0000;" edge="1" parent="1">
+        <mxCell id="eTkSVa2EqAl9yL7f8jPD-37" value="4. 增、改 同步数据，返回accountId" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;exitX=0.996;exitY=0.666;exitDx=0;exitDy=0;exitPerimeter=0;fillColor=#FF0000;strokeColor=#FF0000;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="269.52" y="350.0019999999999" as="sourcePoint" />
-            <mxPoint x="560" y="350.38000000000005" as="targetPoint" />
+            <mxPoint x="268" y="355.0019999999999" as="sourcePoint" />
+            <mxPoint x="558.48" y="355.38000000000005" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="eTkSVa2EqAl9yL7f8jPD-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.186;exitY=1.05;exitDx=0;exitDy=0;entryX=0.569;entryY=-0.055;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;fillColor=#FF0000;strokeColor=#FF0000;" edge="1" parent="1" source="eTkSVa2EqAl9yL7f8jPD-18" target="Q-jY20Gd-_YvdmPxHIIb-6">
@@ -138,12 +138,6 @@
         </mxCell>
         <mxCell id="eTkSVa2EqAl9yL7f8jPD-81" value="auth-service" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF2CC;" vertex="1" parent="1">
           <mxGeometry x="810" y="336.5" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="eTkSVa2EqAl9yL7f8jPD-86" value="4. 改 同步数据，返回accountId" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;exitX=0.996;exitY=0.666;exitDx=0;exitDy=0;exitPerimeter=0;fillColor=#FF0000;strokeColor=#FF0000;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="270" y="366.04199999999986" as="sourcePoint" />
-            <mxPoint x="560.48" y="366.42" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="eTkSVa2EqAl9yL7f8jPD-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1.005;entryY=0.656;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#0000CC;" edge="1" parent="1" source="eTkSVa2EqAl9yL7f8jPD-19" target="eTkSVa2EqAl9yL7f8jPD-32">
           <mxGeometry relative="1" as="geometry" />
