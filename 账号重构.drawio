@@ -126,7 +126,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="eTkSVa2EqAl9yL7f8jPD-81" value="auth-service" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="730" y="336.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="810" y="336.5" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
