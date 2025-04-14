@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Q-jY20Gd-_YvdmPxHIIb-2" value="user-center" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-200" y="161" width="120" height="60" as="geometry" />
+          <mxGeometry x="-230" y="161" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Q-jY20Gd-_YvdmPxHIIb-4" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -33,13 +33,21 @@
         <mxCell id="Q-jY20Gd-_YvdmPxHIIb-7" value="db" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="560" y="450" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="eTkSVa2EqAl9yL7f8jPD-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Q-jY20Gd-_YvdmPxHIIb-8">
+        <mxCell id="eTkSVa2EqAl9yL7f8jPD-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Q-jY20Gd-_YvdmPxHIIb-8" target="eTkSVa2EqAl9yL7f8jPD-19">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="620" y="170" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="eTkSVa2EqAl9yL7f8jPD-72" value="a. 登录/注册/绑定/换绑/注销" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="eTkSVa2EqAl9yL7f8jPD-70">
+        <mxCell id="eTkSVa2EqAl9yL7f8jPD-72" value="a. 账号&lt;div&gt;登录/注册/绑定/换绑/注销&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="eTkSVa2EqAl9yL7f8jPD-70">
           <mxGeometry x="-0.0919" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eTkSVa2EqAl9yL7f8jPD-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="Q-jY20Gd-_YvdmPxHIIb-8" target="eTkSVa2EqAl9yL7f8jPD-73">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eTkSVa2EqAl9yL7f8jPD-90" value="b. 用户&lt;div&gt;登录/注册/绑定/换绑/注销&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="eTkSVa2EqAl9yL7f8jPD-89">
+          <mxGeometry x="-0.1258" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
@@ -49,7 +57,7 @@
         <mxCell id="eTkSVa2EqAl9yL7f8jPD-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="eTkSVa2EqAl9yL7f8jPD-18" target="Q-jY20Gd-_YvdmPxHIIb-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="eTkSVa2EqAl9yL7f8jPD-69" value="5. 生成userId&lt;br&gt;改为accountId" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="eTkSVa2EqAl9yL7f8jPD-68">
+        <mxCell id="eTkSVa2EqAl9yL7f8jPD-69" value="5. userId和accountId&lt;br&gt;改为accountId" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="eTkSVa2EqAl9yL7f8jPD-68">
           <mxGeometry x="0.0659" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -66,9 +74,10 @@
         <mxCell id="eTkSVa2EqAl9yL7f8jPD-32" value="db封装" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="150" y="336.5" width="120" height="67" as="geometry" />
         </mxCell>
-        <mxCell id="eTkSVa2EqAl9yL7f8jPD-37" value="4. 增/改/删 同步数据，返回accountId" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;exitX=0.996;exitY=0.666;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="eTkSVa2EqAl9yL7f8jPD-32" target="eTkSVa2EqAl9yL7f8jPD-19">
+        <mxCell id="eTkSVa2EqAl9yL7f8jPD-37" value="4. 增 同步数据，返回accountId" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;exitX=0.996;exitY=0.666;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="272" y="310" as="sourcePoint" />
+            <mxPoint x="269.52" y="350.0019999999999" as="sourcePoint" />
+            <mxPoint x="560" y="350.38000000000005" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="eTkSVa2EqAl9yL7f8jPD-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.186;exitY=1.05;exitDx=0;exitDy=0;entryX=0.569;entryY=-0.055;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;" edge="1" parent="1" source="eTkSVa2EqAl9yL7f8jPD-18" target="Q-jY20Gd-_YvdmPxHIIb-6">
@@ -89,24 +98,18 @@
             <mxPoint x="-1" y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="eTkSVa2EqAl9yL7f8jPD-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="eTkSVa2EqAl9yL7f8jPD-73" target="eTkSVa2EqAl9yL7f8jPD-19">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="eTkSVa2EqAl9yL7f8jPD-83" value="b. 账号认证注册" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="eTkSVa2EqAl9yL7f8jPD-74">
-          <mxGeometry x="-0.0327" relative="1" as="geometry">
-            <mxPoint as="offset" />
+        <mxCell id="eTkSVa2EqAl9yL7f8jPD-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="eTkSVa2EqAl9yL7f8jPD-73" target="eTkSVa2EqAl9yL7f8jPD-81">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="920" y="220" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="eTkSVa2EqAl9yL7f8jPD-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;curved=1;" edge="1" parent="1" source="Q-jY20Gd-_YvdmPxHIIb-8" target="eTkSVa2EqAl9yL7f8jPD-81">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="eTkSVa2EqAl9yL7f8jPD-85" value="aa. token认证" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="eTkSVa2EqAl9yL7f8jPD-84">
+        <mxCell id="eTkSVa2EqAl9yL7f8jPD-85" value="aa. token解析account" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="eTkSVa2EqAl9yL7f8jPD-84">
           <mxGeometry x="-0.0107" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="eTkSVa2EqAl9yL7f8jPD-73" value="繁星login" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="180" width="120" height="55" as="geometry" />
+        <mxCell id="eTkSVa2EqAl9yL7f8jPD-73" value="繁星login-service" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="210" width="120" height="55" as="geometry" />
         </mxCell>
         <mxCell id="eTkSVa2EqAl9yL7f8jPD-75" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="-540" width="120" height="60" as="geometry" />
@@ -127,6 +130,20 @@
         </mxCell>
         <mxCell id="eTkSVa2EqAl9yL7f8jPD-81" value="auth-service" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="810" y="336.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eTkSVa2EqAl9yL7f8jPD-86" value="4. 改 同步数据，返回accountId" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;exitX=0.996;exitY=0.666;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="270" y="366.04199999999986" as="sourcePoint" />
+            <mxPoint x="560.48" y="366.42" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eTkSVa2EqAl9yL7f8jPD-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1.005;entryY=0.656;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="eTkSVa2EqAl9yL7f8jPD-19" target="eTkSVa2EqAl9yL7f8jPD-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eTkSVa2EqAl9yL7f8jPD-88" value="c. 改 同步数据，返回accountId" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="eTkSVa2EqAl9yL7f8jPD-87">
+          <mxGeometry x="0.1113" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
