@@ -49,7 +49,7 @@
         <mxCell id="eTkSVa2EqAl9yL7f8jPD-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="eTkSVa2EqAl9yL7f8jPD-18" target="Q-jY20Gd-_YvdmPxHIIb-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="eTkSVa2EqAl9yL7f8jPD-69" value="生成userId&lt;br&gt;改为accountId" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="eTkSVa2EqAl9yL7f8jPD-68">
+        <mxCell id="eTkSVa2EqAl9yL7f8jPD-69" value="5. 生成userId&lt;br&gt;改为accountId" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="eTkSVa2EqAl9yL7f8jPD-68">
           <mxGeometry x="0.0659" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -66,7 +66,7 @@
         <mxCell id="eTkSVa2EqAl9yL7f8jPD-32" value="db封装" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="150" y="336.5" width="120" height="67" as="geometry" />
         </mxCell>
-        <mxCell id="eTkSVa2EqAl9yL7f8jPD-37" value="4. 增/改同步数据，返回accountId" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;exitX=0.996;exitY=0.666;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="eTkSVa2EqAl9yL7f8jPD-32" target="eTkSVa2EqAl9yL7f8jPD-19">
+        <mxCell id="eTkSVa2EqAl9yL7f8jPD-37" value="4. 增/改/删 同步数据，返回accountId" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;exitX=0.996;exitY=0.666;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="eTkSVa2EqAl9yL7f8jPD-32" target="eTkSVa2EqAl9yL7f8jPD-19">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="272" y="310" as="sourcePoint" />
           </mxGeometry>
@@ -84,7 +84,7 @@
             <mxPoint x="191" y="220" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="eTkSVa2EqAl9yL7f8jPD-67" value="3. 检测db 增/改" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="eTkSVa2EqAl9yL7f8jPD-66">
+        <mxCell id="eTkSVa2EqAl9yL7f8jPD-67" value="3. 检测db 增/改/删" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="eTkSVa2EqAl9yL7f8jPD-66">
           <mxGeometry x="-0.0321" y="-1" relative="1" as="geometry">
             <mxPoint x="-1" y="-1" as="offset" />
           </mxGeometry>
