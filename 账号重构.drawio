@@ -44,9 +44,10 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="eTkSVa2EqAl9yL7f8jPD-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;strokeColor=#0000CC;exitX=0.883;exitY=1.05;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="P9s-sHpTL7zU8jULXRAA-2" target="eTkSVa2EqAl9yL7f8jPD-73" edge="1">
+        <mxCell id="eTkSVa2EqAl9yL7f8jPD-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;strokeColor=#0000CC;exitX=0.883;exitY=1.05;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="P9s-sHpTL7zU8jULXRAA-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="670" y="-10" as="sourcePoint" />
+            <mxPoint x="830" y="160" as="targetPoint" />
             <Array as="points">
               <mxPoint x="656" y="10" />
               <mxPoint x="680" y="10" />
@@ -157,7 +158,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="eTkSVa2EqAl9yL7f8jPD-73" value="繁星login-service" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCFF99;" parent="1" vertex="1">
-          <mxGeometry x="720" y="170" width="120" height="55" as="geometry" />
+          <mxGeometry x="770" y="170" width="120" height="55" as="geometry" />
         </mxCell>
         <mxCell id="eTkSVa2EqAl9yL7f8jPD-75" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="240" y="-540" width="120" height="60" as="geometry" />
@@ -176,8 +177,8 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="eTkSVa2EqAl9yL7f8jPD-81" value="auth-service" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF2CC;" parent="1" vertex="1">
-          <mxGeometry x="810" y="336.5" width="120" height="60" as="geometry" />
+        <mxCell id="eTkSVa2EqAl9yL7f8jPD-81" value="token-service" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF2CC;" parent="1" vertex="1">
+          <mxGeometry x="900" y="336.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eTkSVa2EqAl9yL7f8jPD-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1.005;entryY=0.656;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#0000CC;" parent="1" source="eTkSVa2EqAl9yL7f8jPD-19" target="eTkSVa2EqAl9yL7f8jPD-32" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -216,13 +217,14 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="P9s-sHpTL7zU8jULXRAA-15" value="微信服务端" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCFF99;" vertex="1" parent="1">
-          <mxGeometry x="700" y="485" width="120" height="55" as="geometry" />
+          <mxGeometry x="700" y="497.5" width="120" height="55" as="geometry" />
         </mxCell>
         <mxCell id="P9s-sHpTL7zU8jULXRAA-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.65;entryY=0.018;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#0000CC;" edge="1" parent="1" source="eTkSVa2EqAl9yL7f8jPD-19" target="P9s-sHpTL7zU8jULXRAA-15">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="650" y="420" />
               <mxPoint x="778" y="420" />
+              <mxPoint x="778" y="499" />
             </Array>
           </mxGeometry>
         </mxCell>
