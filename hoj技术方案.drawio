@@ -208,7 +208,7 @@
         <mxCell id="_0bZGA4F4RhLJNv9DCTe-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;curved=1;" parent="1" source="_0bZGA4F4RhLJNv9DCTe-6" target="_0bZGA4F4RhLJNv9DCTe-42" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_0bZGA4F4RhLJNv9DCTe-45" value="异步判题&lt;div&gt;灰度2&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="_0bZGA4F4RhLJNv9DCTe-44" vertex="1" connectable="0">
+        <mxCell id="_0bZGA4F4RhLJNv9DCTe-45" value="1.1&lt;div&gt;异步判题&lt;div&gt;灰度2&lt;/div&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="_0bZGA4F4RhLJNv9DCTe-44" vertex="1" connectable="0">
           <mxGeometry x="0.0176" y="4" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -336,6 +336,40 @@
         <mxCell id="rjKXNMB30DjtsITm2oIO-20" value="1.4. 编译完&lt;div&gt;推送运行&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="rjKXNMB30DjtsITm2oIO-19">
           <mxGeometry x="-0.0122" y="1" relative="1" as="geometry">
             <mxPoint y="-43" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rjKXNMB30DjtsITm2oIO-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.203;exitY=1.06;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" source="_0bZGA4F4RhLJNv9DCTe-6" target="_0bZGA4F4RhLJNv9DCTe-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rjKXNMB30DjtsITm2oIO-22" value="2.1同步判题" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="rjKXNMB30DjtsITm2oIO-21">
+          <mxGeometry x="-0.0975" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rjKXNMB30DjtsITm2oIO-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.116;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="_0bZGA4F4RhLJNv9DCTe-7" target="_0bZGA4F4RhLJNv9DCTe-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rjKXNMB30DjtsITm2oIO-24" value="1.6&lt;div&gt;判题结果&lt;/div&gt;&lt;div&gt;callback&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="rjKXNMB30DjtsITm2oIO-23">
+          <mxGeometry y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rjKXNMB30DjtsITm2oIO-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;exitX=0.908;exitY=-0.05;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="_0bZGA4F4RhLJNv9DCTe-8" target="_0bZGA4F4RhLJNv9DCTe-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1469" y="190" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rjKXNMB30DjtsITm2oIO-26" value="2.2&lt;div&gt;callback&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="rjKXNMB30DjtsITm2oIO-25">
+          <mxGeometry x="-0.2208" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rjKXNMB30DjtsITm2oIO-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.345;exitY=1.02;exitDx=0;exitDy=0;entryX=0.28;entryY=1.02;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;" edge="1" parent="1" source="_0bZGA4F4RhLJNv9DCTe-6" target="_0bZGA4F4RhLJNv9DCTe-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rjKXNMB30DjtsITm2oIO-28" value="2.3&lt;div&gt;自旋判题结果&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="rjKXNMB30DjtsITm2oIO-27">
+          <mxGeometry x="0.0057" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
