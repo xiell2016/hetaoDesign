@@ -333,7 +333,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="rjKXNMB30DjtsITm2oIO-20" value="1.4. 编译完&lt;div&gt;推送运行&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="rjKXNMB30DjtsITm2oIO-19">
+        <mxCell id="rjKXNMB30DjtsITm2oIO-20" value="1.4. 编译完&lt;div&gt;按case推送运行&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="rjKXNMB30DjtsITm2oIO-19">
           <mxGeometry x="-0.0122" y="1" relative="1" as="geometry">
             <mxPoint y="-43" as="offset" />
           </mxGeometry>
