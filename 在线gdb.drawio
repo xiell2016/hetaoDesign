@@ -5,22 +5,22 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="771hrbWbmX-X6glopqRO-1" value="client1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="110" y="200" width="120" height="60" as="geometry" />
+          <mxGeometry x="100" y="150" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="771hrbWbmX-X6glopqRO-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="50" y="370" width="240" height="60" as="geometry" />
+          <mxGeometry x="50" y="320" width="240" height="110" as="geometry" />
         </mxCell>
         <mxCell id="771hrbWbmX-X6glopqRO-9" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-340" y="390" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="771hrbWbmX-X6glopqRO-10" value="client2" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="200" width="120" height="60" as="geometry" />
+          <mxGeometry x="360" y="140" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="771hrbWbmX-X6glopqRO-11" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="370" width="240" height="60" as="geometry" />
+          <mxGeometry x="330" y="320" width="240" height="110" as="geometry" />
         </mxCell>
         <mxCell id="771hrbWbmX-X6glopqRO-12" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="550" width="240" height="60" as="geometry" />
+          <mxGeometry x="330" y="560" width="240" height="60" as="geometry" />
         </mxCell>
         <mxCell id="771hrbWbmX-X6glopqRO-13" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="560" width="240" height="60" as="geometry" />
