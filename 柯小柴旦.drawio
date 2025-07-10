@@ -22,9 +22,6 @@
         <mxCell id="CqVQ2QBw8-uy_fnD-2De-7" value="自动配置" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="970" y="160" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="32OFIXr2xXjv62Yoc7Jj-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CqVQ2QBw8-uy_fnD-2De-8" target="CqVQ2QBw8-uy_fnD-2De-2">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="CqVQ2QBw8-uy_fnD-2De-8" value="&lt;div style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;&lt;pre style=&quot;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9.8pt;&quot;&gt;1. user_course_hour_detail，order_number&lt;br&gt;&lt;/pre&gt;&lt;pre style=&quot;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9.8pt;&quot;&gt;2. user_course_hour_consume_record&lt;br&gt;&lt;/pre&gt;&lt;pre style=&quot;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9.8pt;&quot;&gt;3. user_course_hour_transaction&lt;/pre&gt;&lt;pre style=&quot;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9.8pt;&quot;&gt;4. user_course_hour_error_record&lt;/pre&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="440" y="260" width="480" height="140" as="geometry" />
         </mxCell>
@@ -41,7 +38,7 @@
           <mxGeometry x="440" y="584.5" width="480" height="140" as="geometry" />
         </mxCell>
         <mxCell id="32OFIXr2xXjv62Yoc7Jj-5" value="刷数据/数据修复" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1010" y="410" width="120" height="60" as="geometry" />
+          <mxGeometry x="990" y="430" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="32OFIXr2xXjv62Yoc7Jj-6" value="&lt;div style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;&lt;pre style=&quot;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9.8pt;&quot;&gt;1.t_user_course_hour_transaction &lt;/pre&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="930" y="230" width="480" height="40" as="geometry" />
