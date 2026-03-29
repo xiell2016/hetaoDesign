@@ -475,14 +475,41 @@
         <mxCell id="Lw9bcUFDrmlf80A4pLiG-131" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="pod" vertex="1">
           <mxGeometry height="25" width="40" x="1670" y="2980" as="geometry" />
         </mxCell>
-        <mxCell id="Lw9bcUFDrmlf80A4pLiG-132" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="60" width="120" x="3010" y="370" as="geometry" />
+        <mxCell id="Lw9bcUFDrmlf80A4pLiG-132" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="oj平台" vertex="1">
+          <mxGeometry height="60" width="120" x="3520" y="340" as="geometry" />
         </mxCell>
-        <mxCell id="Lw9bcUFDrmlf80A4pLiG-133" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="60" width="120" x="3220" y="490" as="geometry" />
+        <mxCell id="Lw9bcUFDrmlf80A4pLiG-133" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="赛事" vertex="1">
+          <mxGeometry height="60" width="120" x="3300" y="340" as="geometry" />
         </mxCell>
-        <mxCell id="Lw9bcUFDrmlf80A4pLiG-135" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="60" width="120" x="3080" y="630" as="geometry" />
+        <mxCell id="Lw9bcUFDrmlf80A4pLiG-135" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="学生端" vertex="1">
+          <mxGeometry height="60" width="120" x="3050" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="Lw9bcUFDrmlf80A4pLiG-137" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="老师作业批改" vertex="1">
+          <mxGeometry height="60" width="120" x="3740" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="Lw9bcUFDrmlf80A4pLiG-138" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="后台估分" vertex="1">
+          <mxGeometry height="60" width="120" x="3980" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="Lw9bcUFDrmlf80A4pLiG-139" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="题库业务" vertex="1">
+          <mxGeometry height="60" width="1260" x="2990" y="500" as="geometry" />
+        </mxCell>
+        <mxCell id="Lw9bcUFDrmlf80A4pLiG-140" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="mysql" vertex="1">
+          <mxGeometry height="60" width="120" x="2690" y="500" as="geometry" />
+        </mxCell>
+        <mxCell id="Lw9bcUFDrmlf80A4pLiG-141" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="judge-center-group-1" vertex="1">
+          <mxGeometry height="60" width="120" x="3070" y="750" as="geometry" />
+        </mxCell>
+        <mxCell id="Lw9bcUFDrmlf80A4pLiG-142" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="judge-center-group-2" vertex="1">
+          <mxGeometry height="60" width="120" x="3340" y="750" as="geometry" />
+        </mxCell>
+        <mxCell id="Lw9bcUFDrmlf80A4pLiG-143" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="judge-center-group-3" vertex="1">
+          <mxGeometry height="60" width="120" x="3560" y="750" as="geometry" />
+        </mxCell>
+        <mxCell id="Lw9bcUFDrmlf80A4pLiG-144" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="judge-center-group-4" vertex="1">
+          <mxGeometry height="60" width="120" x="3780" y="750" as="geometry" />
+        </mxCell>
+        <mxCell id="Lw9bcUFDrmlf80A4pLiG-145" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="judge-center-group-5" vertex="1">
+          <mxGeometry height="60" width="120" x="4015" y="750" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
