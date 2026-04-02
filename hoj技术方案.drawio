@@ -4123,15 +4123,17 @@
             <mxPoint y="-43" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ay_othNO3MQG3dkhB4ii-50" edge="1" parent="1" source="ay_othNO3MQG3dkhB4ii-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.107;exitY=0.99;exitDx=0;exitDy=0;entryX=0.185;entryY=0.93;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;" target="ay_othNO3MQG3dkhB4ii-11">
+        <mxCell id="ay_othNO3MQG3dkhB4ii-50" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.107;exitY=0.99;exitDx=0;exitDy=0;entryX=0.185;entryY=0.93;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="964" y="-1470" />
-              <mxPoint x="1044" y="-1470" />
+              <mxPoint x="1511.6" y="-1466.5" />
+              <mxPoint x="1591.6" y="-1466.5" />
             </Array>
+            <mxPoint x="1511.2914999999998" y="-1487" as="sourcePoint" />
+            <mxPoint x="1591.9825" y="-1490" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ay_othNO3MQG3dkhB4ii-51" connectable="0" parent="ay_othNO3MQG3dkhB4ii-50" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="1.7&lt;div&gt;转为student&lt;br&gt;callback&lt;/div&gt;&lt;div&gt;落redis&lt;/div&gt;" vertex="1">
+        <mxCell id="ay_othNO3MQG3dkhB4ii-51" connectable="0" parent="ay_othNO3MQG3dkhB4ii-50" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="1.7&lt;div&gt;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;落redis&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;等待轮询&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;或者回调给业务&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry relative="1" x="-0.1113" y="1" as="geometry">
             <mxPoint y="21" as="offset" />
           </mxGeometry>
