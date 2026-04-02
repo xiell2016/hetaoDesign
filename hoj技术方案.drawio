@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36">
   <diagram name="第 1 页" id="Zqn69nHAaQLIHZz4OZMA">
-    <mxGraphModel dx="2809" dy="3858" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1545" dy="3174" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4012,34 +4012,26 @@
         <mxCell id="ay_othNO3MQG3dkhB4ii-8" edge="1" parent="1" source="ay_othNO3MQG3dkhB4ii-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="ay_othNO3MQG3dkhB4ii-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ay_othNO3MQG3dkhB4ii-9" edge="1" parent="1" source="ay_othNO3MQG3dkhB4ii-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.902;exitY=1.09;exitDx=0;exitDy=0;curved=1;exitPerimeter=0;entryX=0.129;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="ay_othNO3MQG3dkhB4ii-24">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="ay_othNO3MQG3dkhB4ii-10" connectable="0" parent="ay_othNO3MQG3dkhB4ii-9" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="1.1&lt;div&gt;异步判题&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;submisionId&lt;/div&gt;&lt;div&gt;灰度&lt;/div&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry relative="1" x="0.0176" y="4" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="ay_othNO3MQG3dkhB4ii-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#D5E8D4,var(--ge-dark-color, #121212));" value="online-judge-service" vertex="1">
           <mxGeometry height="50" width="1034.5" x="853" y="-1540" as="geometry" />
         </mxCell>
-        <mxCell id="ay_othNO3MQG3dkhB4ii-12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFF2CC,var(--ge-dark-color, #121212));" value="judge-center-real-time" vertex="1">
+        <mxCell id="ay_othNO3MQG3dkhB4ii-12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFF2CC,var(--ge-dark-color, #121212));" value="judge-center-real-time&lt;br&gt;（oj平台）" vertex="1">
           <mxGeometry height="60" width="120" x="883" y="-1350" as="geometry" />
         </mxCell>
         <mxCell id="ay_othNO3MQG3dkhB4ii-13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFF2CC,var(--ge-dark-color, #121212));" value="judge-center-real-time" vertex="1">
           <mxGeometry height="60" width="120" x="1003" y="-1350" as="geometry" />
         </mxCell>
-        <mxCell id="ay_othNO3MQG3dkhB4ii-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#F8CECC,var(--ge-dark-color, #121212));" value="judge-center-delay" vertex="1">
+        <mxCell id="ay_othNO3MQG3dkhB4ii-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#F8CECC,var(--ge-dark-color, #121212));" value="judge-center-delay&lt;div&gt;(课中）&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="1263" y="-1350" as="geometry" />
         </mxCell>
-        <mxCell id="ay_othNO3MQG3dkhB4ii-15" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#F8CECC,var(--ge-dark-color, #121212));" value="judge-center-delay" vertex="1">
+        <mxCell id="ay_othNO3MQG3dkhB4ii-15" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#F8CECC,var(--ge-dark-color, #121212));" value="judge-center-delay&lt;div&gt;(课中）&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="1383" y="-1350" as="geometry" />
         </mxCell>
-        <mxCell id="ay_othNO3MQG3dkhB4ii-16" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFD966,var(--ge-dark-color, #121212));" value="judge-center-student" vertex="1">
-          <mxGeometry height="60" width="120" x="1603" y="-1350" as="geometry" />
+        <mxCell id="ay_othNO3MQG3dkhB4ii-16" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFD966,var(--ge-dark-color, #121212));" value="judge-center-xxx&lt;br&gt;（赛事）" vertex="1">
+          <mxGeometry height="60" width="120" x="1707.5" y="-1350" as="geometry" />
         </mxCell>
-        <mxCell id="ay_othNO3MQG3dkhB4ii-17" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFD966,var(--ge-dark-color, #121212));" value="judge-center-student" vertex="1">
-          <mxGeometry height="60" width="120" x="1723" y="-1350" as="geometry" />
+        <mxCell id="ay_othNO3MQG3dkhB4ii-17" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFD966,var(--ge-dark-color, #121212));" value="judge-center-xxx&lt;div&gt;(硬件课)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="1827.5" y="-1350" as="geometry" />
         </mxCell>
         <mxCell id="ay_othNO3MQG3dkhB4ii-18" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" value="题库&lt;div&gt;mysql&lt;/div&gt;" vertex="1">
           <mxGeometry height="80" width="60" x="1947.5" y="-1555" as="geometry" />
@@ -4059,16 +4051,13 @@
         <mxCell id="ay_othNO3MQG3dkhB4ii-23" edge="1" parent="1" source="ay_othNO3MQG3dkhB4ii-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.942;entryY=-0.02;entryDx=0;entryDy=0;entryPerimeter=0;" target="ay_othNO3MQG3dkhB4ii-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ay_othNO3MQG3dkhB4ii-24" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="judge-server" vertex="1">
-          <mxGeometry height="60" width="120" x="1887.5" y="-1350" as="geometry" />
-        </mxCell>
         <mxCell id="ay_othNO3MQG3dkhB4ii-25" parent="1" style="shape=tapeData;whiteSpace=wrap;html=1;perimeter=ellipsePerimeter;fillColor=light-dark(#99FFFF,var(--ge-dark-color, #121212));" value="编译mq&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 运行mq" vertex="1">
           <mxGeometry height="45" width="1090" x="898" y="-1035" as="geometry" />
         </mxCell>
         <mxCell id="ay_othNO3MQG3dkhB4ii-26" edge="1" parent="1" source="ay_othNO3MQG3dkhB4ii-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.045;entryY=0.333;entryDx=0;entryDy=0;entryPerimeter=0;" target="ay_othNO3MQG3dkhB4ii-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ay_othNO3MQG3dkhB4ii-27" connectable="0" parent="ay_othNO3MQG3dkhB4ii-26" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="1.2. 推送编译mq" vertex="1">
+        <mxCell id="ay_othNO3MQG3dkhB4ii-27" connectable="0" parent="ay_othNO3MQG3dkhB4ii-26" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="1.2. 推送编译mq&lt;br&gt;（每个集群有个tag）" vertex="1">
           <mxGeometry relative="1" x="-0.0698" y="-1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -4076,29 +4065,18 @@
         <mxCell id="ay_othNO3MQG3dkhB4ii-28" edge="1" parent="1" source="ay_othNO3MQG3dkhB4ii-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=0.383;entryY=0.983;entryDx=0;entryDy=0;entryPerimeter=0;" target="ay_othNO3MQG3dkhB4ii-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ay_othNO3MQG3dkhB4ii-29" connectable="0" parent="ay_othNO3MQG3dkhB4ii-28" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="1.3. 编译消息&lt;div&gt;&lt;br&gt;&lt;div&gt;非本集群&lt;/div&gt;&lt;/div&gt;&lt;div&gt;过滤&lt;/div&gt;" vertex="1">
+        <mxCell id="ay_othNO3MQG3dkhB4ii-29" connectable="0" parent="ay_othNO3MQG3dkhB4ii-28" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="非本集群tag不消费" vertex="1">
           <mxGeometry relative="1" x="0.0465" as="geometry">
             <mxPoint x="-1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ay_othNO3MQG3dkhB4ii-30" edge="1" parent="1" source="ay_othNO3MQG3dkhB4ii-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.812;exitY=0.056;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitPerimeter=0;" target="ay_othNO3MQG3dkhB4ii-17">
+        <mxCell id="ay_othNO3MQG3dkhB4ii-32" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.567;entryY=0.983;entryDx=0;entryDy=0;entryPerimeter=0;" target="ay_othNO3MQG3dkhB4ii-16">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1776.5" y="-1062" as="sourcePoint" />
-            <mxPoint x="1777.5" y="-1170" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ay_othNO3MQG3dkhB4ii-31" connectable="0" parent="ay_othNO3MQG3dkhB4ii-30" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="1.5. 运行消息&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;过滤集群&lt;/div&gt;" vertex="1">
-          <mxGeometry relative="1" x="0.0465" as="geometry">
-            <mxPoint x="-1" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ay_othNO3MQG3dkhB4ii-32" edge="1" parent="1" source="ay_othNO3MQG3dkhB4ii-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.71;exitY=0.011;exitDx=0;exitDy=0;entryX=0.567;entryY=0.983;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;" target="ay_othNO3MQG3dkhB4ii-16">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1672.25" y="-1062" as="sourcePoint" />
+            <mxPoint x="1776" y="-1040" as="sourcePoint" />
             <mxPoint x="1673.25" y="-1170" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ay_othNO3MQG3dkhB4ii-33" connectable="0" parent="ay_othNO3MQG3dkhB4ii-32" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="1.3. 编译消息&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;过滤集群&lt;/div&gt;" vertex="1">
+        <mxCell id="ay_othNO3MQG3dkhB4ii-33" connectable="0" parent="ay_othNO3MQG3dkhB4ii-32" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="非本集群过滤" vertex="1">
           <mxGeometry relative="1" x="0.0465" as="geometry">
             <mxPoint x="-1" as="offset" />
           </mxGeometry>
@@ -4109,7 +4087,7 @@
             <mxPoint x="1464" y="-1170" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ay_othNO3MQG3dkhB4ii-35" connectable="0" parent="ay_othNO3MQG3dkhB4ii-34" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="1.5. 运行消息&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;处理本集群&lt;/div&gt;" vertex="1">
+        <mxCell id="ay_othNO3MQG3dkhB4ii-35" connectable="0" parent="ay_othNO3MQG3dkhB4ii-34" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="1.5.&amp;nbsp;&lt;div&gt;并发消费case&lt;/div&gt;&lt;div&gt;运行消息&lt;/div&gt;" vertex="1">
           <mxGeometry relative="1" x="0.0465" as="geometry">
             <mxPoint x="-1" as="offset" />
           </mxGeometry>
@@ -4126,7 +4104,7 @@
             <mxPoint x="1298" y="-1170" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ay_othNO3MQG3dkhB4ii-37" connectable="0" parent="ay_othNO3MQG3dkhB4ii-36" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="1.3. 消费编译消息&lt;div&gt;&lt;br&gt;&lt;div&gt;本集群&lt;/div&gt;&lt;/div&gt;&lt;div&gt;处理&lt;/div&gt;" vertex="1">
+        <mxCell id="ay_othNO3MQG3dkhB4ii-37" connectable="0" parent="ay_othNO3MQG3dkhB4ii-36" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="1.3. 消费编译&lt;div&gt;&lt;div&gt;(本集群tag）&lt;/div&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry relative="1" x="-0.0459" y="2" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -4140,51 +4118,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ay_othNO3MQG3dkhB4ii-39" connectable="0" parent="ay_othNO3MQG3dkhB4ii-38" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="1.4. 编译完&lt;div&gt;按case推送运行&lt;/div&gt;" vertex="1">
+        <mxCell id="ay_othNO3MQG3dkhB4ii-39" connectable="0" parent="ay_othNO3MQG3dkhB4ii-38" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="1.4. 编译完&lt;div&gt;按case拆分&lt;/div&gt;&lt;div&gt;投mq&lt;/div&gt;" vertex="1">
           <mxGeometry relative="1" x="-0.0122" y="1" as="geometry">
             <mxPoint y="-43" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ay_othNO3MQG3dkhB4ii-40" edge="1" parent="1" source="ay_othNO3MQG3dkhB4ii-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.222;exitY=1.01;exitDx=0;exitDy=0;entryX=0.667;entryY=-0.008;entryDx=0;entryDy=0;exitPerimeter=0;entryPerimeter=0;" target="ay_othNO3MQG3dkhB4ii-13">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="ay_othNO3MQG3dkhB4ii-41" connectable="0" parent="ay_othNO3MQG3dkhB4ii-40" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="2.1同步判题" vertex="1">
-          <mxGeometry relative="1" x="-0.0975" y="-1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ay_othNO3MQG3dkhB4ii-42" edge="1" parent="1" source="ay_othNO3MQG3dkhB4ii-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.44;exitY=0;exitDx=0;exitDy=0;entryX=0.08;entryY=1.05;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;" target="ay_othNO3MQG3dkhB4ii-11">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="ay_othNO3MQG3dkhB4ii-43" connectable="0" parent="ay_othNO3MQG3dkhB4ii-42" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="1.6&lt;div&gt;判题结果&lt;/div&gt;&lt;div&gt;callback&lt;/div&gt;" vertex="1">
-          <mxGeometry relative="1" y="1" as="geometry">
-            <mxPoint y="29" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ay_othNO3MQG3dkhB4ii-44" edge="1" parent="1" source="ay_othNO3MQG3dkhB4ii-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;exitX=0.908;exitY=-0.05;exitDx=0;exitDy=0;exitPerimeter=0;" target="ay_othNO3MQG3dkhB4ii-11">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1112" y="-1360" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ay_othNO3MQG3dkhB4ii-45" connectable="0" parent="ay_othNO3MQG3dkhB4ii-44" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="2.2&lt;div&gt;callback&lt;/div&gt;" vertex="1">
-          <mxGeometry relative="1" x="-0.2208" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ay_othNO3MQG3dkhB4ii-46" edge="1" parent="1" source="ay_othNO3MQG3dkhB4ii-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.345;exitY=1.02;exitDx=0;exitDy=0;entryX=0.28;entryY=1.02;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;" target="ay_othNO3MQG3dkhB4ii-11">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="ay_othNO3MQG3dkhB4ii-47" connectable="0" parent="ay_othNO3MQG3dkhB4ii-46" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="2.3&lt;div&gt;自旋判题结果&lt;/div&gt;" vertex="1">
-          <mxGeometry relative="1" x="0.0057" y="2" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ay_othNO3MQG3dkhB4ii-48" edge="1" parent="1" source="ay_othNO3MQG3dkhB4ii-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.984;entryY=1.09;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;" target="ay_othNO3MQG3dkhB4ii-11">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="ay_othNO3MQG3dkhB4ii-49" connectable="0" parent="ay_othNO3MQG3dkhB4ii-48" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="1.2&lt;div&gt;callback结果&lt;/div&gt;" vertex="1">
-          <mxGeometry relative="1" x="-0.0458" y="1" as="geometry">
-            <mxPoint x="1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ay_othNO3MQG3dkhB4ii-50" edge="1" parent="1" source="ay_othNO3MQG3dkhB4ii-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.107;exitY=0.99;exitDx=0;exitDy=0;entryX=0.185;entryY=0.93;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;" target="ay_othNO3MQG3dkhB4ii-11">
@@ -4198,6 +4134,17 @@
         <mxCell id="ay_othNO3MQG3dkhB4ii-51" connectable="0" parent="ay_othNO3MQG3dkhB4ii-50" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="1.7&lt;div&gt;转为student&lt;br&gt;callback&lt;/div&gt;&lt;div&gt;落redis&lt;/div&gt;" vertex="1">
           <mxGeometry relative="1" x="-0.1113" y="1" as="geometry">
             <mxPoint y="21" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ay_othNO3MQG3dkhB4ii-52" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.44;exitY=0;exitDx=0;exitDy=0;entryX=0.08;entryY=1.05;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1344.5" y="-1353" as="sourcePoint" />
+            <mxPoint x="1344.5" y="-1490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ay_othNO3MQG3dkhB4ii-53" connectable="0" parent="ay_othNO3MQG3dkhB4ii-52" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="1.6&lt;div&gt;判题结果&lt;/div&gt;&lt;div&gt;callback&lt;/div&gt;" vertex="1">
+          <mxGeometry relative="1" y="1" as="geometry">
+            <mxPoint y="29" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
